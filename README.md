@@ -10,7 +10,7 @@
 
 - 🌱 Learning bits and pieces of software technologies, sometimes simlpy out of curiosity: frontend frameworks, machine learning, embedding programming, cloud and Github stuff, etc.
 
-- 📝 Write three other blogs (although not too regulary): [personal](https://krantasblog.blogspot.com/) | [Medium](https://medium.com/@alankrantas) | [Hackster.io](https://www.hackster.io/).
+- 📝 Write three other blogs (although not too regulary): [personal](https://krantasblog.blogspot.com/) | [Medium](https://medium.com/@alankrantas) | [Hackster.io](https://www.hackster.io/alankrantas).
 
 - ⚡ Fun fact: I've been a profession book translator twice as longer than as a developer and had learned amatuer classical piano for almost two decades.
 

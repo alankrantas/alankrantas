@@ -1,7 +1,7 @@
 
 ![profile](profile.jpg)
 
-# Hello! Neme's `Alan Wang`👋
+# Hello! Name's `Alan Wang`👋
 
 <h3>Technical Marketing Writer | Taipei, Taiwan</h3>
 

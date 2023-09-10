@@ -5,8 +5,8 @@
 
 <h3>Technical Marketing Writer | Taipei, Taiwan</h3>
 
-* Homepage: [**alankrantas.github.io**](https://alankrantas.github.io/)
-* Creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) of [FST Network](https://www.fst.network/)
+* My homepage: [**alankrantas.github.io**](https://alankrantas.github.io/)
+* Sole creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) of [FST Network](https://www.fst.network/)
 
 ---
 

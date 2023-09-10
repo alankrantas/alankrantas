@@ -1,12 +1,12 @@
 
 ![profile](profile.jpg)
 
-# Hello! Name's `Alan Wang`👋
+# Name's `Alan Wang`👋
 
-<h3>Technical Marketing Writer | Taipei, Taiwan</h3>
+<h3>Technical Writer | Taipei, Taiwan</h3>
 
 * My homepage: [**alankrantas.github.io**](https://alankrantas.github.io/)
-* Sole creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) of [FST Network](https://www.fst.network/)
+* Sole creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) at [FST Network](https://www.fst.network/)
 
 ---
 

@@ -1,12 +1,12 @@
 
 ![profile](profile.jpg)
 
-# Name's `Alan Wang`👋
+# Alan Wang👋
 
-<h3>Technical Writer | Taipei, Taiwan</h3>
+`Technical Writer` | Taipei, Taiwan
 
-* My homepage: [**alankrantas.github.io**](https://alankrantas.github.io/)
-* Sole creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) at [FST Network](https://www.fst.network/)
+* Homepage: [**alankrantas.github.io**](https://alankrantas.github.io/)
+* Currently the creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) for [FST Network](https://www.fst.network/)'s Logic Operating Centre
 
 ---
 

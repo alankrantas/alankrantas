@@ -1,7 +1,7 @@
 
 ![profile](profile.jpg)
 
-### Alan Wang👋
+## Alan Wang👋
 
 Technical Writer | Taipei, Taiwan
 

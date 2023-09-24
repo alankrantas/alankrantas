@@ -1,9 +1,9 @@
 
 ![profile](profile.jpg)
 
-# Alan Wang👋
+### Alan Wang👋
 
-`Technical Writer` | Taipei, Taiwan
+Technical Writer | Taipei, Taiwan
 
 * Homepage: [**alankrantas.github.io**](https://alankrantas.github.io/)
 * Currently the creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) for [FST Network](https://www.fst.network/)'s Logic Operating Centre

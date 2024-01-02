@@ -3,10 +3,10 @@
 
 ## Hello! Name's Alan Wang👋
 
-A half-writer, half-developer currently based in Taipei, Taiwan.
+A half-writer, half-developer (and former translator) currently based in Taipei, Taiwan.
 
 * Homepage: [**alankrantas.github.io**](https://alankrantas.github.io/)
-* Creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) for [FST Network](https://www.fst.network/)'s serverless data integration platform, Logic Operating Centre
+* Creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/), the official user guide for [FST Network](https://www.fst.network/)'s serverless data integration platform, Logic Operating Centre
 
 ---
 

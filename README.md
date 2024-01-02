@@ -6,7 +6,7 @@
 A half-writer, half-developer currently based in Taipei, Taiwan.
 
 * Homepage: [**alankrantas.github.io**](https://alankrantas.github.io/)
-* Ccreator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) for [FST Network](https://www.fst.network/)'s Logic Operating Centre
+* Creator and maintainer of [**LOC Documentation**](https://documentation.loc.fst.network/) for [FST Network](https://www.fst.network/)'s serverless data integration platform, Logic Operating Centre
 
 ---
 

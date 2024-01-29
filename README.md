@@ -7,7 +7,7 @@
 
 ## Name's Alan Wang👋
 
-A software engineer/writer and former translator/editor currently based in Tapipei, Taiwan.
+A software engineer/writer with translator/editor experiences, currently based in Tapipei, Taiwan.
 
-* [Homepage](https://alankrantas.github.io/) and [résumé](https://www.cakeresume.com/krantas)
-* Currently the creator and maintainer of [LOC Documentation](https://documentation.loc.fst.network/), official user guide for [FST Network](https://www.fst.network/)'s serverless data integration platform, Logic Operating Centre.
+* Know more about me at my [homepage](https://alankrantas.github.io/) or my [résumé](https://github.com/alankrantas/alankrantas/blob/1b5dff0554f18f830e4be17f1617e7bda4ff807f/Alan%20Wang%20-%20Technical%20Writer%20-%20Jan%202024.pdf)
+* Currently writing, developing and maintaining [LOC Documentation](https://documentation.loc.fst.network/), the official user guide for [FST Network](https://www.fst.network/)'s serverless data product platform, _Logic Operating Centre_.

@@ -1,9 +1,9 @@
 # Hello! I'm Alan Wang👋
 
-- A software engineer/writer/translator based in Taipei, Taiwan
-- [Homepage](https://alankrantas.github.io/) and [résumé](https://www.cakeresume.com/krantas)
-- Had been the creator and maintainer of [LOC Documentation](https://loc-documentation.vercel.app/) for FST Network (Oct 2022 ~ July 2024)
-- Shared articles on [Medium](https://medium.com/@alankrantas) and Maker projects on [Hackster.io](https://www.hackster.io/alankrantas/projects)
+- Software engineer/technical writer/translator
+- Based in Taipei, Taiwan
+- [Homepage](https://alankrantas.github.io/)
+- [Résumé](https://www.cakeresume.com/krantas)
 
 ![profile](profile.jpg)
 

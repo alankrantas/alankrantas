@@ -4,7 +4,7 @@ Software engineer/technical writer/translator
 
 - Based in Taipei, Taiwan
 - To know more about me, visit my [homepage](https://alankrantas.github.io/) and [résumé](https://www.cakeresume.com/krantas)
-- Created and maintained [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Aug 2022 ~ July 2024)
+- Created and maintained [LOC Documentation](https://loc-documentation.vercel.app/) (archived site) for [FST Network](https://www.fst.network/) (Aug 2022 ~ July 2024)
 
 ![profile](profile.jpg)
 

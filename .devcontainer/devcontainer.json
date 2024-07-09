@@ -10,7 +10,7 @@
 		"ghcr.io/devcontainers/features/desktop-lite:1": {},
 		"ghcr.io/devcontainers-contrib/features/apt-get-packages:1": {},
 		"ghcr.io/devcontainers-contrib/features/wget-apt-get:1": {},
-		"ghcr.io/devcontainers-contrib/features/curl-apt-get:1": {},
+		"ghcr.io/devcontainers-contrib/features/curl-apt-get:1": {}
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [6080],
@@ -20,7 +20,7 @@
 		}
 	},
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "updateContentCommand": "",
+	"updateContentCommand": "apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -y firefox-esr",
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {

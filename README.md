@@ -1,6 +1,6 @@
 # Hello! I'm Alan Wang👋
 
-Software engineer/technical writer/translator
+Technical Writer/Software Engineer/Translator
 
 - Born and based in Taipei, Taiwan
 - A quick, passionate learner with a creative mind, easy-going personality as well as down-to-earth working attitude

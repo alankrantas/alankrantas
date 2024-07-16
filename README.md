@@ -1,6 +1,6 @@
 # Hello! I'm Alan Wang👋
 
-#### Currently Open For Work!
+### Currently OPEN FOR WORK!
 
 - Born and based in **Taipei, Taiwan**
 - A **technical writer** with various **software engineer** skills and professional **translator** background

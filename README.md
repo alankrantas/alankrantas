@@ -1,6 +1,7 @@
 # Hello! I'm Alan Wang👋
 
-A **technical writer** with various **software engineer** skills and professional **translator** background; born, raised and based in **Taipei, Taiwan**
+- Technical writer/software engineer/translator
+- Based in Taipei, Taiwan
 
 ### Official Works
   
@@ -8,8 +9,8 @@ A **technical writer** with various **software engineer** skills and professiona
 
 ### Links
 
-- [**Homepage**](https://alankrantas.github.io/)
-- [**LinkedIn**](https://www.linkedin.com/in/alankrantas/)
+- [Homepage](https://alankrantas.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 
 ![profile](profile.jpg)
 

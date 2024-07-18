@@ -1,9 +1,15 @@
 # Hello! I'm Alan Wang👋
 
-- Born and based in **Taipei, Taiwan**
-- A **technical writer** with various **software engineer** skills and professional **translator** background
-- Visit my [**homepage**](https://alankrantas.github.io/), [**LinkedIn** profile](https://www.linkedin.com/in/alankrantas/) or [online **résumé**](https://www.cakeresume.com/krantas) to know more about me
-- Created and maintained [LOC Documentation](https://loc-documentation.vercel.app/) (archived site) for [FST Network](https://www.fst.network/) (Aug 2022 ~ July 2024)
+A **technical writer** with various **software engineer** skills and professional **translator** background; born, raised and based in **Taipei, Taiwan**
+
+### Official Works
+  
+- Creator and maintainer of [FST Network](https://www.fst.network/)'s [LOC Documentation](https://loc-documentation.vercel.app/) (Aug 2022 ~ Jul 2024)
+
+### Links
+
+- [**Homepage**](https://alankrantas.github.io/)
+- [**LinkedIn**](https://www.linkedin.com/in/alankrantas/)
 
 ![profile](profile.jpg)
 

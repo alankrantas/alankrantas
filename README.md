@@ -3,11 +3,11 @@
 - Technical writer/software engineer/translator
 - Based in Taipei, Taiwan
 
-### Official Works
+## Works
   
 - Creator and maintainer of [FST Network](https://www.fst.network/)'s [LOC Documentation](https://loc-documentation.vercel.app/) (Aug 2022 ~ Jul 2024)
 
-### Links
+## Links
 
 - [Homepage](https://alankrantas.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)

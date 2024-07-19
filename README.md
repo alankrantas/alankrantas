@@ -1,7 +1,6 @@
 # Hello! I'm Alan Wang👋
 
-- Technical writer/software engineer/translator
-- Based in Taipei, Taiwan
+A technical writer, software engineer and translator based in Taipei, Taiwan
 
 ## Works
   
@@ -11,6 +10,7 @@
 
 - [Homepage](https://alankrantas.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
+- [Resume/CV](https://www.cakeresume.com/krantas)
 
 ![profile](profile.jpg)
 

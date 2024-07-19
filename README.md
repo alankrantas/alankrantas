@@ -1,12 +1,12 @@
 # Hello! I'm [Alan Wang](https://alankrantas.github.io/)👋
 
-A technical writer based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/))
+Technical writer (software/IT-related) based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/))
 
 ### Areas of Expertise
 
-- Technical and/or marketing content writing
+- Technical, marketing, educational or documentation content writing
 - Translating (English to/from Traditional Chinese)
-- Software engineering (frontend, backend, container, embedded programming, machine learning and else)
+- Software engineering (basic to proficient level in frontend, backend, container/cloud, embedded programming/IoT, practical machine learning, etc.)
 
 ### Official Works
 

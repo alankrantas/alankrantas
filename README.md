@@ -1,14 +1,10 @@
-# Hello! I'm Alan Wang👋
+# Hello! I'm [Alan Wang](https://alankrantas.github.io/)👋
 
-A technical writer, software engineer and translator based in Taipei, Taiwan
+A technical writer/software engineer/translator based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/))
 
-- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
-- [Resume/CV](https://www.cakeresume.com/krantas)
-- 
-## Works
+## Official Projects
 
-- [Homepage](https://alankrantas.github.io/) (Svelte/SvelteKit) (Sep 2022 - Now)
-- [LOC Documentation](https://loc-documentation.vercel.app/) (Docusaurus/React) (Aug 2022 - Jul 2024)
+- [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Aug 2022 - Jul 2024)
 
 ![profile](profile.jpg)
 

@@ -4,9 +4,9 @@ Technical writer (software/IT-related) based in Taipei, Taiwan. ([LinkedIn](http
 
 ### Areas of Expertise
 
-- Technical, marketing, educational or documentation content writing
+- Technical, marketing, educational or documentation content planning/writing
 - Translating (English to/from Traditional Chinese)
-- Software engineering (basic to proficient level in frontend, backend, container/cloud, embedded programming/IoT, practical machine learning, etc.)
+- Software engineering (entry to proficient level in frontend, backend, container/cloud, embedded programming/IoT, practical machine learning, etc.)
 
 ### Official Works
 

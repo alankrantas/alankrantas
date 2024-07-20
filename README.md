@@ -1,6 +1,6 @@
-# Hello! I'm [Alan Wang](https://alankrantas.github.io/)👋
+# Hello! I'm Alan Wang👋
 
-Technical writer (software/IT-related) based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/))
+Technical writer (software/IT-related) based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/)) ([Homepage](https://alankrantas.github.io/))
 
 ### Professional Competencies
 
@@ -10,12 +10,12 @@ Technical writer (software/IT-related) based in Taipei, Taiwan. ([LinkedIn](http
 
 ### Official Projects
 
-- [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Aug 2022 - Jul 2024)
+- [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Docusaurus/React, Aug 2022 - Jul 2024)
 
 ### Open Source Project Contributions
 
-- Half a dozen sensor/display drivers for [TinyGo Drivers](https://github.com/tinygo-org/drivers)
-- A few extensions for [micro:bit MakeCode (PXT)](https://makecode.microbit.org/extensions)
+- Half a dozen sensor/display drivers for [TinyGo Drivers](https://github.com/tinygo-org/drivers) (TinyGolang)
+- A few extensions for [micro:bit MakeCode (PXT)](https://makecode.microbit.org/extensions) (TypeScript)
 
 ![profile](profile.jpg)
 

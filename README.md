@@ -2,13 +2,13 @@
 
 Technical writer (software/IT-related) based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/))
 
-### Areas of Expertise
+### Professional Competencies
 
-- Technical, marketing, educational or documentation content planning/writing
+- Writing and refining technical, marketing, educational or documentation content
 - Translating (English to/from Traditional Chinese)
 - Software engineering (entry to proficient level in frontend, backend, container/cloud, embedded programming/IoT, practical machine learning, etc.)
 
-### Official Works
+### Official Projects
 
 - [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Aug 2022 - Jul 2024)
 

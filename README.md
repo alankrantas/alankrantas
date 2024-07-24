@@ -1,21 +1,16 @@
 # Hello! I'm Alan Wang👋
 
-Technical writer (software/IT-related) based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/)) ([Homepage](https://alankrantas.github.io/))
+Technical writer based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/)) ([Homepage](https://alankrantas.github.io/))
 
-### Professional Competencies
+## Professional Competencies
 
-- Writing and refining technical, marketing, educational or documentation content
+- Content writing (technical, marketing, educational/training or documentation)
 - Translating (English to/from Traditional Chinese)
 - Software engineering (entry to proficient level in frontend, backend, container/cloud, embedded programming/IoT, practical machine learning, etc.)
 
-### Official Projects
+## Official Projects
 
-- [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Docusaurus/React, Aug 2022 - Jul 2024)
-
-### Open Source Project Contributions
-
-- Half a dozen sensor/display drivers for [TinyGo Drivers](https://github.com/tinygo-org/drivers) (TinyGolang)
-- A few extensions for [micro:bit MakeCode (PXT)](https://makecode.microbit.org/extensions) (TypeScript)
+- [LOC Documentation](https://loc-documentation.vercel.app/) (Docusaurus/React, Aug 2022 - Jul 2024): user's manual, references and tutorials (JavaScript, TypeScript and C#) for FST Network's serverless data product platform, [Logic Operating Centre](https://www.fst.network/logic-operation-centre).
 
 ![profile](profile.jpg)
 

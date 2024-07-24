@@ -7,7 +7,7 @@ Technical writer based in Taipei, Taiwan.
 
 ## Official Projects
 
-- [LOC Documentation](https://loc-documentation.vercel.app/) (Docusaurus/React, Aug 2022 - Jul 2024)
+- [LOC Documentation](https://loc-documentation.vercel.app/) (Aug 2022 - Jul 2024)
 
 ![profile](profile.jpg)
 

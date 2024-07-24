@@ -1,13 +1,10 @@
 # Hello! I'm Alan Wang👋
 
-Technical writer based in Taipei, Taiwan.
-
-- [Homepage](https://alankrantas.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
+Technical writer based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/)) ([Homepage](https://alankrantas.github.io/))
 
 ## Official Projects
 
-- [LOC Documentation](https://loc-documentation.vercel.app/) (Aug 2022 - Jul 2024)
+- [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Aug 2022 - Jul 2024)
 
 ![profile](profile.jpg)
 

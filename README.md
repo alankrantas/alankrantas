@@ -10,7 +10,7 @@ Technical writer based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/i
 
 ## Official Projects
 
-- [LOC Documentation](https://loc-documentation.vercel.app/) (Docusaurus/React, Aug 2022 - Jul 2024): user's manual, references and tutorials (JavaScript, TypeScript and C#) for FST Network's serverless data product platform, [Logic Operating Centre](https://www.fst.network/logic-operation-centre).
+- [LOC Documentation](https://loc-documentation.vercel.app/) (Docusaurus/React, Aug 2022 - Jul 2024) for FST Network's [Logic Operating Centre](https://www.fst.network/logic-operation-centre)
 
 ![profile](profile.jpg)
 

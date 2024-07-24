@@ -1,16 +1,13 @@
 # Hello! I'm Alan Wang👋
 
-Technical writer based in Taipei, Taiwan. ([LinkedIn](https://www.linkedin.com/in/alankrantas/)) ([Homepage](https://alankrantas.github.io/))
+Technical writer based in Taipei, Taiwan.
 
-## Professional Competencies
-
-- Content writing (technical, marketing, educational/training or documentation)
-- Translating (English to/from Traditional Chinese)
-- Software engineering (entry to proficient level in frontend, backend, container/cloud, embedded programming/IoT, practical machine learning, etc.)
+- [Homepage](https://alankrantas.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 
 ## Official Projects
 
-- [LOC Documentation](https://loc-documentation.vercel.app/) (Docusaurus/React, Aug 2022 - Jul 2024) for FST Network's [Logic Operating Centre](https://www.fst.network/logic-operation-centre)
+- [LOC Documentation](https://loc-documentation.vercel.app/) (Docusaurus/React, Aug 2022 - Jul 2024)
 
 ![profile](profile.jpg)
 

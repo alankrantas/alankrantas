@@ -23,7 +23,7 @@ python -m pip install --upgrade pip
 
 pip3 install --upgrade wheel setuptools numpy scipy matplotlib pandas seaborn scikit-learn flaml flaml[automl] opencv-python flask --user
 
-pip3 install --upgrade tensorflow==2.15.0 tensorflow-cpu==2.15.0
+pip3 install --upgrade tensorflow tensorflow-cpu
 
 pip3 cache purge
 ```
@@ -46,22 +46,22 @@ Find the [platform version](https://go.dev/dl/) you need and
 #### AMD64
 
 ```bash
-wget https://go.dev/dl/go1.22.6.linux-amd64.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.22.6.linux-amd64.tar.gz
+wget https://go.dev/dl/go1.23.1.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.1.linux-amd64.tar.gz
 ```
 
 #### ARM64
 
 ```bash
-wget https://go.dev/dl/go1.22.6.linux-arm64.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.22.6.linux-arm64.tar.gz
+wget https://go.dev/dl/go1.23.1.linux-arm64.tar.gz
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.1.linux-arm64.tar.gz
 ```
 
 #### ARM 32-bit
 
 ```bash
-wget https://go.dev/dl/go1.22.6.linux-armv6l.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.22.6.linux-armv6l.tar.gz
+wget https://go.dev/dl/go1.23.1.linux-armv6l.tar.gz
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.1.linux-armv6l.tar.gz
 ```
 
 #### First Installation
@@ -91,22 +91,22 @@ Find the [platform version](https://github.com/tinygo-org/tinygo/releases) you n
 #### AMD64
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.31.2/tinygo_0.31.2_amd64.deb
-sudo dpkg -i tinygo_0.31.2_amd64.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.33.0_amd64.deb
+sudo dpkg -i tinygo_0.33.0_amd64.deb
 ```
 
 #### ARM64
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.31.2/tinygo_0.31.2_arm64.deb
-sudo dpkg -i tinygo_0.31.2_arm64.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.33.0_arm64.deb
+sudo dpkg -i tinygo_0.33.0_arm64.deb
 ```
 
 #### ARM 32-bit
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.31.2/tinygo_0.31.2_armhf.deb
-sudo dpkg -i tinygo_0.31.2_armhf.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.33.0_armhf.deb
+sudo dpkg -i tinygo_0.33.0_armhf.deb
 ```
 
 #### First Installation

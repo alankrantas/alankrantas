@@ -7,11 +7,11 @@
 ```bash
 sudo apt install python3 python3-pip python3-dev python3-venv python3-wheel python3-setuptools
 
-sudo python3 -m pip install --upgrade pip
+sudo python3 -m pip install --upgrade pip --break-system-packages
 
-sudo pip3 install --upgrade numpy scipy matplotlib pandas seaborn scikit-learn opencv-python flask
+sudo pip3 install --upgrade numpy scipy matplotlib pandas seaborn scikit-learn opencv-python flask --break-system-packages
 
-sudo pip3 install --upgrade tensorflow autokeras flaml flaml[automl]
+sudo pip3 install --upgrade tensorflow autokeras flaml flaml[automl] --break-system-packages
 
 sudo pip3 cache purge
 ```

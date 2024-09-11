@@ -1,6 +1,6 @@
 # Hello! I'm Alan Wang👋
 
-A writer and former software engineer/translator based in Taipei, Taiwan.
+A technical writer/copywriter with software engineer/translator backgrounds based in Taipei, Taiwan.
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 
@@ -19,7 +19,7 @@ A writer and former software engineer/translator based in Taipei, Taiwan.
   - [Medium](https://medium.com/@alankrantas)
   - [Hackster.io](https://www.hackster.io/alankrantas)
 
-- Official projects:
+- Official documentation project:
   - [*LOC Documentation*](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Aug 2022 - Jul 2024)
 
 - Open source project contributions:

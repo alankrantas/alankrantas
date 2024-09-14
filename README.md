@@ -20,7 +20,9 @@ A technical writer/copywriter with software engineer/translator backgrounds base
   - [Hackster.io](https://www.hackster.io/alankrantas)
 
 - Official documentation project:
-  - [*LOC Documentation*](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Aug 2022 - Jul 2024)
+  - [FST Network](https://www.fst.network/):
+    - [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide for _Logic Operating Centre (LOC)_ (Aug 2022 - Jul 2024)
+    - A few [blog posts](https://www.fst.network/blog) (Sep 2022 - Dec 2022)
 
 - Open source project contributions:
   - [Extensions for Microsoft MakeCode pxt-microbit](https://makecode.microbit.org/extensions)

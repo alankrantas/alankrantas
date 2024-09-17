@@ -12,7 +12,7 @@ A technical writer/copywriter with software engineer/translator backgrounds base
 
 - Résumé:
   - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
-  - [Cakeresume](https://www.cakeresume.com/krantas)
+  - [Cake](https://www.cake.me/krantas)
 
 - Blogs:
   - [Blogger](https://krantasblog.blogspot.com/)

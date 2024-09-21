@@ -19,12 +19,11 @@ A technical writer/copywriter with software engineer/translator backgrounds base
   - [Medium](https://medium.com/@alankrantas)
   - [Hackster.io](https://www.hackster.io/alankrantas)
 
-- Official documentation project:
+- Official documentation project(s):
   - [FST Network](https://www.fst.network/):
     - [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide for _Logic Operating Centre (LOC)_ (Aug 2022 - Jul 2024)
-    - A few technical [blog posts](https://www.fst.network/blog) (Sep 2022 - Dec 2022)
 
-- Open source project contributions:
+- Open source project contribution(s):
   - [Extensions for Microsoft MakeCode pxt-microbit](https://makecode.microbit.org/extensions)
   - [TinyGo Drivers](https://pkg.go.dev/tinygo.org/x/drivers)
   - MicroPython drivers including [TEA5767](https://github.com/alankrantas/micropython-TEA5767)

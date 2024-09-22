@@ -18,12 +18,13 @@ A technical writer/copywriter with software engineer/translator backgrounds base
   - [Medium](https://medium.com/@alankrantas) (mostly software/tech)
   - [Hackster.io](https://www.hackster.io/alankrantas) (Maker projects)
 
-- Official project(s):
+- Official projects:
   - Documentation:
     - [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (archived in private repo) (Aug 2022 - Jul 2024)
-  - List of [published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
+  - Published works:
+    - [List of published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
-- Open source project contribution(s):
+- Open source project contributions:
   - Several [TypeScript extensions for Microsoft MakeCode pxt-microbit](https://makecode.microbit.org/extensions), including [Nexus:bit/NexusBot](https://github.com/alankrantas/pxt-nexusbit)
   - Several [TinyGo Drivers](https://pkg.go.dev/tinygo.org/x/drivers) ported from Arduino or MicroPython versions
   - A few MicroPython drivers, including [TEA5767](https://github.com/alankrantas/micropython-TEA5767)

@@ -25,7 +25,7 @@ A technical writer/copywriter with software engineer/translator backgrounds base
     - [List of published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
 - Open source project contributions:
-  - Several [TypeScript extensions for Microsoft MakeCode pxt-microbit](https://makecode.microbit.org/extensions), including [Nexus:bit/NexusBot](https://github.com/alankrantas/pxt-nexusbit)
+  - Several [TypeScript extensions for Microsoft MakeCode pxt-microbit](https://makecode.microbit.org/extensions)
   - Several [TinyGo Drivers](https://pkg.go.dev/tinygo.org/x/drivers) ported from Arduino or MicroPython versions
   - A few MicroPython drivers, including [TEA5767](https://github.com/alankrantas/micropython-TEA5767)
 

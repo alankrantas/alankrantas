@@ -1,4 +1,4 @@
-# Alan Wang 出版作品列表
+# Alan Wang 出版作品列表 (list of published titles)
 
 ## 編輯 (editorial works)
 

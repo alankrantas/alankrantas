@@ -22,7 +22,7 @@ A technical writer/copywriter with software engineer/translator backgrounds base
   - Documentation:
     - [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (archived in private repo) (Aug 2022 - Jul 2024)
   - Published works:
-    - [List of published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
+    - [List of published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
 
 - Open source project contributions:
   - Several [TypeScript extensions for Microsoft MakeCode pxt-microbit](https://makecode.microbit.org/extensions)

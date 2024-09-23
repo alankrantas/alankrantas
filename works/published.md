@@ -4,9 +4,9 @@
 
 - 《決戰！微前端架構 Micro Frontends：新一代可擴展的網頁開發模式》 _(Micro Frontends in Action; Michael Geers, 旗標科技; 2023)_
 - 《Raspberry Pi 樹莓派：Python x AI 超應用聖經》 _(陳會安, 旗標科技; 2022)_
-- 《AutoML 自動化機器學習：用 AutoKeras 超輕鬆打造高效能 AI 模型》 _(Automated Machine Learning with AutoKeras: Deep learning Made Accessible For Everyone With Just Few Lines of Coding; Luis Sobrecueva, 旗標科技; 2021)_
-- 《TypeScript 邁向專家之路：零基礎 JavaScript 打通 Angular、React 與 Vue.js 前端框架實戰》 _(Essential TypeScript: From Beginner to Pro; Adam Freema, 旗標科技; 2021)_
-- 《完全自學！Go 語言 (Golang) 實戰聖經》 _(The Go Workshop: Learn to Write Clean, Efficient Code and Build High-Performance Applications With Go; Delio D'Anna, Andrew Hayes, Sam Hennessy, Jeremy Leasor, Gobin Sougrakpam & Daniel Szabo, 旗標科技; 2021)_
+- 《AutoML 自動化機器學習：用 AutoKeras 超輕鬆打造高效能 AI 模型》 _(Automated Machine Learning with AutoKeras: Deep learning Made Accessible for Everyone with Just Few Lines of Coding; Luis Sobrecueva, 旗標科技; 2021)_
+- 《TypeScript 邁向專家之路：零基礎 JavaScript 打通 Angular、React 與 Vue.js 前端框架實戰》 _(Essential TypeScript: from Beginner to Pro; Adam Freema, 旗標科技; 2021)_
+- 《完全自學！Go 語言 (Golang) 實戰聖經》 _(The Go Workshop: Learn to Write Clean, Efficient Code and Build High-Performance Applications with Go; Delio D'Anna, Andrew Hayes, Sam Hennessy, Jeremy Leasor, Gobin Sougrakpam & Daniel Szabo, 旗標科技; 2021)_
 - 《必學！Python 資料科學‧機器學習最強套件 － NumPy、Pandas、Matplotlib、OpenCV、scikit-learn、tf.Keras》 _(Pythonで動かして学ぶ！あたらしい深層学習の教科書 機械学習の基本から深層学習まで; 石川聡彦, 旗標科技; 2021, 協力編輯)_
 - 《Python 刷題鍛鍊班：老手都刷過的 50 道程式題, 求職面試最給力》 _(Python Workout: 50 Essential Exercises; Reuven M. Lerner, 旗標科技; 2021)_
 - 《Python 神乎其技 全新超譯版》 _(Python Tricks: A Buffet of Awesome Python Features; Dan Bader, 旗標科技; 2020)_
@@ -48,7 +48,7 @@
 - 《第一法則首部曲：劍刃自身》 _(The Blade Itself; 喬‧艾伯康比, 奇幻基地; 2013)_
 - 《六號抽水站》 _(Pump Six and Other Stories; 保羅‧巴奇加盧比, 晨星出版; 2013)_
 - 《天使禁區》 _(Level 2; 麗諾‧艾普漢絲, 奇幻基地; 2013)_
-- 《超時空規劃局 3：思緒失落》 _(The Seems: The Lost Train Of Thought; 約翰‧霍米、麥克‧韋斯勒, 晨星出版; 2012)_
+- 《超時空規劃局 3：思緒失落》 _(The Seems: The Lost Train of Thought; 約翰‧霍米、麥克‧韋斯勒, 晨星出版; 2012)_
 - 《超時空規劃局 2：時空分裂》 _(The Seems: The Split Second; 約翰‧霍米、麥克‧韋斯勒, 晨星出版; 2012)_
 - 《費洛瑞之書：魔法王者》 _(The Magicians; 萊夫‧葛羅斯曼, 就是創意; 2012)_
 - 《超時空規劃局 1：臭蟲入侵》 _(The Seems: The Glitch in Sleep; 約翰‧霍米、麥克‧韋斯勒, 晨星出版; 2012)_

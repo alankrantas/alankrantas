@@ -18,6 +18,7 @@
 
 - 《跨領域學 Python：資料科學基礎養成》 _(旗標科技; 2020)_
 - 《Flag's 創客‧自造者工作坊 Python 感測器大應用 - 智慧生活 X 雲端》 _(旗標科技; 2020)_
+- 《micro:bit x NexusBot：孩子的第一本機器人指南》 _(台灣程式教育協進會; 2020)_
 - 《micro:bit x Thunder:bit：孩子的第一本創客指南》 _(台灣程式教育協進會; 2019)_
 - 《孩子的第一本 micro:bit 程式學習書》 _(台灣程式教育協進會; 2019)_
 - 「結合 UML 需求塑模的 Web2.0 後設架構分析 ─ 以 ETF 平台為例」 _(Web 2.0 meta-architecture analysis incorporated into UML requirements modeling: By the Case of ETF platform; 政治大學; 2008)_

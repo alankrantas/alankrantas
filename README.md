@@ -14,18 +14,20 @@ A technical writer/copywriter with software engineer/translator backgrounds base
   - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
   - [Cake](https://www.cake.me/krantas)
 
-- Tech Blogs:
+- Tech blogs:
   - [Medium](https://medium.com/@alankrantas) (mostly software/tech)
   - [Hackster.io](https://www.hackster.io/alankrantas) (Maker projects)
 
 - Official projects:
-  - Documentation:
-    - [LOC Documentation](https://loc-documentation.vercel.app/) for FST Network (archived in private repo) (Aug 2022 - Jul 2024)
   - Published works:
-    - [List of published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
+    - [List of editorial/authored/translated works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
+  - Documentation:
+    - [LOC Documentation](https://loc-documentation.vercel.app/) for FST Network (Aug 2022 - Jul 2024, archived in private repo)
+  - Technical marketing:
+    - Several [blog posts](https://www.fst.network/blog) at FST Network website (Sep - Dec 2022)
 
 - Open source project contributions:
-  - Several [Microsoft Makecode PXT-microbit extensions](https://makecode.microbit.org/extensions) (TypeScript)
+  - Several Microsoft [PXT-microbit extensions](https://makecode.microbit.org/extensions) (TypeScript)
   - Several [TinyGo Drivers](https://pkg.go.dev/tinygo.org/x/drivers)
   - A few MicroPython drivers, including [TEA5767](https://github.com/alankrantas/micropython-TEA5767)
 

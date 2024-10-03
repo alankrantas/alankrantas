@@ -20,7 +20,7 @@ A technical writer/copywriter with software engineer/translator backgrounds base
 
 - Official projects:
   - Published works:
-    - [List of editorial/authored/translated works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
+    - [List of editorial, authored and translated works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
   - Documentation:
     - [LOC Documentation](https://loc-documentation.vercel.app/) for FST Network (Aug 2022 - Jul 2024, archived in private repo)
   - Technical marketing:

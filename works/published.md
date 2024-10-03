@@ -1,8 +1,6 @@
-# 出版作品列表 (list of published works)
+# List of Editorial, Authored and Translated Works By [Alan Wang](https://github.com/alankrantas)
 
-> by [Alan Wang](https://github.com/alankrantas)
-
-## 編輯 (editorial titles)
+## Editorial Titles (編輯)
 
 - 《決戰！微前端架構 Micro Frontends：新一代可擴展的網頁開發模式》 _(Micro Frontends in Action; Michael Geers, 旗標科技; 2023)_
 - 《Raspberry Pi 樹莓派：Python x AI 超應用聖經》 _(陳會安, 旗標科技; 2022)_
@@ -14,7 +12,7 @@
 - 《Python 神乎其技 全新超譯版》 _(Python Tricks: A Buffet of Awesome Python Features; Dan Bader, 旗標科技; 2020)_
 - 《冷戰諜魂》 _(The Spy Who Came in from the Cold; 約翰‧勒卡雷, 木馬文化; 2014, 協力編輯)_
 
-## 著作 (authored titles)
+## Authored Titles (著作)
 
 - 《跨領域學 Python：資料科學基礎養成》 _(旗標科技; 2020)_
 - 《Flag's 創客‧自造者工作坊 Python 感測器大應用 - 智慧生活 X 雲端》 _(旗標科技; 2020)_
@@ -23,7 +21,7 @@
 - 《孩子的第一本 micro:bit 程式學習書》 _(台灣程式教育協進會; 2019)_
 - 「結合 UML 需求塑模的 Web2.0 後設架構分析 ─ 以 ETF 平台為例」 _(Web 2.0 meta-architecture analysis incorporated into UML requirements modeling: By the Case of ETF platform; 政治大學; 2008)_
 
-## 翻譯 (translated titles)
+## Translated Titles (翻譯)
 
 - 《隱形人》 _(The Invisible Man; H. G. 威爾斯, 好讀出版; 2018)_
 - 《無聲角落》 _(The Silent Corner; 丁‧昆士, 高寶書版; 2018)_

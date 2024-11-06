@@ -4,7 +4,7 @@ A technical writer with software engineer/translator backgrounds based in Taipei
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
-- [Cake](https://www.cake.me/krantas)
+- [Résumé/CV](https://www.cake.me/krantas)
 
 ![profile](profile.jpg)
 

@@ -22,6 +22,7 @@
 | --- | --- | --- | --- | --- | --- |
 | The Python Book for Interdisciplinary Learning and Introduction for Data Science | 跨領域學 Python：資料科學基礎養成 | Alan Wang | 旗標科技 (Flag Publishing) | 2020 | Also the editor |
 | Flag's Maker Workshop: Using Smart Cloud Sensors with Python | Flag's 創客‧自造者工作坊 Python 感測器大應用 | Alan Wang | 旗標科技 (Flag Publishing) | 2020 | Also the photographer for illustrations |
+| My First micro:bit Maker Guide: micro:bit Plus Thunder:bit | micro:bit x Thunder:bit：孩子的第一本創客指南 | Alan Wang | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 |  Also the photographer for illustrations |
 | My First micro:bit Maker Guide: micro:bit Plus Thunder:bit | micro:bit x NexusBot：孩子的第一本機器人指南 | Alan Wang | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 |  Also the photographer for illustrations |
 | My First micro:bit Programming Book | micro:bit x Thunder:bit：孩子的第一本創客指南 | Alan Wang | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2019 | Also the photographer for illustrations |
 | Web 2.0 meta-architecture analysis incorporated into UML requirements modeling | 結合 UML 需求塑模的 Web2.0 後設架構分析 | Alan Wang | 政治大學 (National Chengchi University) | 2008 | My master's thesis |

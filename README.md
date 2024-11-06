@@ -3,6 +3,8 @@
 A technical writer with software engineer/translator backgrounds based in Taipei, Taiwan.
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
+- [Cake](https://www.cake.me/krantas)
 
 ![profile](profile.jpg)
 
@@ -10,22 +12,17 @@ A technical writer with software engineer/translator backgrounds based in Taipei
 > 
 > --- _The Hitchhiker's Guide to the Galaxy_
 
-- Résumé:
-  - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
-  - [Cake](https://www.cake.me/krantas)
-
-- Tech blogs:
-  - [Medium](https://medium.com/@alankrantas) (mostly software/tech)
-  - [Hackster.io](https://www.hackster.io/alankrantas) (Maker projects)
-
 - Official projects:
   - Published works:
-    - [Full list of editorial, authored and translated works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
+    - [Full list of **editorial, authored and translated titles**](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
   - Documents and Documentation:
-    - [LOC Documentation](https://loc-documentation.vercel.app/) for FST Network (Aug 2022 - Jul 2024, archived in private repo)
-    - Product White Paper Copywriting for XREX Inc. (Sep 2024 - Oct 2024)
-  - Others:
-    - [Marketing blog posts](https://www.fst.network/blog) at FST Network website (Sep - Dec 2022)
+    - [**LOC Documentation**](https://loc-documentation.vercel.app/) for FST Network (Aug 2022 - Jul 2024, archived in private repo)
+    - **Product White Paper Copywriting** for XREX Inc. (Sep 2024 - Oct 2024)
+
+- Tech blogs:
+  - [Official marketing blog posts](https://www.fst.network/blog) at FST Network website (Sep - Dec 2022)
+  - [Medium](https://medium.com/@alankrantas) (mostly software/tech)
+  - [Hackster.io](https://www.hackster.io/alankrantas) (Maker projects)
 
 - Open source project contributions:
   - Several Microsoft [PXT-microbit extensions](https://makecode.microbit.org/extensions) (TypeScript)

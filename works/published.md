@@ -1,14 +1,12 @@
-# List of Published Titles By [Alan Wang](https://github.com/alankrantas)
+# List of Published Titles By [Alan Wang](https://alankrantas.github.io/)
 
-> All titles, ordered by publishing dates, are full-length works published in Taiwan in Traditional Chinese.
->
-> All editorial and translated works are based on non-Chinese works. All authored works are meant for local market and were not translated.
+> All titles, ordered by publishing dates, are full-length works published locally in Taiwan in Traditional Chinese.
 
 ---
 
 ## Editorial Titles (編輯作品)
 
-| Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _Micro Frontends in Action_ | 決戰！微前端架構 Micro Frontends | Michael Geers | 旗標科技 (Flag Publishing) | 2023 | Programming | |
 | _Raspberry Pi 4: The AI Application Bible_ | Raspberry Pi 樹莓派：Python x AI 超應用聖經 | 陳會安 | 旗標科技 (Flag Publishing) | 2022 | Programming, AI | |
@@ -36,7 +34,7 @@
 
 ## Translated Titles (翻譯作品)
 
-| Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Invisible Man_ | 隱形人 | H. G. Wells | 好讀出版 (Howdo Publishing) | 2018 | Fiction | |
 | _The Silent Corner_ | 無聲角落 | Dean Koontz | 高寶書版 (Global Publishing) | 2018 | Fiction | |

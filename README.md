@@ -1,6 +1,6 @@
 # Hello! I'm Alan Wang👋
 
-A technical writer/copywriter with software engineer/translator backgrounds based in Taipei, Taiwan.
+A technical writer with software engineer/translator backgrounds based in Taipei, Taiwan.
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 

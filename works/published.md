@@ -1,10 +1,12 @@
 # Full List of Published Titles By [Alan Wang](https://alankrantas.github.io/)
 
-> All titles, ordered by publishing dates, are full-length works published locally in Taiwan in Traditional Chinese.
+Note: all titles, ordered by publishing dates, are full-length works published locally in Taiwan in Traditional Chinese.
 
 ---
 
 ## Editorial Titles (編輯作品)
+
+> 9 titles
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,6 +24,8 @@
 
 ## Authored Titles (著作作品)
 
+> 5 titles
+
 | English Title | Original Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | _The Python and Data Science Book for Interdisciplinary Learning_ | 跨領域學 Python：資料科學基礎養成 | 旗標科技 (Flag Publishing) | 2020 | Programming, AI | Also the editor |
@@ -33,6 +37,8 @@
 ---
 
 ## Translated Titles (翻譯作品)
+
+> 38 titles
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |

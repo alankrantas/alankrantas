@@ -1,4 +1,4 @@
-# List of Published Works By [Alan Wang](https://github.com/alankrantas)
+# List of Published Titles By [Alan Wang](https://github.com/alankrantas)
 
 > All titles, ordered by publishing dates, are full-length works published in Taiwan in Traditional Chinese.
 >

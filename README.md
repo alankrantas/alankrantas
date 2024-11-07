@@ -19,11 +19,6 @@ A technical writer with software engineer/translator backgrounds based in Taipei
     - [**LOC Documentation**](https://loc-documentation.vercel.app/) for FST Network (Aug 2022 - Jul 2024, archived in private repo)
     - **Product White Paper Copywriting** for XREX Inc. (Sep 2024 - Oct 2024)
 
-- Tech blogs:
-  - [Official marketing blog posts](https://www.fst.network/blog) at FST Network website (Sep - Dec 2022)
-  - [Medium](https://medium.com/@alankrantas) (mostly software/tech)
-  - [Hackster.io](https://www.hackster.io/alankrantas) (Maker projects)
-
 - Open source project contributions:
   - Several Microsoft [PXT-microbit extensions](https://makecode.microbit.org/extensions) (TypeScript)
   - Several [TinyGo Drivers](https://pkg.go.dev/tinygo.org/x/drivers)

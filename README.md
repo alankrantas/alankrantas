@@ -12,12 +12,13 @@ A technical writer with software engineer/translator backgrounds based in Taipei
 > 
 > --- _The Hitchhiker's Guide to the Galaxy_
 
-- Official projects:
-  - Published works:
-    - [Full list of **editorial, authored and translated titles**](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
-  - Documents and Documentation:
-    - [**LOC Documentation**](https://loc-documentation.vercel.app/) for FST Network (Aug 2022 - Jul 2024, archived in private repo)
-    - **Product White Paper Copywriting** for XREX Inc. (Sep 2024 - Oct 2024)
+- Published works:
+  - [Full list of editorial, authored and translated titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (2010 - 2023)
+
+- Technical writing projects:
+  - [LOC Documentation](https://loc-documentation.vercel.app/) for FST Network (Aug 2022 - Jul 2024, deployed from an archived private repo)
+  - [Technical marketing articles](https://medium.com/fstnetwork) (Apr - Sep 2022) and [Marketing blog posts](https://www.fst.network/blog) (Sep - Dec 2022) for FST Network
+  - Product White Paper Copywriting for XREX Inc. (Sep 2024 - Oct 2024)
 
 - Open source project contributions:
   - Several Microsoft [PXT-microbit extensions](https://makecode.microbit.org/extensions) (TypeScript)

@@ -1,18 +1,16 @@
 # Writing Projects By [Alan Wang](https://alankrantas.github.io/)
 
-## Technical Writing
+## Technical Writing (技術寫作)
 
-### Document
+### Document & Documentation (文件)
 
 - Product White Paper Copywriting (XREX Inc., Sep - Oct 2024)
   - Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (Spot Trading, Margin Trading, Secured Loan, XREX/DeFi Staking, BitCheck, Deposit/Withdraw) based on materials and screenshots provided by the product team.
 
-### Documentation
-
 - [LOC Documentation](https://loc-documentation.vercel.app/) (FST Network, Apr 2022 - Jul 2024)
   - Write, maintain and deploy the official user's guide, SDK reference and an web-based code generation/unit test tool for FST Network's Logic Operating Centre (LOC), built with React.js-based Docusaurus 3.
 
-### Technical Marketing
+### Technical Marketing (技術行銷)
 
 - FST Network [Medium channel](https://medium.com/fstnetwork) (Apr - Sep 2022)
 

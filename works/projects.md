@@ -4,27 +4,30 @@
 
 ## Technical Writing (技術寫作)
 
-| Project | For | Period | Description |
-| --- | --- | --- | --- |
-| Product White Paper Copywriting | XREX Inc. | Sep - Oct 2024 | Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (_Spot Trading_, _Margin Trading_, _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_) based on materials and screenshots provided by the product team. |
-| [LOC Documentation](https://loc-documentation.vercel.app/) | FST Network (as employee) | Apr 2022 - Jul 2024 | Write, maintain and deploy the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's _Logic Operating Centre_ (LOC), built with React.js-based Docusaurus 3, based on information provided by the product and developer team upon each releases. |
+### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep 2024 - Oct 2024)
+
+Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (_Spot Trading_, _Margin Trading_, _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_) based on materials and screenshots provided by the product team.
+
+### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+
+Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), built with React.js-based Docusaurus 3, based on information provided by the product and developer team upon each releases.
 
 ---
 
 ## Technical Marketing (技術行銷)
 
-| Project | For | Period | Description |
-| --- | --- | --- | --- |
-| FST Network [official blog](https://www.fst.network/blog) | FST Network (as employee) | Sep - Dec 2022 | Technical marketing campaign, working with product and marketing team. |
-| FST Network [Medium channel](https://medium.com/fstnetwork) | FST Network (as employee) | Apr - Sep 2022 | Technical marketing blog posts, working with the developer team. |
+### Technical Marketing for FST Network
+
+- [FST Network official blog](https://www.fst.network/blog) (Sep 2022 - Dec 2022)
+- [FST Network Medium channel](https://medium.com/fstnetwork) (Apr 2022 - Sep 2022)
 
 ---
 
 ## Article (文章)
 
-### The Affairs (編集者)
+### Literary Column for [The Affairs](https://www.theaffairs.com/)
 
-> Science fiction and fantasy literary column on a newspaper-like magazine around 2018 to 2019. They were all re-published online in 2020.
+> Science fiction and fantasy book reviews on magazine The Affairs (編集者) around 2018 to 2019. They were all re-published online in 2020.
 
 | English Title | Original Title |
 | --- | --- |

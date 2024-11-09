@@ -10,15 +10,15 @@ Note: all titles, ordered by publishing dates, are full-length works published l
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
-| _Micro Frontends in Action_ | 決戰！微前端架構 Micro Frontends | Michael Geers | 旗標科技 (Flag Publishing) | 2023 | Programming | |
-| _Raspberry Pi 4: The AI Application Bible_ | Raspberry Pi 樹莓派：Python x AI 超應用聖經 | 陳會安 | 旗標科技 (Flag Publishing) | 2022 | Programming, AI | |
-| _Automated Machine Learning with AutoKeras_ | AutoML 自動化機器學習 | Luis Sobrecueva | 旗標科技 (Flag Publishing) | 2022 | AI | |
-| _Essential TypeScript_ | TypeScript 邁向專家之路 | Adam Freeman | 旗標科技 (Flag Publishing) | 2021 | Programming | |
-| _The Go Workshop_ | 完全自學！Go 語言實戰聖經 | Delio D'Anna, Andrew Hayes, Sam Hennessy, Jeremy Leasor, Gobin Sougrakpam and Daniel Szabo | 旗標科技 (Flag Publishing) | 2021 | Programming | |
-| _Pythonで動かして学ぶ！あたらしい深層学習の教科書 (Learn by Running Python! The New Deep Learning Book)_ | 必學！Python 資料科學‧機器學習最強套件 | 石川聡彦 | 旗標科技 (Flag Publishing) | 2021 | AI | Co-edited |
-| _Python Workout_ | Python 刷題鍛鍊班 | Reuven M. Lerner | 旗標科技 (Flag Publishing) | 2021 | Programming | |
-| _Python Tricks_ | Python 神乎其技 全新超譯版 | Dan Bader | 旗標科技 (Flag Publishing) | 2020 | Programming | |
-| _The Spy Who Came in from the Cold_ | 冷戰諜魂 | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction | Co-edited |
+| _Micro Frontends in Action_ | [決戰！微前端架構 Micro Frontends](https://www.flag.com.tw/books/product/F3487) | Michael Geers | 旗標科技 (Flag Publishing) | 2023 | Programming | |
+| _Raspberry Pi 4: The AI Application Bible_ | [Raspberry Pi 樹莓派：Python x AI 超應用聖經](https://www.flag.com.tw/books/product/F1786) | 陳會安 | 旗標科技 (Flag Publishing) | 2022 | Programming, AI | |
+| _Automated Machine Learning with AutoKeras_ | [AutoML 自動化機器學習](https://www.flag.com.tw/books/product/F1385) | Luis Sobrecueva | 旗標科技 (Flag Publishing) | 2022 | AI | |
+| _Essential TypeScript_ | [TypeScript 邁向專家之路](https://www.flag.com.tw/books/product/F1485) | Adam Freeman | 旗標科技 (Flag Publishing) | 2021 | Programming | |
+| _The Go Workshop_ | [完全自學！Go 語言實戰聖經](https://www.flag.com.tw/books/product/F1741) | Delio D'Anna, Andrew Hayes, Sam Hennessy, Jeremy Leasor, Gobin Sougrakpam and Daniel Szabo | 旗標科技 (Flag Publishing) | 2021 | Programming | |
+| _Pythonで動かして学ぶ！あたらしい深層学習の教科書 (Learn by Running Python! The New Deep Learning Book)_ | [必學！Python 資料科學‧機器學習最強套件](https://www.flag.com.tw/books/product/F1378) | 石川聡彦 | 旗標科技 (Flag Publishing) | 2021 | AI | Co-edited (60%) |
+| _Python Workout_ | [Python 刷題鍛鍊班](https://www.flag.com.tw/books/product/F1750) | Reuven M. Lerner | 旗標科技 (Flag Publishing) | 2021 | Programming | |
+| _Python Tricks_ | [Python 神乎其技 全新超譯版](https://www.flag.com.tw/activity/FT746A/) | Dan Bader | 旗標科技 (Flag Publishing) | 2020 | Programming | |
+| _The Spy Who Came in from the Cold_ | [冷戰諜魂](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction | Co-edited, proofread |
 
 ---
 

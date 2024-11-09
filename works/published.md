@@ -34,13 +34,16 @@ Note: all titles, ordered by publishing dates, are full-length works published l
 | _My First micro:bit Maker Guide with Thunder:bit_ | micro:bit x Thunder:bit：孩子的第一本創客指南 | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, robotic | Also the illustration photographer |
 | _My First micro:bit Programming Book_ | 孩子的第一本 micro:bit 程式學習書 | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2019 | STEM, embedded programming | Also the illustration photographer |
 
-### Articles (文章)
+<details>
+<summary>Articles (文章)</summary>
 
 | English Title | Original Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | "An Brief Introduction to Ursula K. Le Guin's Ekumen Series" | 淺談勒瑰恩的瀚星系列 | The Affairs 編集者新聞 | 2020 | Literature | Book Column |
 | "The Dark Grim Dream Realm of Neil Gaiman" | 尼爾‧蓋曼的黑色夢境王國 | The Affairs 編集者新聞 | 2020 | Literature | Book Column |
-| "The Secret History of Star Wars That You May Never Have Heard Of" | 那些年，你也許不知道的星戰黑歷史 | 2020 | Literature | Book Column |
+| "The Secret History of Star Wars That You May Never Have Heard Of" | 那些年，你也許不知道的星戰黑歷史 | The Affairs 編集者新聞 | 2020 | Literature | Book Column |
+
+</details>
 
 ---
 

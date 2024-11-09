@@ -48,19 +48,6 @@ Note: all titles, ordered by publishing dates, are full-length works published l
 | _My First micro:bit Maker Guide with Thunder:bit_ | [micro:bit x Thunder:bit：孩子的第一本創客指南](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=71) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, Maker, robotic | Also the illustration photographer |
 | _My First micro:bit Programming Book_ | [孩子的第一本 micro:bit 程式學習書](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=61) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2019 | STEM, embedded programming | Also the illustration photographer |
 
-### Miscellaneous
-
-<details>
-<summary>Selected Published Articles (文章)</summary>
-
-| English Title | Original Title | Publisher | Published Year | Genre | Note |
-| --- | --- | --- | --- | --- | --- |
-| "An Brief Introduction to Ursula K. Le Guin's Ekumen Series" | [淺談勒瑰恩的瀚星系列](https://www.theaffairs.com/%e6%b7%ba%e8%ab%87%e5%8b%92%e7%91%b0%e6%81%a9%e7%9a%84%e7%80%9a%e6%98%9f%e7%b3%bb%e5%88%97/) | The Affairs 編集者新聞 | 2020 | Literature | Book Column |
-| "The Dark Grim Dream Realm of Neil Gaiman" | [尼爾‧蓋曼的黑色夢境王國](https://www.theaffairs.com/%e5%b0%bc%e7%88%be%e2%80%a7%e8%93%8b%e6%9b%bc%e7%9a%84%e9%bb%91%e8%89%b2%e5%a4%a2%e5%a2%83%e7%8e%8b%e5%9c%8b/) | The Affairs 編集者新聞 | 2020 | Literature | Book Column |
-| "The Secret History of Star Wars That You May Never Have Heard Of" | [那些年，你也許不知道的星戰黑歷史](https://www.theaffairs.com/%e9%82%a3%e4%ba%9b%e5%b9%b4%ef%bc%8c%e4%bd%a0%e4%b9%9f%e8%a8%b1%e4%b8%8d%e7%9f%a5%e9%81%93%e7%9a%84%e6%98%9f%e6%88%b0%e9%bb%91%e6%ad%b7%e5%8f%b2/) | The Affairs 編集者新聞 | 2020 | Literature | Book Column |
-
-</details>
-
 ---
 
 ## Translated Titles (翻譯作品)

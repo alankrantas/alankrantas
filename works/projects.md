@@ -15,8 +15,8 @@
 
 | Project | For | Period | Description |
 | --- | --- | --- | --- |
-| FST Network [official blog](https://www.fst.network/blog) | FST Network (as employee) | Sep - Dec 2022 | Technical marketing campaign, working with FST Ntwork's product and marketing team |
-| FST Network [Medium channel](https://medium.com/fstnetwork) | FST Network (as employee) | Apr - Sep 2022 | Technical marketing blog posts, working with the developer team |
+| FST Network [official blog](https://www.fst.network/blog) | FST Network (as employee) | Sep - Dec 2022 | Technical marketing campaign, working with product and marketing team. |
+| FST Network [Medium channel](https://medium.com/fstnetwork) | FST Network (as employee) | Apr - Sep 2022 | Technical marketing blog posts, working with the developer team. |
 
 ---
 

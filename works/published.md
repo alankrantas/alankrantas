@@ -48,6 +48,8 @@ Note: all titles, ordered by publishing dates, are full-length works published l
 | _My First micro:bit Maker Guide with Thunder:bit_ | micro:bit x Thunder:bit：孩子的第一本創客指南 | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, Maker, robotic | Also the illustration photographer |
 | _My First micro:bit Programming Book_ | 孩子的第一本 micro:bit 程式學習書 | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2019 | STEM, embedded programming | Also the illustration photographer |
 
+### Miscellaneous
+
 <details>
 <summary>Selected Published Articles (文章)</summary>
 

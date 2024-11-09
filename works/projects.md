@@ -23,11 +23,11 @@ Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.
 
 ---
 
-## Article (文章)
+## Content and Articles (內容與文章)
 
 ### Literary Column for [The Affairs](https://www.theaffairs.com/)
 
-> Science fiction and fantasy book reviews on magazine The Affairs (編集者) around 2018 to 2019. They were all re-published online in 2020.
+> Book reviews published on the magazine _The Affairs_ (編集者) around 2018 to 2019. They were re-published online in 2020.
 
 | English Title | Original Title |
 | --- | --- |

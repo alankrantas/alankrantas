@@ -42,6 +42,8 @@ Note: all titles, ordered by publishing dates, are full-length works published l
 
 ### STEM Education
 
+| English Title | Original Title | Publisher | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- |
 | _My First micro:bit Robot Guide with NexusBot_ | micro:bit x NexusBot：孩子的第一本機器人指南 | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, robotic | Also the illustration photographer |
 | _My First micro:bit Maker Guide with Thunder:bit_ | micro:bit x Thunder:bit：孩子的第一本創客指南 | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, Maker, robotic | Also the illustration photographer |
 | _My First micro:bit Programming Book_ | 孩子的第一本 micro:bit 程式學習書 | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2019 | STEM, embedded programming | Also the illustration photographer |

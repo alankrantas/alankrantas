@@ -83,7 +83,7 @@ Note: all titles, ordered by publishing dates, are full-length works published l
 | _And Another Thing..._ (The Hitchhiker's Guide to the Galaxy #6) | [銀河便車指南 6：啊，還有一件事...](https://www.books.com.tw/products/0010720121?sloc=main) | Eoin Colfer | 木馬文化 (ECUS Publishing) | 2016 | Fiction | Co-translated (75%) |
 | _How Star Wars Conquered the Universe_ | [星際大戰如何以原力征服全世界](https://www.books.com.tw/products/0010694382?sloc=main) | Chris Taylor | 高寶書版 (Global Publishing) | 2015 | Non-fiction | Co-translated (60%) |
 | _Open Secrets_ | [公開的祕密](https://www.books.com.tw/products/0010690300?sloc=main) | Alice Munro | 木馬文化 (ECUS Publishing) | 2015 | Fiction; short story collection | |
-| _Dangerous Woman_ | 危險女人 | Joe Abercrombie, Jim Butcher, Lawrence Block, Brandon Sanderson, Lev Grossman, Diana Gabaldon and George R. R. Martin, etc. | 高寶書版 (Global Publishing) | 2015 | Fiction; anthology | |
+| _Dangerous Woman_ | [危險女人](https://www.cite.com.tw/book?id=59717&srsltid=AfmBOopJQe-3wGdwmYkvKZ_OgLS299NsDsk96sNQ_5lYLq9wstf4Cp4h) | Joe Abercrombie, Jim Butcher, Lawrence Block, Brandon Sanderson, Lev Grossman, Diana Gabaldon and George R. R. Martin, etc. | 高寶書版 (Global Publishing) | 2015 | Fiction; anthology | |
 | _To Be a Cat_ | [突然變成一隻貓](https://www.books.com.tw/products/0010665405?sloc=main) | Matt Haig | 天培 (Ten Ppints Publishing) | 2015 | Fiction; children's book | |
 | _The Jungle_ | [魔鬼的叢林](https://www.books.com.tw/products/0010656599?sloc=main) | Upton Sinclair | 柿子文化 (Persimmon Books) | 2014 | Fiction | |
 | _The View from Castle Rock_ | [城堡岩海景](https://www.books.com.tw/products/0010650379?sloc=main) | Alice Munro | 木馬文化 (ECUS Publishing) | 2014 | Fiction; short story collection | |

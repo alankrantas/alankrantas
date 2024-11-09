@@ -3,6 +3,7 @@
 A freelance writer/translator based in Taipei, Taiwan. Ex-technical writer, editor & software engineer.
 
 - [Personal website](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
+- [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) and [writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
 - [Resume/CV](https://www.cake.me/krantas)
 
 ![profile](profile.jpg)

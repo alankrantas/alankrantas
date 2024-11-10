@@ -1,10 +1,12 @@
 # Hello! I'm Alan Wang👋
 
-A freelance writer, copywriter & translator based in Taipei, Taiwan. Ex-software engineer.
+A freelance writer, copywriter & translator (and ex-software engineer) based in Taipei, Taiwan.
 
 - [Personal website](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 
 - My [resume/CV](https://www.cake.me/krantas), [published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) and [writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
+
+---
 
 ![profile](profile.jpg)
 

@@ -8,7 +8,7 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 > 9 titles
 
-### Software & Technology
+- ### Software & Technology
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ All titles, ordered by publishing dates, are full-length works published locally
 | _Python Workout_ | [Python 刷題鍛鍊班](https://www.flag.com.tw/books/product/F1750) | Reuven M. Lerner | 旗標科技 (Flag Publishing) | 2021 | Programming | |
 | _Python Tricks_ | [Python 神乎其技 全新超譯版](https://www.flag.com.tw/activity/FT746A/) | Dan Bader | 旗標科技 (Flag Publishing) | 2020 | Programming | |
 
-### Fiction
+- ### Fiction
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -33,14 +33,14 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 > 5 titles
 
-### Software & Technology
+- ### Software & Technology
 
 | English Title | Original Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | _The Python and Data Science Book for Interdisciplinary Learning_ | [跨領域學 Python：資料科學基礎養成](https://www.flag.com.tw/books/product/F0753) | 旗標科技 (Flag Publishing) | 2020 | Programming, AI, data science | Also the editor |
 | _Flag's Maker Workshop: Smart Cloud Sensors with Python_ | [Flag's 創客‧自造者工作坊 Python 感測器大應用](https://www.flag.com.tw/maker/FM622A) | 旗標科技 (Flag Publishing) | 2020 | Embedded programming, IoT | Also the illustration photographer |
 
-### STEM Education
+- ### STEM Education
 
 | English Title | Original Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 > 38 titles
 
-### Fiction and Non-Fiction
+- ### Fiction and Non-Fiction
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |

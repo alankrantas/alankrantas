@@ -25,7 +25,7 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
-| _The Spy Who Came in from the Cold_ | [冷戰諜魂](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction, spy | Co-edited, proofread |
+| _The Spy Who Came in from the Cold_ | [冷戰諜魂](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction, spy | Co-edited |
 
 ---
 

@@ -4,11 +4,19 @@
 
 ## Technical Writing (技術寫作)
 
-### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep 2024 - Oct 2024)
+### Product White Paper Copywriting
+
+| For | Period | Industry |
+| --- | --- | --- |
+| [XREX Inc.](https://xrex.io/) | Sep 2024 - Oct 2024 | Software, cryptocurrency, FinTech |
 
 Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (_Spot Trading_, _Margin Trading_, _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_) based on materials and screenshots provided by the product team.
 
 ### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+
+| For | Period | Industry |
+| --- | --- | --- |
+| [FST Network](https://www.fst.network/) (as employee) | Apr 2022 - Jul 2024 | Software, cloud, data integration, data catalog |
 
 Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), built with React.js-based Docusaurus 3, based on information provided by the product and developer team upon each releases.
 

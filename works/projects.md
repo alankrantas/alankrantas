@@ -4,15 +4,15 @@
 
 ## Technical and Marketing Writing (技術／行銷寫作)
 
-### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep 2024 - Oct 2024)
+- ### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep 2024 - Oct 2024)
 
 Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (_Spot Trading_, _Margin Trading_, _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_) based on materials and screenshots provided by the product team.
 
-### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+- ### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
 
 Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), built with React.js-based Docusaurus 3, based on information provided by the product and developer team upon each releases.
 
-### Technical Marketing Blogs for FST Network (Apr 2022 - Dec 2022)
+- ### Technical Marketing Blogs for FST Network (Apr 2022 - Dec 2022)
 
 - [Official blog](https://www.fst.network/blog)
 - [Medium channel](https://medium.com/fstnetwork)
@@ -21,7 +21,7 @@ Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.
 
 ## Content and Articles (內容與文章)
 
-### Literary Column for [The Affairs](https://www.theaffairs.com/)
+- ### Literary Column for [The Affairs](https://www.theaffairs.com/)
 
 > Book reviews published on the magazine _The Affairs_ (編集者) around 2018 to 2019. They were re-published online in 2020.
 

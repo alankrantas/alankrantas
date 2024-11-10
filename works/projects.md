@@ -16,10 +16,10 @@ Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.
 
 ## Technical Marketing (技術行銷)
 
-### Technical Marketing for FST Network
+### Technical Marketing Blogs for FST Network
 
-- [FST Network official blog](https://www.fst.network/blog) (Sep 2022 - Dec 2022)
-- [FST Network Medium channel](https://medium.com/fstnetwork) (Apr 2022 - Sep 2022)
+- [Official blog](https://www.fst.network/blog) (Sep 2022 - Dec 2022)
+- [Medium channel](https://medium.com/fstnetwork) (Apr 2022 - Sep 2022)
 
 ---
 

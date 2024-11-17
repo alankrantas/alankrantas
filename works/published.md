@@ -1,12 +1,16 @@
 # Published Works
 
+##### `出版作品`
+
 By: [Alan Wang](https://alankrantas.github.io/)
 
 All titles, ordered by publishing dates, are full-length works published locally in Taiwan in Traditional Chinese.
 
 ---
 
-## Editorial Titles (編輯作品)
+## Editorial Titles
+
+##### `編輯作品`
 
 > 9 titles
 
@@ -31,7 +35,9 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 ---
 
-## Authored Titles (著作作品)
+## Authored Titles
+
+##### `著作`
 
 > 5 titles
 
@@ -52,7 +58,9 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 ---
 
-## Translated Titles (翻譯作品)
+## Translated Titles
+
+##### `翻譯作品`
 
 > 38 titles
 

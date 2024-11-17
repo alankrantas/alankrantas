@@ -1,4 +1,6 @@
-# Published Works By [Alan Wang](https://alankrantas.github.io/)
+# Published Works
+
+By: [Alan Wang](https://alankrantas.github.io/)
 
 All titles, ordered by publishing dates, are full-length works published locally in Taiwan in Traditional Chinese.
 

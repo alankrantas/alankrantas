@@ -1,4 +1,6 @@
-# Writing Projects and Articles By [Alan Wang](https://alankrantas.github.io/)
+# Writing Projects and Articles
+
+By: [Alan Wang](https://alankrantas.github.io/)
 
 ---
 

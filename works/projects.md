@@ -1,10 +1,14 @@
 # Writing Projects and Articles
 
+##### `寫作專案與文章作品`
+
 By: [Alan Wang](https://alankrantas.github.io/)
 
 ---
 
-## Technical and Marketing Writing (技術／行銷寫作)
+## Technical Writing and Technical Marketing Writing
+
+##### `技術／技術行銷寫作`
 
 - ### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep 2024 - Oct 2024)
 
@@ -21,7 +25,9 @@ Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.
 
 ---
 
-## Content and Articles (內容與文章)
+## Content Writing and Articles
+
+##### `內容寫作與文章`
 
 - ### Literary Column for [The Affairs](https://www.theaffairs.com/)
 

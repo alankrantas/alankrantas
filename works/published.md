@@ -1,6 +1,6 @@
 # Published Works
 
-##### `出版作品`
+> `出版作品`
 
 By: [Alan Wang](https://alankrantas.github.io/)
 
@@ -10,11 +10,13 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 ## Editorial Titles
 
-##### `編輯作品`
+>  `編輯作品`
 
-> 9 titles
+9 titles
 
 - ### Software & Technology
+
+> `軟體與科技`
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -29,6 +31,8 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 - ### Fiction
 
+> `文學`
+
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction, spy | As assistant editor and the translator for new introductions |
@@ -37,11 +41,13 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 ## Authored Titles
 
-##### `著作`
+> `著作`
 
-> 5 titles
+5 titles
 
 - ### Software & Technology
+
+> `軟體與科技`
 
 | English Title | Original Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -49,6 +55,8 @@ All titles, ordered by publishing dates, are full-length works published locally
 | _Flag's Maker Workshop: Smart Cloud Sensors with Python_ | [_Flag's 創客‧自造者工作坊 Python 感測器大應用_](https://www.flag.com.tw/maker/FM622A) | 旗標科技 (Flag Publishing) | 2020 | Embedded programming, IoT | Also the illustration photographer |
 
 - ### STEM Education
+
+> `STEM 教育`
 
 | English Title | Original Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -60,11 +68,20 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 ## Translated Titles
 
-##### `翻譯作品`
+> `翻譯作品`
 
-> 38 titles
+38 titles
+
+- ### Software & Technology
+
+> `軟體與科技`
+
+| Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- | --- |
 
 - ### Fiction and Non-Fiction
+
+> `文學與非文學`
 
 | Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |

@@ -18,7 +18,7 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 > `軟體與科技`
 
-| Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _Micro Frontends in Action_ | [_決戰！微前端架構 Micro Frontends_](https://www.flag.com.tw/books/product/F3487) | Michael Geers | 旗標科技 (Flag Publishing) | 2023 | Programming, front-end | |
 | _Raspberry Pi 4: The AI Application Bible_ | [_Raspberry Pi 樹莓派：Python x AI 超應用聖經_](https://www.flag.com.tw/books/product/F1786) | 陳會安 | 旗標科技 (Flag Publishing) | 2022 | Programming, embedded programming, AI | |
@@ -33,7 +33,7 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 > `文學`
 
-| Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction, spy | As assistant editor and the translator for new introductions |
 
@@ -76,14 +76,14 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 > `軟體與科技`
 
-| Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 
 - ### Fiction and Non-Fiction
 
 > `文學與非文學`
 
-| Title Based On | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Invisible Man_ | [_隱形人_](https://www.books.com.tw/products/0010795128?sloc=main) | H. G. Wells | 好讀出版 (Howdo Publishing) | 2018 | Fiction, SF | |
 | _The Silent Corner_ | [_無聲角落_](https://www.cite.com.tw/book?id=77180&srsltid=AfmBOoqJrmsKuEodHpKAOVYWJzsG0IwTB-IJlB-6jjv5G3N_cmYuwFi5) | Dean Koontz | 高寶書版 (Global Publishing) | 2018 | Fiction, thriller | |

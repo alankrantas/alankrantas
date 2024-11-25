@@ -46,22 +46,22 @@ Find the [platform version](https://go.dev/dl/) you need and
 #### AMD64
 
 ```bash
-wget https://go.dev/dl/go1.23.2.linux-amd64.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.2.linux-amd64.tar.gz
+wget https://go.dev/dl/go1.23.3.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.3.linux-amd64.tar.gz
 ```
 
 #### ARM64
 
 ```bash
-wget https://go.dev/dl/go1.23.2.linux-arm64.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.2.linux-arm64.tar.gz
+wget https://go.dev/dl/go1.23.3.linux-arm64.tar.gz
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.3.linux-arm64.tar.gz
 ```
 
 #### ARM 32-bit
 
 ```bash
-wget https://go.dev/dl/go1.23.2.linux-armv6l.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.2.linux-armv6l.tar.gz
+wget https://go.dev/dl/go1.23.3.linux-armv6l.tar.gz
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.3.linux-armv6l.tar.gz
 ```
 
 #### First Installation

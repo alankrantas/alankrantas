@@ -91,22 +91,22 @@ Find the [platform version](https://github.com/tinygo-org/tinygo/releases) you n
 #### AMD64
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.33.0_amd64.deb
-sudo dpkg -i tinygo_0.33.0_amd64.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.34.0_amd64.deb
+sudo dpkg -i tinygo_0.34.0_amd64.deb
 ```
 
 #### ARM64
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.33.0_arm64.deb
-sudo dpkg -i tinygo_0.33.0_arm64.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.34.0_arm64.deb
+sudo dpkg -i tinygo_0.34.0_arm64.deb
 ```
 
 #### ARM 32-bit
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.33.0_armhf.deb
-sudo dpkg -i tinygo_0.33.0_armhf.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.34.0_armhf.deb
+sudo dpkg -i tinygo_0.34.0_armhf.deb
 ```
 
 #### First Installation

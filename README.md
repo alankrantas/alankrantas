@@ -1,4 +1,4 @@
-# Hello! I'm Alan Wang👋
+# Hello! I'm Alan Wang ☕
 
 > `Freelance Writer` `Copywriter` `Translator`
 

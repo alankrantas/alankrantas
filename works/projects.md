@@ -1,8 +1,8 @@
 # Writing Projects and Articles
 
-##### `寫作專案與文章`
-
-By: [Alan Wang](https://alankrantas.github.io/)
+> `寫作專案與文章`
+>
+> By [Alan Wang](https://alankrantas.github.io/). Also see: [Published Works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
 ---
 

@@ -9,7 +9,7 @@ sudo apt install python3 python3-pip python3-dev python3-venv python3-wheel pyth
 
 sudo python3 -m pip install --upgrade pip --break-system-packages
 
-sudo pip3 install --upgrade numpy scipy matplotlib pandas seaborn scikit-learn opencv-python flask --break-system-packages
+sudo pip3 install --upgrade numpy scipy matplotlib pandas seaborn scikit-learn opencv-python --break-system-packages
 
 sudo pip3 install --upgrade tensorflow autokeras flaml flaml[automl] --break-system-packages
 
@@ -46,21 +46,21 @@ Find the [platform version](https://go.dev/dl/) you need and
 #### AMD64
 
 ```bash
-wget https://go.dev/dl/go1.23.3.linux-amd64.tar.gz
+wget https://go.dev/dl/go1.23.4.linux-amd64.tar.gz
 sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.3.linux-amd64.tar.gz
 ```
 
 #### ARM64
 
 ```bash
-wget https://go.dev/dl/go1.23.3.linux-arm64.tar.gz
+wget https://go.dev/dl/go1.23.4.linux-arm64.tar.gz
 sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.3.linux-arm64.tar.gz
 ```
 
 #### ARM 32-bit
 
 ```bash
-wget https://go.dev/dl/go1.23.3.linux-armv6l.tar.gz
+wget https://go.dev/dl/go1.23.4.linux-armv6l.tar.gz
 sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.3.linux-armv6l.tar.gz
 ```
 

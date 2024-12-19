@@ -9,21 +9,23 @@ sudo apt install python3 python3-pip python3-dev python3-venv python3-wheel pyth
 
 sudo python3 -m pip install --upgrade pip --break-system-packages
 
-sudo pip3 install --upgrade numpy scipy matplotlib pandas seaborn scikit-learn opencv-python --break-system-packages
+sudo pip3 install --upgrade numpy scipy matplotlib pandas seaborn scikit-learn opencv-python flaml flaml[automl] --break-system-packages
 
-sudo pip3 install --upgrade tensorflow autokeras flaml flaml[automl] --break-system-packages
+sudo pip3 install --upgrade tensorflow autokeras --break-system-packages
 
 sudo pip3 cache purge
 ```
 
+`--break-system-packages` is required for changing certain packages on Ubuntu.
+
 #### Windows
 
 ```bash
-python -m pip install --upgrade pip
+python -m pip install --upgrade pip --user
 
-pip3 install --upgrade wheel setuptools numpy scipy matplotlib pandas seaborn scikit-learn flaml flaml[automl] opencv-python flask --user
+pip3 install --upgrade wheel setuptools numpy scipy matplotlib pandas seaborn scikit-learn flaml flaml[automl] opencv-python --user
 
-pip3 install --upgrade tensorflow tensorflow-cpu
+pip3 install --upgrade tensorflow tensorflow-cpu --user
 
 pip3 cache purge
 ```

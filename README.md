@@ -2,9 +2,14 @@
 
 > `Freelance Writer` `Copywriter` `Translator`
 
-- [Personal website](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
+A seasoned writer with 10+ years of writing and translating backgrounds that have resulted in 50+ full-length [published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md), dozens of articles and several [writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md), and has professional experience in technical writing (including documentation), copywriting, content marketing, publishing, software engineering and STEM education.
 
-- My [resume/CV](https://www.cake.me/krantas), [published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) and [writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
+Quick to learn and eager for challenges, I deliver insightful, high-quality text content for any target audience with precision, care and passion.
+
+_Note: I do not offer AI training writing nor i18n-type semi-machine translating._
+
+- [Personal website](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
+- [Resume/CV](https://www.cake.me/krantas)
 
 ---
 

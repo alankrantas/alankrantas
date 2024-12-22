@@ -13,7 +13,9 @@ _Note: I do not offer AI training writing nor i18n-type semi-machine translating
 Find out more about me in the links below.
 
 - [Personal website](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
-- [Resume/CV](https://www.cake.me/krantas)
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
+- [Resume](https://www.cake.me/krantas)
+- [中文履歷](https://www.cake.me/me/krantas)
 
 ---
 

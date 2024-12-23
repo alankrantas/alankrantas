@@ -1,22 +1,20 @@
-# Published Writing & Translating Works
+# Published Works
 
-> `出版作品`
->
+`出版作品`
+
 > By [Alan Wang](https://github.com/alankrantas). Also see: [Writing Projects and Articles](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
-
-All titles, ordered by publishing dates, are full-length works published locally in Taiwan in Traditional Chinese.
 
 ---
 
 ## Editorial Titles
 
->  `編輯作品`
+`編輯作品`
 
-9 titles
+---
 
-- ### Software & Technology
+### Software & Technology
 
-> `軟體與科技`
+`軟體與科技`
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -29,9 +27,11 @@ All titles, ordered by publishing dates, are full-length works published locally
 | _Python Workout_ | [_Python 刷題鍛鍊班_](https://www.flag.com.tw/books/product/F1750) | Reuven M. Lerner | 旗標科技 (Flag Publishing) | 2021 | Programming | |
 | _Python Tricks_ | [_Python 神乎其技 全新超譯版_](https://www.flag.com.tw/activity/FT746A/) | Dan Bader | 旗標科技 (Flag Publishing) | 2020 | Programming | |
 
-- ### Fiction
+---
 
-> `文學`
+### Fiction
+
+`文學`
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,22 +41,24 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 ## Authored Titles
 
-> `著作`
+`著作`
 
-5 titles
+---
 
-- ### Software & Technology
+### Software & Technology
 
-> `軟體與科技`
+`軟體與科技`
 
 | English Title | Original Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | _The Python and Data Science Book for Interdisciplinary Learning_ | [_跨領域學 Python：資料科學基礎養成_](https://www.flag.com.tw/books/product/F0753) | 旗標科技 (Flag Publishing) | 2020 | Programming, AI, data science | Also the editor |
 | _Flag's Maker Workshop: Smart Cloud Sensors with Python_ | [_Flag's 創客‧自造者工作坊 Python 感測器大應用_](https://www.flag.com.tw/maker/FM622A) | 旗標科技 (Flag Publishing) | 2020 | Embedded programming, IoT | Also the illustration photographer |
 
-- ### STEM Education
+---
 
-> `STEM 教育`
+### STEM Education
+
+`STEM 教育`
 
 | English Title | Original Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -68,20 +70,22 @@ All titles, ordered by publishing dates, are full-length works published locally
 
 ## Translated Titles
 
-> `翻譯作品`
+`翻譯作品`
 
-38 titles
+---
 
-- ### Software & Technology
+### Software & Technology
 
-> `軟體與科技`
+`軟體與科技`
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 
-- ### Fiction and Non-Fiction
+---
 
-> `文學與非文學`
+### Fiction and Non-Fiction
+
+`文學與非文學`
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |

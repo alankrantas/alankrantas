@@ -31,7 +31,7 @@
 | Yashica Rapide                                 | 35mm half-frame viewfinder | 1961 | H1120129                 | Yashinon 1:2.8 f=2.8cm (eq. 40mm; 4E3G?)              |          |                | Broken                                      |
 | Yashica Mat-124G                               | 120 TLR (6x6)              | 1970 | 3018377 (1973?)          | Taking lens: Yashinon 80mm f/3.5 (eq. 50mm; 4E3G)     |          | L1560          | 120 film 6x6; working lightmeter            |
 | VEB Zeiss Ikon Ercona                          | 120 manual RF (6x9)        | 1948 | 37136171004 (1953-55?)   | Carl Zeiss Jena Tessar 105mm f/3.5 T (eq. 45mm; 4E3G) |          |                | Zeiss Ikon Ikonta 521/2 copy                |
-| Korelle 3x4                                    | 127 manual RF (3x4)        | 1931 |                          | Vidar 1:4.5 f=5cm (eq. 38mm; 3 elements?)             |          |                |                                             |
+| Korelle 3x4                                    | 127 manual RF (3x4)        | 1931 |                          | Vidar 1:4.5 f=5cm (eq. 38mm; 3E?)                     |          |                | Rusted body with working shutter            |
 | Kodak Brownie Reflex Synchro Model             | 127 pseudo TLR             | 1940 |                          | 45mm f/11 (eq. 35mm)                                  |          |                |                                             |
 | Kodak Six-20 Brownie D                         | 620 box camera             | 1946 |                          | 100mm f/11 (eq. 55mm, 1E?)                            |          |                |                                             |
 | Kodak Brownie Hawkeye Flash                    | 620 box camera             | 1950 |                          | 81mm f/15 (eq. 44mm, 1E?)                             |          |                | Comes with a Kodalite Flashholder           |
@@ -81,7 +81,7 @@
 | Sunpak Auto 25SR Thyristor | 25       | Single point flash with auto sensor | 08181933 (late 1970s?)   | AA x 4  | Has PC sync cable |
 | Starblitz 160A             | 16       | Single point flash with auto sensor |                          | AA x 2  | Has PC sync cable |
 | Canon Speedlite 580EX      | 58       | For Canon EOS cameras               | 507885 (mid-2000s?)      | AA x 4  |                   |
-| Flash Bar by MINT          | 20 or 12 | For Polaroid SX-70/Type 1000        |                          | AAA x 2 |                   |
+| MINT Flash Bar             | 20 or 12 | For Polaroid SX-70/Type 1000        |                          | AAA x 2 |                   |
 
 ## Other Camera Accessories
 
@@ -94,14 +94,14 @@
 
 ## Vintage Watches
 
-| Name                             | Type                    | Serial/Manufactured Date | Caliber/Module  | Jewels/Bph or Battery | Note                            |
-| -------------------------------- | ----------------------- | ------------------------ | --------------- | --------------------- | ------------------------------- |
-| Seiko Type 19 SEIKOSHA PRECISION | Mechanical pocket watch | 89559781 (1955~?)        | Moeris 19H copy | 7 (18,000)            |                                 |
-| Dolmy 1/5                        | Mechanical stopwatch    | 1970s?                   | BF410?          | 7 (18,000)            | Retailed by Camerer Cuss        |
-| Seiko Sportsmatic 5              | Mechanical watch        | 5102998 (Feb 1965)       | 6619A           | 21 (18,000)           | Day wheel not working           |
-| Seiko 5                          | Mechanical watch        | 276684 (1982)            | 7009A           | 17 (21,600)           |                                 |
-| Casio A-168W                     | Digital quartz watch    | 1997?                    | 1572            | CR2016                | Dad's watch; beeper not working |
-| Orient GP?                       | Analog quartz watch     | Late 1970s?              | 53030           | SR726SW               | Mom's watch; broken             |
+| Name                | Type                    | Serial/Manufactured Date | Caliber/Module  | Jewels/Bph or Battery | Note                            |
+| ------------------- | ----------------------- | ------------------------ | --------------- | --------------------- | ------------------------------- |
+| Seiko Type 19       | Mechanical pocket watch | 89559781 (1955~?)        | Moeris 19H copy | 7 (18,000)            |                                 |
+| Dolmy 1/5           | Mechanical stopwatch    | 1970s?                   | BF410?          | 7 (18,000)            | Retailed by Camerer Cuss        |
+| Seiko Sportsmatic 5 | Mechanical watch        | 5102998 (Feb 1965)       | 6619A           | 21 (18,000)           | Day wheel not working           |
+| Seiko 5             | Mechanical watch        | 276684 (1982)            | 7009A           | 17 (21,600)           |                                 |
+| Casio A-168W        | Digital quartz watch    | 1997?                    | 1572            | CR2016                | Dad's watch; beeper not working |
+| Orient GP?          | Analog quartz watch     | Late 1970s?              | 53030           | SR726SW               | Mom's watch; broken             |
 
 ## Typewriters
 

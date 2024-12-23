@@ -34,6 +34,16 @@ Write product and technical marketing content on FST Network's [Medium channel](
 
 與行銷、產品及開發團隊協作，在 FST Network 的 [Medium 頻道](https://medium.com/fstnetwork)及[官網部落格](https://www.fst.network/blog)撰寫產品／技術行銷內容。
 
+Selected blog posts:
+
+- [Why Machine Learning is Important for Data-Driven Decision-Making](https://www.fst.network/post/machine-learning)
+- [ETL, Reverse ETL and Streaming ETL: Building the Right Pipelines For Data Integration](https://www.fst.network/post/etl-reverse-etl-streaming-etl)
+- [Active Metadata: Tracking the Life Cycle and Data Trails of Data Products with Data Lineage](https://www.fst.network/post/active-metadata)
+- [Data as a Product: Make It Real with Event-Driven, Serverless Data Pipelines](https://www.fst.network/post/data-product)
+- [Data Mesh: A Paradigm Shift to Make Your Data Great Again](https://www.fst.network/post/data-mesh)
+- [A Brief History of Google’s Kubernetes and Why It’s Fantastic](https://medium.com/fstnetwork/a-brief-history-of-googles-kubernetes-and-why-it-s-fantastic-658ad4248e3)
+- [An Introduction to FST Network’s Logic Operating Centre (LOC)](https://medium.com/fstnetwork/an-introduction-to-fst-networks-logic-operation-centre-loc-d6b965c47595)
+
 ---
 
 ## Content Writing and Articles

@@ -80,26 +80,27 @@
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
+| Working in progress #2 | TBA | | | | | |
+| Working in progress #1 | TBA | | | | | |
+| _Pressed for Time_ | [_縮時社會_](https://www.eslite.com/product/1001296512602774?srsltid=AfmBOorC1DHtfGb8AnZHEbBE1quLPYV5Z8RceR_3LSKMeRgXHW-xpMYz) | Judy Wajcman | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, sociology | |
+| _Tales From the Great Disruption_ | [_關鍵轉折_](https://www.eslite.com/product/1001296512562222?srsltid=AfmBOop2spfEiS_DK-znQFmnVvakTKiuIZUgDfPgKtbjxCQKCYgwX_2F) | Michael Shapiro, Anna Hiatt and Mike Hoyt | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, journalism | |
+| _Splinternet_ | [_分裂的網路_](https://www.eslite.com/product/1001296512543627?srsltid=AfmBOooGHyzG_r_mdg90j6fd9nkxGqyH4cOzQxItzumu9va7EsyfLvko) | Scott Malcomson | 新樂園 (Nutopia Publishing) | 2016 | Non-fiction, technology, web | |
 
 ---
 
-### Fiction and Non-Fiction
+### Fiction
 
-`文學與非文學`
+`文學`
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Invisible Man_ | [_隱形人_](https://www.books.com.tw/products/0010795128?sloc=main) | H. G. Wells | 好讀出版 (Howdo Publishing) | 2018 | Fiction, SF | |
 | _The Silent Corner_ | [_無聲角落_](https://www.cite.com.tw/book?id=77180&srsltid=AfmBOoqJrmsKuEodHpKAOVYWJzsG0IwTB-IJlB-6jjv5G3N_cmYuwFi5) | Dean Koontz | 高寶書版 (Global Publishing) | 2018 | Fiction, thriller | |
 | _Fine Me_ | [_在他們找到我之前_](https://www.eslite.com/product/1001288742642167?srsltid=AfmBOoqwKRFi6drnMcBT8RgldT2ZChl6PPeg0d_m1-5F-tA18u6RxNaD) | J.S. Monroe | 電腦人文化 (PCuSER Publishing) | 2017 | Fiction, thriller | |
-| _Pressed for Time_ | [_縮時社會_](https://www.eslite.com/product/1001296512602774?srsltid=AfmBOorC1DHtfGb8AnZHEbBE1quLPYV5Z8RceR_3LSKMeRgXHW-xpMYz) | Judy Wajcman | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, sociology | |
-| _Tales From the Great Disruption_ | [_關鍵轉折_](https://www.eslite.com/product/1001296512562222?srsltid=AfmBOop2spfEiS_DK-znQFmnVvakTKiuIZUgDfPgKtbjxCQKCYgwX_2F) | Michael Shapiro, Anna Hiatt and Mike Hoyt | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, journalism | |
 | _Assassin's Creed: The Official Movie Novelization_ | [_刺客教條：電影官方小說_](https://www.eslite.com/product/1001123032573575?srsltid=AfmBOoqmjvznTuwKsLhHXj7JFOzxW_ir09DxzMtBwTlknTF8iEyQ3P-t) | Christie Golden | 高寶書版 (Global Publishing) | 2017 | Fiction, SF, gaming | |
 | _The Forever War_ | [_永世之戰_](https://www.eslite.com/product/1001123032566925?srsltid=AfmBOoo_NdxKXAB6ByeBs6E3UrfbXsebhBNbVzZrMvLm8Pspllloi1TX) | Joe Haldeman | 高寶書版 (Global Publishing) | 2017 | Fiction, SF | |
 | _The Free State of Jones_ | [_瓊斯自由邦_](https://www.books.com.tw/products/0010737316?sloc=main) | Victoria E. Bynum | 水靈文創 (Shuiling Publishing) | 2016 | Fiction, history | |
-| _Splinternet_ | [_分裂的網路_](https://www.eslite.com/product/1001296512543627?srsltid=AfmBOooGHyzG_r_mdg90j6fd9nkxGqyH4cOzQxItzumu9va7EsyfLvko) | Scott Malcomson | 新樂園 (Nutopia Publishing) | 2016 | Non-fiction, technology, web | |
 | _And Another Thing..._ (The Hitchhiker's Guide to the Galaxy #6) | [_銀河便車指南 6：啊，還有一件事..._](https://www.books.com.tw/products/0010720121?sloc=main) | Eoin Colfer | 木馬文化 (ECUS Publishing) | 2016 | Fiction, SF | Co-translated (75%) |
-| _How Star Wars Conquered the Universe_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | Chris Taylor | 高寶書版 (Global Publishing) | 2015 | Non-fiction | Co-translated (60%) |
 | _Open Secrets_ | [_公開的祕密_](https://www.books.com.tw/products/0010690300?sloc=main) | Alice Munro | 木馬文化 (ECUS Publishing) | 2015 | Fiction, literature, short story collection | |
 | _Dangerous Woman_ | [_危險女人_](https://www.cite.com.tw/book?id=59717&srsltid=AfmBOopJQe-3wGdwmYkvKZ_OgLS299NsDsk96sNQ_5lYLq9wstf4Cp4h) | Joe Abercrombie, Jim Butcher, Lawrence Block, Brandon Sanderson, Lev Grossman, Diana Gabaldon and George R. R. Martin, etc. | 高寶書版 (Global Publishing) | 2015 | Fiction, SFF, anthology | |
 | _To Be a Cat_ | [_突然變成一隻貓_](https://www.books.com.tw/products/0010665405?sloc=main) | Matt Haig | 天培 (Ten Points Publishing) | 2015 | Fiction, fantasy, children's book | |
@@ -127,3 +128,11 @@
 | _The Declaration_ (The Declaration trilogy #1) | [_青春鑰 1：永生宣言_](https://www.books.com.tw/products/0010495807?sloc=main) | Gemma Malley | 晨星出版 (Morning Star) | 2011 | Fiction, SF, young adult | |
 | _The Replacement_ | [_替身天使_](https://www.books.com.tw/products/0010481832?sloc=main) | Brenna Yovanoff | 晨星出版 (Morning Star) | 2010 | Fiction, fantasy, young adult | |
 | _The Ark_ | [_方舟浩劫_](https://www.books.com.tw/products/0010476206?sloc=main) | Boyd Morrison | 奇幻基地 (Fantasy Foundation) | 2010 | Fiction, thriller | |
+
+### Other Non-Fiction
+
+`其他非文學`
+
+| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| _How Star Wars Conquered the Universe_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | Chris Taylor | 高寶書版 (Global Publishing) | 2015 | Non-fiction | Co-translated (60%) |

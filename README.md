@@ -12,7 +12,7 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 - [Personal website](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
-- [Resume](https://www.cake.me/krantas)
+- [Résumé](https://www.cake.me/krantas)
 - [中文履歷](https://www.cake.me/me/krantas)
 
 ---

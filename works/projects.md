@@ -22,27 +22,30 @@ Write and organize product white paper drafts for XREX Exchange's several crypto
 
 ### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
 
-Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), based on information provided by the product and developer teams upon each releases.
+Write, maintain and deploy **LOC Documentation**, the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), based on information provided by the product and developer teams upon each releases.
 
-替 FST Network (邦拓鏈股份有限公司) 的資料產品雲平台 _Logic Operating Centre_ (LOC) 撰寫、維護及部署官方使用文件 [LOC Documentation](https://loc-documentation.vercel.app/)，包含產品使用指南、開發 SDK 文件及線上程式碼產生／測試工具，依據產品及開發團隊的產品改版更新。
+替 FST Network (邦拓鏈股份有限公司) 的資料產品雲平台 _Logic Operating Centre_ (LOC) 撰寫、維護及部署官方使用文件 LOC Documentation，包含產品使用指南、開發 SDK 文件及線上程式碼產生／測試工具，依據產品及開發團隊的產品改版更新。
+
+- [LOC Documentation](https://loc-documentation.vercel.app/)
 
 ---
 
 ### Technical Marketing for FST Network (Apr 2022 - Dec 2022)
 
-Technical marketing campaign on FST Network's [Medium channel](https://medium.com/fstnetwork) and [official blog](https://www.fst.network/blog) collaborated with product, marketing and developer teams.
+Technical marketing campaign on FST Network's Medium channel and official blog collaborated with product, marketing and developer teams.
 
-與行銷、產品及開發團隊協作，在 FST Network 的 [Medium 頻道](https://medium.com/fstnetwork)及[官網部落格](https://www.fst.network/blog)撰寫產品／技術行銷內容。
+與行銷、產品及開發團隊協作，在 FST Network 的 Medium 頻道及官網部落格撰寫產品／技術行銷內容。
 
-Selected blog posts:
+- [Official blog](https://www.fst.network/blog):
+  - ["Why Machine Learning is Important for Data-Driven Decision-Making"](https://www.fst.network/post/machine-learning)
+  - ["ETL, Reverse ETL and Streaming ETL: Building the Right Pipelines For Data Integration"](https://www.fst.network/post/etl-reverse-etl-streaming-etl)
+  - ["Active Metadata: Tracking the Life Cycle and Data Trails of Data Products with Data Lineage"](https://www.fst.network/post/active-metadata)
+  - ["Data as a Product: Make It Real with Event-Driven, Serverless Data Pipelines"](https://www.fst.network/post/data-product)
+  - ["Data Mesh: A Paradigm Shift to Make Your Data Great Again"](https://www.fst.network/post/data-mesh)
 
-- ["Why Machine Learning is Important for Data-Driven Decision-Making"](https://www.fst.network/post/machine-learning)
-- ["ETL, Reverse ETL and Streaming ETL: Building the Right Pipelines For Data Integration"](https://www.fst.network/post/etl-reverse-etl-streaming-etl)
-- ["Active Metadata: Tracking the Life Cycle and Data Trails of Data Products with Data Lineage"](https://www.fst.network/post/active-metadata)
-- ["Data as a Product: Make It Real with Event-Driven, Serverless Data Pipelines"](https://www.fst.network/post/data-product)
-- ["Data Mesh: A Paradigm Shift to Make Your Data Great Again"](https://www.fst.network/post/data-mesh)
-- ["A Brief History of Google’s Kubernetes and Why It’s Fantastic"](https://medium.com/fstnetwork/a-brief-history-of-googles-kubernetes-and-why-it-s-fantastic-658ad4248e3)
-- ["An Introduction to FST Network’s Logic Operating Centre (LOC)"](https://medium.com/fstnetwork/an-introduction-to-fst-networks-logic-operation-centre-loc-d6b965c47595)
+- [Medium channel](https://medium.com/fstnetwork) (selected):
+  - ["A Brief History of Google’s Kubernetes and Why It’s Fantastic"](https://medium.com/fstnetwork/a-brief-history-of-googles-kubernetes-and-why-it-s-fantastic-658ad4248e3)
+  - ["An Introduction to FST Network’s Logic Operating Centre (LOC)"](https://medium.com/fstnetwork/an-introduction-to-fst-networks-logic-operation-centre-loc-d6b965c47595)
 
 ---
 

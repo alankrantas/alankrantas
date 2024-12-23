@@ -30,7 +30,7 @@ Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.
 
 ### Technical Marketing for FST Network (Apr 2022 - Dec 2022)
 
-Write product and technical marketing content on FST Network's [Medium channel](https://medium.com/fstnetwork) and [official blog](https://www.fst.network/blog) coordinating with the marketing, product and developer teams.
+Technical marketing campaign on FST Network's [Medium channel](https://medium.com/fstnetwork) and [official blog](https://www.fst.network/blog) collaborated with product, marketing and developer teams.
 
 與行銷、產品及開發團隊協作，在 FST Network 的 [Medium 頻道](https://medium.com/fstnetwork)及[官網部落格](https://www.fst.network/blog)撰寫產品／技術行銷內容。
 

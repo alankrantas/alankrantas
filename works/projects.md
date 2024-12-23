@@ -6,9 +6,9 @@
 
 ---
 
-## Technical Writing and Technical Marketing Writing
+## Technical Writing
 
-`技術／技術行銷寫作`
+`技術寫作`
 
 ---
 
@@ -30,9 +30,15 @@ Write, maintain and deploy **LOC Documentation**, the official user's guide, SDK
 
 ---
 
-### Technical Marketing for FST Network (Apr 2022 - Dec 2022)
+## Marketing Writing
 
-Technical marketing campaign on FST Network's Medium channel and official blog collaborated with product, marketing and developer teams.
+`行銷寫作`
+
+---
+
+### Marketing Blogs for FST Network (Apr 2022 - Dec 2022)
+
+Marketing campaigns on FST Network's Medium channel and official blog collaborated with product, marketing and developer teams.
 
 與行銷、產品及開發團隊協作，在 FST Network 的 Medium 頻道及官網部落格撰寫產品／技術行銷內容。
 

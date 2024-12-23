@@ -42,7 +42,7 @@
 | Polaroid SX-70 Model 2                         | Polaroid instant camera    | 1974 | 0G520203007 (Jul 1975)   | 116mm f/8 (eq. 45mm; 4E)                              | Program  | Film cartridge | Semi-broken                                 |
 | Polaroid P 600                                 | Polaroid instant camera    | 2009 | JZHGTAJXVDJA             | 106mm f/14.6 (eq. 41mm; 1E)                           | Program  | Film cartridge | Made in UK                                  |
 | Agfa Photo                                     | 35mm toy camera            |      |                          |                                                       |          | AAA (flash)    |                                             |
-| Vivitar UW500                                  | 35mm toy camera            |      |                          |                                                       |          | AA x 2         | auto winding with waterproof case           |
+| Vivitar UW500 (unmarked copy)                  | 35mm toy camera            |      |                          |                                                       |          | AA x 2         | Auto winding with waterproof case           |
 
 ## Digital Cameras
 
@@ -97,7 +97,7 @@
 | Name                             | Type                    | Serial/Manufactured Date | Caliber/Module  | Jewels/Bph or Battery | Note                            |
 | -------------------------------- | ----------------------- | ------------------------ | --------------- | --------------------- | ------------------------------- |
 | Seiko Type 19 SEIKOSHA PRECISION | Mechanical pocket watch | 89559781 (1955~?)        | Moeris 19H copy | 7 (18,000)            |                                 |
-| Dolmy/Camerer Cuss 1/5           | Mechanical stopwatch    | 1970s?                   | BF410?          | 7 (18,000)            |                                 |
+| Dolmy 1/5                        | Mechanical stopwatch    | 1970s?                   | BF410?          | 7 (18,000)            | Retailed by Camerer Cuss        |
 | Seiko Sportsmatic 5              | Mechanical watch        | 5102998 (Feb 1965)       | 6619A           | 21 (18,000)           | Day wheel not working           |
 | Seiko 5                          | Mechanical watch        | 276684 (1982)            | 7009A           | 17 (21,600)           |                                 |
 | Casio A-168W                     | Digital quartz watch    | 1997?                    | 1572            | CR2016                | Dad's watch; beeper not working |
@@ -114,7 +114,7 @@
 | Name                    | Type                                   | Year        | Serial     | Battery       | Note                        |
 | ----------------------- | -------------------------------------- | ----------- | ---------- | ------------- | --------------------------- |
 | Ericsson GF388          | Mobile phone                           | 1995        | A51023PWMj | Unknown model | Broken                      |
-| Motorola Bravo Angel    | Pager                                  | Early 1990s | BECVVQ5F6P | AAA           | Broken?                     |
+| Motorola Bravo Angel    | Pager                                  | Early 1990s | BECVVQ5F6P | AAA           | Broken                      |
 | Motorola Timeport P7689 | Mobile phone                           | 2001        | B69VBLD499 | BYD-V8088     | No battery or charger       |
 | Nokia 3330              | Mobile phone                           | 2002        | 0506208    | BLC-2         | No battery or charger       |
 | Nokia 3210              | Mobile phone                           | 2005        | 0525972    | BML-3         | No battery or charger       |

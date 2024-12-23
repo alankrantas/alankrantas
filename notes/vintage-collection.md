@@ -2,7 +2,7 @@
 
 ## Film Cameras
 
-> RF = rangefinder, E = element(s), G = group(s), eq. = equivalent.
+> AE = automatic exposure mode, RF = rangefinder, E = element(s), G = group(s), eq. = equivalent.
 >
 > Selenium meter does not count as battery even if it's coupled.
 

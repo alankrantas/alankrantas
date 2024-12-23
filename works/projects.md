@@ -1,37 +1,50 @@
 # Writing Projects and Articles
 
-> `寫作專案與文章`
->
+`寫作專案與文章`
+
 > By [Alan Wang](https://github.com/alankrantas). Also see: [Published Works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
 ---
 
 ## Technical Writing and Technical Marketing Writing
 
-> `技術／技術行銷寫作`
+`技術／技術行銷寫作`
 
-- ### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep 2024 - Oct 2024)
+---
+
+### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep 2024 - Oct 2024)
 
 Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (_Spot Trading_, _Margin Trading_, _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_) based on materials and screenshots provided by the product team.
 
-- ### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+替 XREX 交易所 (鏈科股份有限公司) 之數種加密數位貨幣金融科技產品──現貨交易、信用交易、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金──撰寫白皮書草稿，依據產品團隊提供之素材。這些白皮書的用途為提供必要揭露及遵循監管法規。
 
-Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), built with React.js-based Docusaurus 3, based on information provided by the product and developer team upon each releases.
+---
 
-- ### Technical Marketing Blogs for FST Network (Apr 2022 - Dec 2022)
+### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
 
-- [Official blog](https://www.fst.network/blog)
-- [Medium channel](https://medium.com/fstnetwork)
+Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), based on information provided by the product and developer teams upon each releases.
+
+替 FST Network (邦拓鏈股份有限公司) 的資料產品雲平台 _Logic Operating Centre_ (LOC) 撰寫、維護及部署官方使用文件 [LOC Documentation](https://loc-documentation.vercel.app/)，包含產品使用指南、開發 SDK 文件及線上程式碼產生／測試工具，依據產品及開發團隊的產品改版更新。
+
+---
+
+### Technical Marketing for FST Network (Apr 2022 - Dec 2022)
+
+Write product and technical marketing content on FST Network's [Medium channel](https://medium.com/fstnetwork) and [official blog](https://www.fst.network/blog) coordinating with the marketing, product and developer teams.
+
+與行銷、產品及開發團隊協作，在 FST Network 的 [Medium 頻道](https://medium.com/fstnetwork)及[官網部落格](https://www.fst.network/blog)撰寫產品／技術行銷內容。
 
 ---
 
 ## Content Writing and Articles
 
-> `內容寫作與文章`
+`內容寫作與文章`
 
 - ### Literary Column for [The Affairs](https://www.theaffairs.com/)
 
-> Book reviews published on the magazine _The Affairs_ (編集者) around 2018 to 2019. They were re-published online in 2020.
+Book reviews published on the magazine _The Affairs_ around 2018 to 2019. They were re-published online in 2020.
+
+在 2018-2019 年間替編集者新聞書評專欄撰寫的文章，2020 年被重新發布為網路版。
 
 | English Title | Original Title |
 | --- | --- |

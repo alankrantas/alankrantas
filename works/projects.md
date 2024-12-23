@@ -42,14 +42,14 @@ Marketing campaigns on FST Network's Medium channel and official blog collaborat
 
 與行銷、產品及開發團隊協作，在 FST Network 的 Medium 頻道及官網部落格撰寫產品／技術行銷內容。
 
-- [Official blog](https://www.fst.network/blog):
+- [Official blog](https://www.fst.network/blog) (Sep - Dec 2022):
   - ["Why Machine Learning is Important for Data-Driven Decision-Making"](https://www.fst.network/post/machine-learning)
   - ["ETL, Reverse ETL and Streaming ETL: Building the Right Pipelines For Data Integration"](https://www.fst.network/post/etl-reverse-etl-streaming-etl)
   - ["Active Metadata: Tracking the Life Cycle and Data Trails of Data Products with Data Lineage"](https://www.fst.network/post/active-metadata)
   - ["Data as a Product: Make It Real with Event-Driven, Serverless Data Pipelines"](https://www.fst.network/post/data-product)
   - ["Data Mesh: A Paradigm Shift to Make Your Data Great Again"](https://www.fst.network/post/data-mesh)
 
-- [Medium channel](https://medium.com/fstnetwork) (selected):
+- [Medium channel](https://medium.com/fstnetwork) (Apr - Sep 2022) (selected):
   - ["A Brief History of Google’s Kubernetes and Why It’s Fantastic"](https://medium.com/fstnetwork/a-brief-history-of-googles-kubernetes-and-why-it-s-fantastic-658ad4248e3)
   - ["An Introduction to FST Network’s Logic Operating Centre (LOC)"](https://medium.com/fstnetwork/an-introduction-to-fst-networks-logic-operation-centre-loc-d6b965c47595)
 

@@ -6,68 +6,6 @@
 
 ---
 
-## Editorial Titles
-
-`編輯作品`
-
----
-
-### Software & Information Technology
-
-`軟體與科技`
-
-| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| _Micro Frontends in Action_ | [_決戰！微前端架構 Micro Frontends_](https://www.flag.com.tw/books/product/F3487) | Michael Geers | 旗標科技 (Flag Publishing) | 2023 | Programming, front-end | |
-| _Raspberry Pi 4: The AI Application Bible_ | [_Raspberry Pi 樹莓派：Python x AI 超應用聖經_](https://www.flag.com.tw/books/product/F1786) | 陳會安 | 旗標科技 (Flag Publishing) | 2022 | Programming, embedded programming, AI | |
-| _Automated Machine Learning with AutoKeras_ | [_AutoML 自動化機器學習_](https://www.flag.com.tw/books/product/F1385) | Luis Sobrecueva | 旗標科技 (Flag Publishing) | 2022 | AI, deep learning | |
-| _Essential TypeScript_ | [_TypeScript 邁向專家之路_](https://www.flag.com.tw/books/product/F1485) | Adam Freeman | 旗標科技 (Flag Publishing) | 2021 | Programming, front-end | |
-| _The Go Workshop_ | [_完全自學！Go 語言實戰聖經_](https://www.flag.com.tw/books/product/F1741) | Delio D'Anna, Andrew Hayes, Sam Hennessy, Jeremy Leasor, Gobin Sougrakpam and Daniel Szabo | 旗標科技 (Flag Publishing) | 2021 | Programming, back-end | |
-| _Pythonで動かして学ぶ！あたらしい深層学習の教科書 (Learn by Running Python! The New Deep Learning Book)_ | [_必學！Python 資料科學‧機器學習最強套件_](https://www.flag.com.tw/books/product/F1378) | 石川聡彦 | 旗標科技 (Flag Publishing) | 2021 | AI, data science, deep learning | Co-edited (60%) |
-| _Python Workout_ | [_Python 刷題鍛鍊班_](https://www.flag.com.tw/books/product/F1750) | Reuven M. Lerner | 旗標科技 (Flag Publishing) | 2021 | Programming | |
-| _Python Tricks_ | [_Python 神乎其技 全新超譯版_](https://www.flag.com.tw/activity/FT746A/) | Dan Bader | 旗標科技 (Flag Publishing) | 2020 | Programming | |
-
----
-
-### Fiction
-
-`文學`
-
-| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
-| --- | --- | --- | --- | --- | --- | --- |
-| _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction, spy | As assistant editor and the translator for new introductions |
-
----
-
-## Authored Titles
-
-`著作`
-
----
-
-### Software & Technology
-
-`軟體與科技`
-
-| English Title | Original Title | Publisher | Published Year | Genre | Note |
-| --- | --- | --- | --- | --- | --- |
-| _The Python and Data Science Book for Interdisciplinary Learning_ | [_跨領域學 Python：資料科學基礎養成_](https://www.flag.com.tw/books/product/F0753) | 旗標科技 (Flag Publishing) | 2020 | Programming, AI, data science | Also the editor |
-| _Flag's Maker Workshop: Smart Cloud Sensors with Python_ | [_Flag's 創客‧自造者工作坊 Python 感測器大應用_](https://www.flag.com.tw/maker/FM622A) | 旗標科技 (Flag Publishing) | 2020 | Embedded programming, IoT | Also the illustration photographer |
-
----
-
-### STEM Education
-
-`STEM 教育`
-
-| English Title | Original Title | Publisher | Published Year | Genre | Note |
-| --- | --- | --- | --- | --- | --- |
-| _My First micro:bit Robot Guide with NexusBot_ | [_micro:bit x NexusBot：孩子的第一本機器人指南_](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=114) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, robotic | Partial credit; also the illustration photographer |
-| _My First micro:bit Maker Guide with Thunder:bit_ | [_micro:bit x Thunder:bit：孩子的第一本創客指南_](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=71) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, Maker, robotic | Also the illustration photographer |
-| _My First micro:bit Programming Book_ | [_孩子的第一本 micro:bit 程式學習書_](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=61) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2019 | STEM, embedded programming | Also the illustration photographer |
-
----
-
 ## Translated Titles
 
 `翻譯作品`
@@ -136,3 +74,65 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Free State of Jones_ | [_瓊斯自由邦_](https://www.books.com.tw/products/0010737316?sloc=main) | Victoria E. Bynum | 水靈文創 (Shuiling Publishing) | 2016 | History | |
 | _How Star Wars Conquered the Universe_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | Chris Taylor | 高寶書版 (Global Publishing) | 2015 | Cinema | Co-translated (60%) |
+
+---
+
+## Editorial Titles
+
+`編輯作品`
+
+---
+
+### Software & Information Technology
+
+`軟體與科技`
+
+| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| _Micro Frontends in Action_ | [_決戰！微前端架構 Micro Frontends_](https://www.flag.com.tw/books/product/F3487) | Michael Geers | 旗標科技 (Flag Publishing) | 2023 | Programming, front-end | |
+| _Raspberry Pi 4: The AI Application Bible_ | [_Raspberry Pi 樹莓派：Python x AI 超應用聖經_](https://www.flag.com.tw/books/product/F1786) | 陳會安 | 旗標科技 (Flag Publishing) | 2022 | Programming, embedded programming, AI | |
+| _Automated Machine Learning with AutoKeras_ | [_AutoML 自動化機器學習_](https://www.flag.com.tw/books/product/F1385) | Luis Sobrecueva | 旗標科技 (Flag Publishing) | 2022 | AI, deep learning | |
+| _Essential TypeScript_ | [_TypeScript 邁向專家之路_](https://www.flag.com.tw/books/product/F1485) | Adam Freeman | 旗標科技 (Flag Publishing) | 2021 | Programming, front-end | |
+| _The Go Workshop_ | [_完全自學！Go 語言實戰聖經_](https://www.flag.com.tw/books/product/F1741) | Delio D'Anna, Andrew Hayes, Sam Hennessy, Jeremy Leasor, Gobin Sougrakpam and Daniel Szabo | 旗標科技 (Flag Publishing) | 2021 | Programming, back-end | |
+| _Pythonで動かして学ぶ！あたらしい深層学習の教科書 (Learn by Running Python! The New Deep Learning Book)_ | [_必學！Python 資料科學‧機器學習最強套件_](https://www.flag.com.tw/books/product/F1378) | 石川聡彦 | 旗標科技 (Flag Publishing) | 2021 | AI, data science, deep learning | Co-edited (60%) |
+| _Python Workout_ | [_Python 刷題鍛鍊班_](https://www.flag.com.tw/books/product/F1750) | Reuven M. Lerner | 旗標科技 (Flag Publishing) | 2021 | Programming | |
+| _Python Tricks_ | [_Python 神乎其技 全新超譯版_](https://www.flag.com.tw/activity/FT746A/) | Dan Bader | 旗標科技 (Flag Publishing) | 2020 | Programming | |
+
+---
+
+### Fiction
+
+`文學`
+
+| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction, spy | As assistant editor and the translator for new introductions |
+
+---
+
+## Authored Titles
+
+`著作`
+
+---
+
+### Software & Technology
+
+`軟體與科技`
+
+| English Title | Original Title | Publisher | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- |
+| _The Python and Data Science Book for Interdisciplinary Learning_ | [_跨領域學 Python：資料科學基礎養成_](https://www.flag.com.tw/books/product/F0753) | 旗標科技 (Flag Publishing) | 2020 | Programming, AI, data science | Also the editor |
+| _Flag's Maker Workshop: Smart Cloud Sensors with Python_ | [_Flag's 創客‧自造者工作坊 Python 感測器大應用_](https://www.flag.com.tw/maker/FM622A) | 旗標科技 (Flag Publishing) | 2020 | Embedded programming, IoT | Also the illustration photographer |
+
+---
+
+### STEM Education
+
+`STEM 教育`
+
+| English Title | Original Title | Publisher | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- |
+| _My First micro:bit Robot Guide with NexusBot_ | [_micro:bit x NexusBot：孩子的第一本機器人指南_](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=114) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, robotic | Partial credit; also the illustration photographer |
+| _My First micro:bit Maker Guide with Thunder:bit_ | [_micro:bit x Thunder:bit：孩子的第一本創客指南_](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=71) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, Maker, robotic | Also the illustration photographer |
+| _My First micro:bit Programming Book_ | [_孩子的第一本 micro:bit 程式學習書_](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=61) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2019 | STEM, embedded programming | Also the illustration photographer |

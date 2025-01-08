@@ -46,7 +46,7 @@ _Why do I even need a human writer_, you ask? Why not AI?
 
 Generative AIs are useful for writing generally; but by design they are trained to write like an _average_ person with fixed knowledge, and can be rather unimaginative and repetitive overtime. Good writing or translating is an art of storytelling, which involves careful researching, thinking and organizing around the domain, subject and their context. The process is often organic, dynamic and nonlinear, much like painting a picture, instead of predicting words mathematically.
 
-生成式 AI 很適合一般用途寫作，但其設計是訓練成模仿*普通*人寫作，只擁有固定的知識，而且長期下來的創意有限、重複性高。出色的寫作或翻譯其實是一門說故事的藝術，牽涉到對相關領域、主題與其脈絡的仔細研究、思考跟組織。這種創作過程經常是有演進性、彈性和非線性的，相當類似在作畫，而不是單純以統計學預測一連串字詞而已。
+生成式 AI 很適合一般用途寫作，但其設計是訓練成模仿*普通*人寫作，只擁有固定的知識，而且長期下來的創意有限、重複性高。出色的寫作或翻譯其實是一門說故事的藝術，牽涉到對相關領域、主題與其脈絡的仔細研究、思考跟整理。這種創作過程經常是有演進性、彈性和非線性的，相當類似在作畫，而不是單純以統計學連續預測字詞而已。
 
 As for translating, a good translator plays a reliable bridge connecting two worlds containing different cultural concepts and ways of speaking. No languages can be translated word-by-word to another, and only one with sufficient understanding can find you the balanced path of readability and faithfulness.
 

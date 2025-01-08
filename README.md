@@ -42,19 +42,19 @@ _註：恕不接 AI 訓練寫作或 i18n 式半機器翻譯。_
 
 _Why do I even need a human writer_, you ask? Why not AI?
 
-你會問，_我幹嘛要找個真人寫東西_？幹嘛不用 AI？
+您會問：_我幹嘛要找個真人寫東西_？幹嘛不用 AI？
 
 Generative AIs are useful for writing generally; but by design they are trained to write like an _average_ person with fixed knowledge, and can be rather unimaginative and repetitive overtime. Good writing or translating is an art of storytelling, which involves careful researching, thinking and organizing around the domain, subject and their context. The process is often organic, dynamic and nonlinear, much like painting a picture, instead of predicting words mathematically.
 
-生成式 AI 很適合一般用途寫作，但其設計是訓練成模仿*普通*人寫作，只擁有固定的知識，而且長時間下來的創意有限、重複性高。出色的寫作或翻譯其實是一門說故事的藝術，牽涉到對相關領域、主題與其脈絡的仔細研究、思考跟組織。這種過程經常是有進化性、彈性和非線性的，十分類似你在繪製一幅圖畫，而不是單純以統計學預測字詞而已。
+生成式 AI 很適合一般用途寫作，但其設計是訓練成模仿*普通*人寫作，只擁有固定的知識，而且長時間下來的創意有限、重複性高。出色的寫作或翻譯其實是一門說故事的藝術，牽涉到對相關領域、主題與其脈絡的仔細研究、思考跟組織。這種過程經常是有演進性、彈性和非線性的，相當類似作畫的過程，而不是單純以統計學預測一連串字詞而已。
 
 As for translating, a good translator plays a reliable bridge connecting two worlds containing different cultural concepts and ways of speaking. No languages can be translated word-by-word to another, and only one with sufficient understanding can find you the balanced path of readability and faithfulness.
 
-至於翻譯，優異的翻譯者扮演了可靠的橋樑，能銜接兩個有著不同文化及表達概念的世界。沒有任何語言能完全逐字翻譯成另一者，而只有對雙邊語言具備充足理解的人，才有辦法在可讀性和忠實性之間取得平衡。
+至於翻譯，優異的翻譯者扮演了可靠的橋樑，能銜接兩個有著不同文化及表達概念的世界。沒有任何語言能完全逐字逐句翻譯成另一者，而只有對雙方語言具備充足理解的人，才有辦法在可讀性和忠實性之間取得良好平衡。
 
 Are you looking for someone who can give your business content a boost for differentiation and better user engagement? Are you having trouble with content quality using ChatGPT or alike? I may be the one to help you to get there.
 
-您想要找個人讓您的商業內容更上一層，做出差異化和得到更好的使用者參與度嗎？你在使用 ChatGTP 之類的工具上發現內容品質不佳嗎？我或許就是能幫您一把的那個人。
+您是否想找人讓您的商業內容更上一層，做出差異化和改善使用者參與度嗎？你在使用 ChatGTP 之類的工具上有遇到內容品質不佳的問題嗎？我或許就是能幫您推一把的那個人。
 
 ---
 

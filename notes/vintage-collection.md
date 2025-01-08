@@ -102,7 +102,7 @@
 | Seiko Type 19       | Mechanical pocket watch | 89559781 (1955~?)        | Moeris 19H copy | 7 (18,000)            |                                 |
 | Dolmy 1/5           | Mechanical stopwatch    | 1970s?                   | BF410?          | 7 (18,000)            | Retailed by Camerer Cuss        |
 | Seiko Sportsmatic 5 | Mechanical watch        | 5102998 (Feb 1965)       | 6619A           | 21 (18,000)           | Day wheel not working           |
-| Seiko 5             | Mechanical watch        | 276684 (1982)            | 7009A           | 17 (21,600)           |                                 |
+| Seiko 5             | Mechanical watch        | 276684 (Jul 1982)        | 7009A           | 17 (21,600)           |                                 |
 | Casio A-168W        | Digital quartz watch    | 1997?                    | 1572            | CR2016                | Dad's watch; beeper not working |
 | Orient GP? ~        | Analog quartz watch     | Late 1970s?              | 53030           | SR726SW               | Mom's watch; broken             |
 

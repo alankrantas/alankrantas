@@ -22,10 +22,10 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 1. Write, edit and proofread unique content, marketing materials/copy and high-quality technical documents/documentation for target audience.
 2. Translate between English and Traditional Chinese for articles, documents and books.
 
-_Note: I do not offer AI training writing nor i18n-type semi-machine translating._
-
 1. 撰寫／編輯／校訂針對指定讀者或客群之獨特內容、行銷素材／文案、高品質技術文件／說明書等。
 2. 長篇文章、文件、書籍等中英雙向文字翻譯。
+
+_Note: I do not offer AI training writing nor i18n-type semi-machine translating._
 
 _註：恕不接 AI 訓練寫作或 i18n 式半機器翻譯。_
 
@@ -35,6 +35,26 @@ _註：恕不接 AI 訓練寫作或 i18n 式半機器翻譯。_
 
 - [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 - [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
+
+### Why Does It Matter?
+
+`為什麼你需要這些服務？`
+
+_Why do I even need a human writer_, you ask? Why not AI?
+
+你會問，_我幹嘛要找個真人寫東西_？幹嘛不用 AI？
+
+Generative AIs are useful for writing generally; but by design they are trained to write like an _average_ person with fixed knowledge, and can be rather unimaginative and repetitive overtime. Good writing or translating is an art of storytelling, which involves careful researching, thinking and organizing around the domain, subject and their context. The process is often organic, dynamic and nonlinear, much like painting a picture, instead of predicting words mathematically.
+
+生成式 AI 很適合一般用途寫作，但其設計是訓練成模仿*普通*人寫作，只擁有固定的知識，而且長時間下來的創意有限、重複性高。出色的寫作或翻譯其實是一門說故事的藝術，牽涉到對相關領域、主題與其脈絡的仔細研究、思考跟組織。這種過程經常是有進化性、彈性和非線性的，十分類似你在繪製一幅圖畫，而不是單純以統計學預測字詞而已。
+
+As for translating, a good translator plays a reliable bridge connecting two worlds containing different cultural concepts and ways of speaking. No languages can be translated word-by-word to another, and only one with sufficient understanding can find you the balanced path of readability and faithfulness.
+
+至於翻譯，優異的翻譯者扮演了可靠的橋樑，能銜接兩個有著不同文化及表達概念的世界。沒有任何語言能完全逐字翻譯成另一者，而只有對雙邊語言具備充足理解的人，才有辦法在可讀性和忠實性之間取得平衡。
+
+Are you looking for someone who can give your business content a boost for differentiation and better user engagement? Are you having trouble with content quality using ChatGPT or alike? I may be the one to help you to get there.
+
+您想要找個人讓您的商業內容更上一層，做出差異化和得到更好的使用者參與度嗎？你在使用 ChatGTP 之類的工具上發現內容品質不佳嗎？我或許就是能幫您一把的那個人。
 
 ---
 

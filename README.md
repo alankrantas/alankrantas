@@ -25,9 +25,9 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 1. 撰寫／編輯／校訂針對指定讀者或客群之獨特內容、行銷素材／文案、高品質技術文件／說明書等。
 2. 長篇文章、文件、書籍等中英雙向文字翻譯。
 
-_Note: I do not offer AI training writing (except writing prompts) nor i18n-type semi-machine translating._
+_Note: I do not offer AI training writing (except writing source materials to be referenced by AI applications) nor i18n-type semi-machine translating._
 
-_註：恕不接 AI 訓練寫作 (撰寫提示除外) 或 i18n 式半機器翻譯。_
+_註：恕不接 AI 訓練寫作 (撰寫 AI 應用要參考的原始材料除外) 或 i18n 式半機器翻譯。_
 
 ### My Published Works & Projects
 

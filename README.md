@@ -25,9 +25,9 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 1. 撰寫／編輯／校訂針對指定讀者或客群之獨特內容、行銷素材／文案、高品質技術文件／說明書等。
 2. 長篇文章、文件、書籍等中英雙向文字翻譯。
 
-_Note: I do not offer AI training writing nor i18n-type semi-machine translating._
+_Note: I do not offer AI training writing (except writing prompts) nor i18n-type semi-machine translating._
 
-_註：恕不接 AI 訓練寫作或 i18n 式半機器翻譯。_
+_註：恕不接 AI 訓練寫作 (撰寫提示除外) 或 i18n 式半機器翻譯。_
 
 ### My Published Works & Projects
 
@@ -44,17 +44,21 @@ _Why do I even need a human writer_, you ask? Why not AI?
 
 您會問：_我幹嘛要找個真人寫東西_？幹嘛不用 AI？
 
-Generative AIs are useful for writing generally; but by design they are trained to write like an _average_ person with fixed knowledge, and can be rather unimaginative and repetitive overtime. Good writing or translating is an art of storytelling, which involves careful researching, thinking and organizing around the domain, subject and their context. The process is often organic, dynamic and nonlinear, much like painting a picture, instead of predicting words mathematically.
+Generative AIs are useful for general writing; however by design they are trained to write like an _average_ person with fixed knowledge. They cannot reason well in your specific domain without lengthy, detailed prompts, and tend to be unimaginative and repetitive due to the lack of input. Creating reference documents for AIs in the first place can be just as challenging.
 
-生成式 AI 很適合一般用途寫作，但其設計是訓練成模仿*普通*人寫作，只擁有固定的知識，而且長期下來的創意有限、重複性高。出色的寫作或翻譯其實是一門說故事的藝術，牽涉到對相關領域、主題與其脈絡的仔細研究、思考跟整理。這種創作過程經常是有演進性、彈性和非線性的，相當類似在作畫，而不是單純以統計學連續預測字詞而已。
+生成式 AI 很適合一般用途寫作，但其設計是訓練成模仿*普通*人寫作，且只擁有固定的知識。若沒有提供足夠且詳細的提示，它們在您的特有領域的推論能力便表現不佳，而且經常因為輸入資料不足而創意有限、重複性高。但要製作 AI 參考用的文件，從一開始也會是艱鉅的任務。
 
-As for translating, a good translator plays a reliable bridge connecting two worlds containing different cultural concepts and ways of speaking. No languages can be translated word-by-word to another, and only one with sufficient understanding can find you the balanced path of readability and faithfulness.
+Quality writing is an art of storytelling, which involves careful researching and organizing around the domain, subject and context, while the creation process is often intuitive, dynamic and nonlinear, much like painting a picture aesthetically, instead of predicting words sequentially.
 
-至於翻譯，優異的翻譯者扮演了可靠的橋樑，能銜接兩個有著不同文化及表達概念的世界。沒有任何語言能完全逐字逐句翻譯成另一者，而只有對雙方語言具備充足理解的人，才有辦法在可讀性和忠實性之間取得適當平衡。
+高品質的寫作其實是一門說故事的藝術，牽涉到對相關領域、主題與脈絡的仔細研究跟整理，而創作過程又經常是有直覺性、動態和非線性的，十分類似在創作美麗的畫作，而不是單純依序預測字詞而已。
 
-Are you looking for someone who can give your business content a boost for differentiation and better user engagement? Are you having trouble with content quality using ChatGPT or alike? I may be the one to help you to get there.
+As for translating, a competent translator plays a reliable bridge connecting two worlds containing incompatible cultural concepts and ways of speaking. No languages can be converted _word-by-word_ to another, and only one with sufficient understanding can find you the balanced path of readability and faithfulness.
 
-您是否想找人讓您的商業內容更上一層，做出差異化和改善使用者參與度嗎？你在使用 ChatGTP 之類的工具上有遇到內容品質不佳的問題嗎？我或許就是能幫您推一把的那個人。
+至於翻譯，稱職的翻譯者扮演了可靠的橋樑，能銜接兩個有著不相容文化概念及表達方式的世界。沒有任何語言能完全*逐字逐句*轉換成另一者，而只有對雙方語言具備充足理解的人，才有辦法在可讀性和忠實性之間取得適當平衡。
+
+Are you looking for someone who can give your business content a boost for differentiation and better user engagement? Are you having trouble with content quality using ChatGPT or alike? Do you believe that genuine content matters? I may be the one to help you to get there.
+
+想找人讓您的商業內容更上一層，做出差異化和改善使用者參與度嗎？您在使用 ChatGTP 之類的工具上遭遇到內容品質問題嗎？您相信真材實料的內容很重要嗎？我或許就是能幫您推一把的那個人。
 
 ---
 

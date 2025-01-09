@@ -58,7 +58,7 @@ As for translating, a competent translator plays a reliable bridge connecting tw
 
 Are you looking for someone who can give your business an edge in content differentiation and better user engagement? Are you having trouble with content quality using ChatGPT or alike? Do you believe that genuine content _matters_? I may be the one to help you to get there.
 
-想找人讓您的內容獲得差異化和改善使用者參與度，進而提升企業優勢嗎？您在使用 ChatGTP 之類的工具上遭遇到內容品質問題嗎？您相信真材實料的內容很重要嗎？我或許就是能幫您推一把的那個人。
+想找人讓您的內容獲得差異化和改善使用者參與度，進而提升企業優勢嗎？您在使用 ChatGTP 之類的工具上遭遇到內容品質問題嗎？您相信真材實料的內容*很重要*嗎？我或許就是能幫您推一把的那個人。
 
 ---
 

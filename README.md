@@ -28,6 +28,8 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 > _Note: I do not offer AI training writing (except writing source materials to be referenced by AI applications) nor i18n-type semi-machine translating. (註：恕不接 AI 訓練寫作 (撰寫 AI 應用要參考的原始材料除外) 或 i18n 式半機器翻譯。)_
 
+---
+
 ### My Published Works & Projects
 
 `我的寫作與翻譯作品`
@@ -35,6 +37,8 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 - [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
 - [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
+
+---
 
 ### Why Does It Matter?
 

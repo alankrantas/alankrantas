@@ -2,9 +2,9 @@
 
 ## Film Cameras
 
-> ~ - = as display and not in active use
+> . = as display and not useable for photography
 >
-> AE = automatic exposure mode, RF = rangefinder, E = element(s), G = group(s), eq. = equivalent.
+> AE = automatic exposure mode, RF = rangefinder, E = element(s), G = group(s), eq. = (35mm focal length) equivalent.
 >
 > Selenium meter does not count as battery even if it's coupled. Batteries for date backs are not listed.
 
@@ -17,33 +17,33 @@
 | Canon EOS 300                                    | 35mm auto SLR              | 1999 | 3949265                  | Canon EF                                              | Full     | CR2 x 2        |                                                          |
 | Canon EOS 300                                    | 35mm auto SLR              | 1999 | 2860802                  | Canon EF                                              | Full     | CR2 x 2        |                                                          |
 | Canon Top Twin (Sure Shot Tele)                  | 35mm auto point & shoot    | 1986 | 1997442/FC0516 (1988)    | 40mm f/2.8 (4E3G) or /70mm f/4.9 (7E6G)               | Program  | 2CR5           | Dual focal length                                        |
-| Canon Prima Super 85 Caption (Sure Shot Z85) ~   | 35mm auto point & shoot    | 1994 | 6501378                  | Canon Zoom Lens 38-85mm f/3.8-8 (8E7G)                | Program  | CR123A x 2     | Film door latch broken and lens has fungus               |
-| Canon Prima Super 155 Caption (Sure Shot Z155) ~ | 35mm auto point & shoot    | 2002 | (21)71020440             | Canon Zoom Lens 37-155mm f/4.8-11.7 (11E10G)          | Program  | CR123A         | Zoom lens broken                                         |
-| Olympus Trip 35 ~                                | 35mm viewfinder            | 1967 | 985574 (1972)            | 40mm f/2.8 (4E3G)                                     | Program  |                | Working but lens is in bad shape                         |
+| Canon Prima Super 85 Caption (Sure Shot Z85) .   | 35mm auto point & shoot    | 1994 | 6501378                  | Canon Zoom Lens 38-85mm f/3.8-8 (8E7G)                | Program  | CR123A x 2     | Film door latch broken and lens has fungus               |
+| Canon Prima Super 155 Caption (Sure Shot Z155) . | 35mm auto point & shoot    | 2002 | (21)71020440             | Canon Zoom Lens 37-155mm f/4.8-11.7 (11E10G)          | Program  | CR123A         | Zoom lens broken                                         |
+| Olympus Trip 35 .                                | 35mm viewfinder            | 1967 | 985574 (1972)            | 40mm f/2.8 (4E3G)                                     | Program  |                | Working but lens is in bad shape                         |
 | Olympus Pen                                      | 35mm half-frame viewfinder | 1959 | 391319                   | 28mm f/3.5 (eq. 40mm; 4E3G)                           |          |                |                                                          |
-| Olympus Pen EE ~                                 | 35mm half-frame viewfinder | 1961 | 273969                   | 28mm f/3.5 (eq. 40mm; 4E3G)                           | Program  |                | Shutter and light meter barely working                   |
+| Olympus Pen EE .                                 | 35mm half-frame viewfinder | 1961 | 273969                   | 28mm f/3.5 (eq. 40mm; 4E3G)                           | Program  |                | Shutter and light meter barely working                   |
 | Olympus XA2                                      | 35mm manual point & shoot  | 1980 | 2930431 (1981)           | 35mm f/3.5 (4E4G)                                     | Program  | LR44 x 2       | Comes with a non-working A11 flash                       |
-| Olympus Chrome Six II ~                          | 120 manual RF (6x4.5/6x6)  | 1948 | 100135                   | Olympus Zuiko F.C. 1:2.8 f=7.5mm (eq. 40mm; 4E3G)     |          |                | Slower shutter speeds not working                        |
-| Minolta 16 II ~                                  | Subminiature (16mm film)   | 1960 | 546000                   | 22mm f/2.8 (eq. 55mm; 3E3G)                           |          |                | Missing viewfinder glass and film cartridge              |
-| Pentax MX ~                                      | 35mm manual SLR            | 1976 | 4385159                  | Pentax K                                              |          |                | Broken                                                   |
-| Ricoh Auto 35 ~                                  | 35mm viewfinder            | 1960 | 98629?                   | Riken Ricoh f=4cm f/2.8 (3E3G)                        | Program  |                | Light meter not working                                  |
-| Ricoh AF-60D ~                                   | 35mm auto point & shoot    | 1986 | 17628286                 | 35mm f/3.5 (4E3G)                                     | Program  | AA x 2         | Our first home camera; broken                            |
+| Olympus Chrome Six II .                          | 120 manual RF (6x4.5/6x6)  | 1948 | 100135                   | Olympus Zuiko F.C. 1:2.8 f=7.5mm (eq. 40mm; 4E3G)     |          |                | Slower shutter speeds not working                        |
+| Minolta 16 II .                                  | Subminiature (16mm film)   | 1960 | 546000                   | 22mm f/2.8 (eq. 55mm; 3E3G)                           |          |                | Missing viewfinder glass and film cartridge              |
+| Pentax MX .                                      | 35mm manual SLR            | 1976 | 4385159                  | Pentax K                                              |          |                | Broken                                                   |
+| Ricoh Auto 35 .                                  | 35mm viewfinder            | 1960 | 98629?                   | Riken Ricoh f=4cm f/2.8 (3E3G)                        | Program  |                | Light meter not working                                  |
+| Ricoh AF-60D .                                   | 35mm auto point & shoot    | 1986 | 17628286                 | 35mm f/3.5 (4E3G)                                     | Program  | AA x 2         | Our first home camera; broken                            |
 | Ricoh FF-3AF                                     | 35mm auto point & shoot    | 1982 | 78402993                 | 35mm f/3.2 (5E5G)                                     | Program  | AA x 2         |                                                          |
 | Mamiya 35S2                                      | 35mm manual RF             | 1959 | 1195409                  | Mamiya-Sekor F.C. 48mm f/1.9 (6E4G)                   |          |                | Comes with lens hood and yellow filter                   |
-| Mamiya Six IV                                    | 120 manual RF (6x6)        | 1947 | No.45075 (~1950?)        | Olympus Zuiko Coated 1:3.5 f=7.5cm (eq. 40mm; 4E3G)   |          |                | Film-plane focusing                                      |
-| Yashica Rapide ~                                 | 35mm half-frame viewfinder | 1961 | H1120129                 | Yashinon 1:2.8 f=2.8cm (eq. 40mm; 4E3G?)              |          |                | Semi-working shutter with light meter and counter broken |
+| Mamiya Six IV                                    | 120 manual RF (6x6)        | 1947 | No.45075 (.1950?)        | Olympus Zuiko Coated 1:3.5 f=7.5cm (eq. 40mm; 4E3G)   |          |                | Film-plane focusing                                      |
+| Yashica Rapide .                                 | 35mm half-frame viewfinder | 1961 | H1120129                 | Yashinon 1:2.8 f=2.8cm (eq. 40mm; 4E3G?)              |          |                | Semi-working shutter with light meter and counter broken |
 | Yashica Mat-124G                                 | 120 TLR (6x6)              | 1970 | 3018377 (1973?)          | Taking lens: Yashinon 80mm f/3.5 (eq. 50mm; 4E3G)     |          | L1560          | 120 film 6x6; working lightmeter                         |
 | VEB Zeiss Ikon Ercona                            | 120 manual RF (6x9)        | 1948 | 37136171004 (1953-55?)   | Carl Zeiss Jena Tessar 105mm f/3.5 T (eq. 45mm; 4E3G) |          |                | Zeiss Ikon Ikonta 521/2 copy                             |
-| Korelle 3x4 ~                                    | 127 manual RF (3x4)        | 1931 |                          | Vidar 1:4.5 f=5cm (eq. 38mm; 3E?)                     |          |                | Rusted body with jammed shutter                          |
-| Kodak Brownie Reflex Synchro Model ~             | 127 pseudo TLR             | 1940 |                          | 45mm f/11 (eq. 35mm)                                  |          |                |                                                          |
-| Kodak Six-20 Brownie D ~                         | 620 box camera             | 1946 |                          | 100mm f/11 (eq. 55mm, 1E?)                            |          |                |                                                          |
-| Kodak Brownie Hawkeye Flash ~                    | 620 box camera             | 1950 |                          | 81mm f/15 (eq. 44mm, 1E?)                             |          |                | Comes with a Kodalite Flashholder                        |
-| Kodak Hawkeye Instamatic II ~                    | 126 viewfinder             | 1969 |                          | 43mm f/11 (eq. 45mm; 1E?)                             |          | PX825 (flash)  | Comes with a flash cube                                  |
-| Kodak Instamatic 76x ~                           | 126 viewfinder             | 1977 |                          | Kodar 43mm f/11 (eq. 45mm)                            |          |                | Made in England                                          |
-| Kodak Brownie 8 ~                                | 8mm movie camera           | 1960 |                          | 13mm f/2.7 (eq. 95mm)                                 |          |                | Made in Canada                                           |
+| Korelle 3x4 .                                    | 127 manual RF (3x4)        | 1931 |                          | Vidar 1:4.5 f=5cm (eq. 38mm; 3E?)                     |          |                | Rusted body with jammed shutter                          |
+| Kodak Brownie Reflex Synchro Model .             | 127 pseudo TLR             | 1940 |                          | 45mm f/11 (eq. 35mm)                                  |          |                |                                                          |
+| Kodak Six-20 Brownie D .                         | 620 box camera             | 1946 |                          | 100mm f/11 (eq. 55mm, 1E?)                            |          |                |                                                          |
+| Kodak Brownie Hawkeye Flash .                    | 620 box camera             | 1950 |                          | 81mm f/15 (eq. 44mm, 1E?)                             |          |                | Comes with a Kodalite Flashholder                        |
+| Kodak Hawkeye Instamatic II .                    | 126 viewfinder             | 1969 |                          | 43mm f/11 (eq. 45mm; 1E?)                             |          | PX825 (flash)  | Comes with a flash cube                                  |
+| Kodak Instamatic 76x .                           | 126 viewfinder             | 1977 |                          | Kodar 43mm f/11 (eq. 45mm)                            |          |                | Made in England                                          |
+| Kodak Brownie 8 .                                | 8mm movie camera           | 1960 |                          | 13mm f/2.7 (eq. 95mm)                                 |          |                | Made in Canada                                           |
 | Polaroid SX-70 Land Camera Sonar OneStep         | Polaroid instant camera    | 1978 | 5G847493588 (Jun 1978)   | 116mm f/8 (eq. 45mm; 4E)                              | Program  | Film cartridge | Auto-focusing with ultrasonic                            |
-| Polaroid SX-70 Model 2 ~                         | Polaroid instant camera    | 1974 | 0G520203007 (Jul 1975)   | 116mm f/8 (eq. 45mm; 4E)                              | Program  | Film cartridge | Semi-broken                                              |
-| Polaroid P 600 ~                                 | Polaroid instant camera    | 2009 | JZHGTAJXVDJA             | 106mm f/14.6 (eq. 41mm; 1E)                           | Program  | Film cartridge | Made in UK                                               |
+| Polaroid SX-70 Model 2 .                         | Polaroid instant camera    | 1974 | 0G520203007 (Jul 1975)   | 116mm f/8 (eq. 45mm; 4E)                              | Program  | Film cartridge | Semi-broken                                              |
+| Polaroid P 600 .                                 | Polaroid instant camera    | 2009 | JZHGTAJXVDJA             | 106mm f/14.6 (eq. 41mm; 1E)                           | Program  | Film cartridge | Made in UK                                               |
 | Agfa Photo                                       | 35mm toy camera            |      |                          |                                                       |          | AAA (flash)    |                                                          |
 | Vivitar UW500 (unmarked copy)                    | 35mm toy camera            |      |                          |                                                       |          | AA x 2         | Auto winding with waterproof case                        |
 
@@ -51,8 +51,8 @@
 
 | Name                   | Type                 | Year | Serial/Manufactured Date | Lens or Mount                                            | Sensor (Megapixels) | Battery | Note        |
 | ---------------------- | -------------------- | ---- | ------------------------ | -------------------------------------------------------- | ------------------- | ------- | ----------- |
-| Fujifilm S304 (3800) ~ | 1/2.7" point & shoot | 2004 | 24L02713                 | Fujifilm Zoom Lens 6-36mm f/2.8 (eq. 38-228mm)           | 3.2 (CCD)           | AA x 4  | Semi-broken |
-| Kodak EasyShare C653 ~ | 1/2.5" point & shoot | 2005 | KCFGP71925063            | Kodak AF 3x Optical Aspheric Lens eq. 36-108mm f/2.7-4.6 | 6.1 (CCD)           | AA x 2  |             |
+| Fujifilm S304 (3800) . | 1/2.7" point & shoot | 2004 | 24L02713                 | Fujifilm Zoom Lens 6-36mm f/2.8 (eq. 38-228mm)           | 3.2 (CCD)           | AA x 4  | Semi-broken |
+| Kodak EasyShare C653 . | 1/2.5" point & shoot | 2005 | KCFGP71925063            | Kodak AF 3x Optical Aspheric Lens eq. 36-108mm f/2.7-4.6 | 6.1 (CCD)           | AA x 2  |             |
 | Canon EOS M50          | APS-C mirrorless     | 2018 | 648142xxxxxx             | Canon EF-M                                               | 24.1 (CMOS)         | LP-E12  |             |
 
 ## Lenses
@@ -81,7 +81,7 @@
 
 | Name                         | GN       | Type                                | Serial/Manufactured Date | Battery | Note              |
 | ---------------------------- | -------- | ----------------------------------- | ------------------------ | ------- | ----------------- |
-| Sunpak Auto 25SR Thyristor ~ | 25       | Single point flash with auto sensor | 08181933 (late 1970s?)   | AA x 4  | Has PC sync cable |
+| Sunpak Auto 25SR Thyristor . | 25       | Single point flash with auto sensor | 08181933 (late 1970s?)   | AA x 4  | Has PC sync cable |
 | Starblitz 160A               | 16       | Single point flash with auto sensor |                          | AA x 2  | Has PC sync cable |
 | Canon Speedlite 580EX        | 58       | For Canon EOS cameras               | 507885 (mid-2000s?)      | AA x 4  |                   |
 | MINT Flash Bar               | 20 or 12 | For Polaroid SX-70/Type 1000        |                          | AAA x 2 |                   |
@@ -99,12 +99,12 @@
 
 | Name                | Type                    | Serial/Manufactured Date | Caliber/Module  | Jewels/Bph or Battery | Note                            |
 | ------------------- | ----------------------- | ------------------------ | --------------- | --------------------- | ------------------------------- |
-| Seiko Type 19       | Mechanical pocket watch | 89559781 (1955~?)        | Moeris 19H copy | 7 (18,000)            |                                 |
+| Seiko Type 19       | Mechanical pocket watch | 89559781 (late 1950s?)   | Moeris 19H copy | 7 (18,000)            |                                 |
 | Dolmy 1/5           | Mechanical stopwatch    | 1970s?                   | BF410?          | 7 (18,000)            | Retailed by Camerer Cuss        |
 | Seiko Sportsmatic 5 | Mechanical watch        | 5102998 (Feb 1965)       | 6619A           | 21 (18,000)           | Day wheel not working           |
 | Seiko 5             | Mechanical watch        | 276684 (Jul 1982)        | 7009A           | 17 (21,600)           |                                 |
 | Casio A-168W        | Digital quartz watch    | 1997?                    | 1572            | CR2016                | Dad's watch; beeper not working |
-| Orient GP? ~        | Analog quartz watch     | Late 1970s?              | 53030           | SR726SW               | Mom's watch; broken             |
+| Orient GP? .        | Analog quartz watch     | Late 1970s?              | 53030           | SR726SW               | Mom's watch; broken             |
 
 ## Typewriters
 
@@ -116,11 +116,11 @@
 
 | Name                      | Type                                   | Year        | Serial     | Battery       | Note                        |
 | ------------------------- | -------------------------------------- | ----------- | ---------- | ------------- | --------------------------- |
-| Ericsson GF388 ~          | Mobile phone                           | 1995        | A51023PWMj | Unknown model | Broken                      |
-| Motorola Bravo Angel ~    | Pager                                  | Early 1990s | BECVVQ5F6P | AAA           | Broken                      |
-| Motorola Timeport P7689 ~ | Mobile phone                           | 2001        | B69VBLD499 | BYD-V8088     | No battery or charger       |
-| Nokia 3330 ~              | Mobile phone                           | 2002        | 0506208    | BLC-2         | No battery or charger       |
-| Nokia 3210 ~              | Mobile phone                           | 2005        | 0525972    | BML-3         | No battery or charger       |
+| Ericsson GF388 .          | Mobile phone                           | 1995        | A51023PWMj | Unknown model | Broken                      |
+| Motorola Bravo Angel .    | Pager                                  | Early 1990s | BECVVQ5F6P | AAA           | Broken                      |
+| Motorola Timeport P7689 . | Mobile phone                           | 2001        | B69VBLD499 | BYD-V8088     | No battery or charger       |
+| Nokia 3330 .              | Mobile phone                           | 2002        | 0506208    | BLC-2         | No battery or charger       |
+| Nokia 3210 .              | Mobile phone                           | 2005        | 0525972    | BML-3         | No battery or charger       |
 | Panasonic SL-CT500        | Portable CD player                     | 2022        | FB3BAO3418 | AA x 2        | Damaged battery compartment |
 | Toshiba KT-V780           | Portable cassette tape player/FM radio | Mid-1980s   |            | AAA x 2       |                             |
-| Sharp Viewcam VL-E30U ~   | Video8 tape recorder                   | 1994        | 30822760   | Sharp BT-77   | Broken charger              |
+| Sharp Viewcam VL-E30U .   | Video8 tape recorder                   | 1994        | 30822760   | Sharp BT-77   | Broken charger              |

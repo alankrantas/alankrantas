@@ -66,7 +66,7 @@
 | Nikon Micro-Nikkor 55mm f/2.8 AIs                   | Nikon F    | Manual prime, micro | 1979 | 456606                   | 6E5G   | Macro 1:2                              |
 | Nikon Series E 100mm f/2.8                          | Nikon F    | Manual prime        | 1979 | 1872950                  | 4E4G   |                                        |
 | Nikon Nikkor 135mm f/3.5 AIs                        | Nikon F    | Manual prime        | 1981 | 298008                   | 4E4G   | With built-in lens hood                |
-| Nikon Zoom-Nikkor 35-105mm f/1:3.5-4.5 AIs          | Nikon F    | Manual zoom         | 1983 | 2080625                  | 16E12G | Macro 1:4 at 35mm                      |
+| Nikon Zoom-Nikkor 35-105mm 1:3.5-4.5 AIs            | Nikon F    | Manual zoom         | 1983 | 2080625                  | 16E12G | Macro 1:4 at 35mm                      |
 | Nikon Series E 75-150mm f/3.5                       | Nikon F    | Manual zoom         | 1980 | 1830117                  | 12E9G  |                                        |
 | Soligor C/D 80-200mm f/4.5 Zoom + Macro "One Touch" | Nikon F    | Manual zoom         | 1980 | 382332350 (1982)         | 12E9G  | Made by Sun Optical; macro 1:4 at 80mm |
 | Canon EF 50mm f/1.8 II                              | Canon EF   | Auto-focusing prime | 1990 | 41460342 (2008?)         | 6E5G   |                                        |

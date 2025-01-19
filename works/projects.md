@@ -59,7 +59,7 @@ Marketing campaigns on FST Network's Medium channel and official blog collaborat
 
 `內容寫作與文章`
 
-- ### Literary Column for [The Affairs](https://www.theaffairs.com/)
+### Literary Column for [The Affairs](https://www.theaffairs.com/)
 
 Book reviews published on the magazine _The Affairs_ around 2018 to 2019. They were re-published online in 2020.
 
@@ -77,3 +77,7 @@ Book reviews published on the magazine _The Affairs_ around 2018 to 2019. They w
 | "Space Science Rocks - _The Martian_ by Andy Weir" | [太空科學搖滾──《火星任務》](https://www.theaffairs.com/%E5%A4%AA%E7%A9%BA%E7%A7%91%E5%AD%B8%E6%90%96%E6%BB%BE%E2%94%80%E2%94%80%E3%80%8A%E7%81%AB%E6%98%9F%E4%BB%BB%E5%8B%99%E3%80%8B/) |
 | "After the Eternity - _Never Let Me Go_ by Kazuo Ishiguro" | [永生之後——《別讓我走》](https://www.theaffairs.com/%E6%B0%B8%E7%94%9F%E4%B9%8B%E5%BE%8C-%E3%80%8A%E5%88%A5%E8%AE%93%E6%88%91%E8%B5%B0%E3%80%8B/) |
 | "When the False is More Real - _Skin Deep_ by Isaac Hsu" | [當假的世界一樣真實——《如膚之深》](https://www.theaffairs.com/%E7%95%B6%E5%81%87%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%80%E6%A8%A3%E7%9C%9F%E5%AF%A6-%E3%80%8A%E5%A6%82%E8%86%9A%E4%B9%8B%E6%B7%B1%E3%80%8B/) |
+
+### Miscellaneous
+
+- Write introduction, preface or praise for various science fiction and fantasy novels as a book review blogger and/or translator from mid-2000s to late 2010s.

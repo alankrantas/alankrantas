@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Working in progress #2 | | | | | | TBA |
 | Working in progress #1 | | | | | | TBA |
-| _Deep Medicine_ | [_AI 醫療_](https://www.flag.com.tw/books/product/F0324) | Eric Topol | 旗標科技 (Flag Publishing) | 2020 | Non-fiction, AI, medicine | Translated first 2 chatpers (not credited) |
+| _Deep Medicine_ | [_AI 醫療_](https://www.flag.com.tw/books/product/F0324) | Eric Topol | 旗標科技 (Flag Publishing) | 2020 | Non-fiction, AI, medicine | Translated first 2 chatpers (not credited as employee; the translation had been heavily rewritten in the editing process) |
 | _Pressed for Time_ | [_縮時社會_](https://www.eslite.com/product/1001296512602774?srsltid=AfmBOorC1DHtfGb8AnZHEbBE1quLPYV5Z8RceR_3LSKMeRgXHW-xpMYz) | Judy Wajcman | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, sociology | |
 | _Tales From the Great Disruption_ | [_關鍵轉折_](https://www.eslite.com/product/1001296512562222?srsltid=AfmBOop2spfEiS_DK-znQFmnVvakTKiuIZUgDfPgKtbjxCQKCYgwX_2F) | Michael Shapiro, Anna Hiatt and Mike Hoyt | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, journalism | |
 | _Splinternet_ | [_分裂的網路_](https://www.eslite.com/product/1001296512543627?srsltid=AfmBOooGHyzG_r_mdg90j6fd9nkxGqyH4cOzQxItzumu9va7EsyfLvko) | Scott Malcomson | 新樂園 (Nutopia Publishing) | 2016 | Non-fiction, technology, software, web | |
@@ -56,7 +56,7 @@
 | _Level 2_ | [_天使禁區_](https://www.cite.com.tw/book?id=29966&srsltid=AfmBOorRC_kd9TWhWnEZ9NldjrEiRYTaz5KWCpPq1V-Dd1JL_-Uk8YWw) | Lenore Appelhans | 奇幻基地 (Fantasy Foundation) | 2013 | SF, young adult | |
 | _The Lost Train of Thought_ (The Seems #3) | [_超時空規劃局 3：思緒失落_](https://www.books.com.tw/products/0010553194?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | Fiction, SF, children's book | |
 | _The Split Second_ (The Seems #2) | [_超時空規劃局 2：時空分裂_](https://www.books.com.tw/products/0010550404?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | SF, children's book | |
-| _The Magicians_ | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main) | Lev Grossman | 就是創意 (Beam Books) | 2012 | Fiction, fantasy | |
+| _The Magicians_ | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main) | Lev Grossman | 就是創意 (Beam Books) | 2012 | Fiction, fantasy | Translation content heavily abridged by the publisher |
 | _The Glitch in Sleep_ (The Seems #1) | [_超時空規劃局 1：臭蟲入侵_](https://www.books.com.tw/products/0010546777?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | SF, children's book | |
 | _Old Man's War_ | [_垂暮戰爭_](https://www.books.com.tw/products/0010539736?sloc=main) | John Scalzi | 晨星出版 (Morning Star) | 2012 | SF | |
 | _Flashback_ | [_閃憶殺手_](https://www.books.com.tw/products/0010529493?sloc=main) | Dan Simmons | 商周出版 (Business Weekly Publishing) | 2012 | SF, thriller | |

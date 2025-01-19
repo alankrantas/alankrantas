@@ -26,7 +26,7 @@ Write, maintain and deploy **LOC Documentation**, the official user's guide, SDK
 
 替 FST Network (邦拓鏈股份有限公司) 的資料產品雲平台 _Logic Operating Centre_ (LOC) 撰寫、維護及部署官方使用文件 LOC Documentation，包含產品使用指南、開發 SDK 文件及線上程式碼產生／測試工具，依據產品及開發團隊的產品改版更新。
 
-- [LOC Documentation](https://loc-documentation.vercel.app/)
+- [LOC Documentation](https://loc-documentation.vercel.app/) (archived version)
 
 ---
 

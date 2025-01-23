@@ -80,14 +80,14 @@
 
 `額外翻譯內容`
 
-| Translated Content | Work Title | Translated Work Title | Published Year | Note |
-| --- | --- | --- | --- | --- |
-| John Doe's Manifesto | _Panama Papers_ | [_巴拿馬文件_](https://www.books.com.tw/products/0010714943?srsltid=AfmBOorOUPfcnMeXP-0q2ITHusQ0BqfP4mLKKTp7XiodvQCmYZcrirK7) | 2016 | Translated anonymously |
-| Introductions | _Brave New World_ | [_美麗新世界_](https://www.books.com.tw/products/0010638857?sloc=main) | 2014 | Not published along with the work |
-| Introduction and praises | _A Small Town in Germany_ | [_德國小鎮_](https://www.books.com.tw/products/0010650393) | 2014 | |
-| 50th anniversary foreword, afterword and introductions | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | 2014 | |
-| Interview with the Author | _The Emperor's Soul_ | [_皇帝魂_](https://www.eslite.com/product/1001131382237792?srsltid=AfmBOorTulDLha2MB9wMwmMmfToM7e7JEiztDcCqtwunTlEBCxvSrcmZ) | 2013 | |
-| Partial content of the official site | _The 39 Clues_ series | [_39 條線索系列_](https://www.crown.com.tw/bookpacklist.aspx?at=190) | 2010 | |
+| Translated Content | Original Title | Translated Title | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- |
+| John Doe's Manifesto | _Panama Papers_ | [_巴拿馬文件_](https://www.books.com.tw/products/0010714943?srsltid=AfmBOorOUPfcnMeXP-0q2ITHusQ0BqfP4mLKKTp7XiodvQCmYZcrirK7) | 2016 | Non-fiction, true crime | Translated anonymously |
+| Introductions | _Brave New World_ | [_美麗新世界_](https://www.books.com.tw/products/0010638857?sloc=main) | 2014 | Fiction, SFF | Not published along with the work |
+| Introduction and praises | _A Small Town in Germany_ | [_德國小鎮_](https://www.books.com.tw/products/0010650393) | Fiction, spy | 2014 | |
+| 50th anniversary foreword, afterword and introductions | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | Fiction, spy | 2014 | |
+| Interview with the Author | _The Emperor's Soul_ | [_皇帝魂_](https://www.eslite.com/product/1001131382237792?srsltid=AfmBOorTulDLha2MB9wMwmMmfToM7e7JEiztDcCqtwunTlEBCxvSrcmZ) | Fiction, fantasy, short story collection | 2013 | |
+| Partial content of the official site | _The 39 Clues_ series | [_39 條線索系列_](https://www.crown.com.tw/bookpacklist.aspx?at=190) | Fiction, children's book| 2010 | |
 
 ---
 
@@ -101,7 +101,7 @@
 
 `軟體與科技`
 
-| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| English Title | Local Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _Micro Frontends in Action_ | [_決戰！微前端架構 Micro Frontends_](https://www.flag.com.tw/books/product/F3487) | Michael Geers | 旗標科技 (Flag Publishing) | 2023 | Programming, front-end | |
 | _Raspberry Pi 4: The AI Application Bible_ | [_Raspberry Pi 樹莓派：Python x AI 超應用聖經_](https://www.flag.com.tw/books/product/F1786) | 陳會安 | 旗標科技 (Flag Publishing) | 2022 | Programming, embedded programming, AI | |
@@ -118,7 +118,7 @@
 
 `文學`
 
-| Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
+| English Title | Local Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction, spy | As assistant editor |
 
@@ -134,7 +134,7 @@
 
 `軟體與科技`
 
-| English Title | Original Title | Publisher | Published Year | Genre | Note |
+| English Title | Local Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | _The Python and Data Science Book for Interdisciplinary Learning_ | [_跨領域學 Python：資料科學基礎養成_](https://www.flag.com.tw/books/product/F0753) | 旗標科技 (Flag Publishing) | 2020 | Programming, AI, data science | Also the editor |
 | _Flag's Maker Workshop: Smart Cloud Sensors with Python_ | [_Flag's 創客‧自造者工作坊 Python 感測器大應用_](https://www.flag.com.tw/maker/FM622A) | 旗標科技 (Flag Publishing) | 2020 | Embedded programming, IoT | Also the illustration photographer |
@@ -145,7 +145,7 @@
 
 `STEM 教育`
 
-| English Title | Original Title | Publisher | Published Year | Genre | Note |
+| English Title | Local Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | _My First micro:bit Robot Guide with NexusBot_ | [_micro:bit x NexusBot：孩子的第一本機器人指南_](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=114) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, robotic | Partial credit; also the illustration photographer |
 | _My First micro:bit Maker Guide with Thunder:bit_ | [_micro:bit x Thunder:bit：孩子的第一本創客指南_](https://www.beyond-coding.org.tw/index.php?option=com_sppagebuilder&view=page&id=71) | 台灣程式教育協進會 (Taiwan Coding Education Association) | 2020 | STEM, Maker, robotic | Also the illustration photographer |

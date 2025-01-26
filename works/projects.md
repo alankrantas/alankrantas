@@ -6,9 +6,9 @@
 
 ---
 
-## Technical Writing
+## Technical Writing and Documentation
 
-`技術寫作`
+`技術寫作與文件`
 
 | Project | For | Period | Description | Translated Description |
 | --- | --- | --- | --- | --- |

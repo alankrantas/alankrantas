@@ -83,12 +83,11 @@
 | Translated Content | Original Title | Translated Title | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | John Doe's Manifesto | _Panama Papers_ | [_巴拿馬文件_](https://www.books.com.tw/products/0010714943?srsltid=AfmBOorOUPfcnMeXP-0q2ITHusQ0BqfP4mLKKTp7XiodvQCmYZcrirK7) | 2016 | Non-fiction, true crime | Translated anonymously |
-| Introductions | _Brave New World_ | [_美麗新世界_](https://www.books.com.tw/products/0010638857?sloc=main) | 2014 | Fiction, SFF | Not published along with the work |
 | Introduction and praises | _A Small Town in Germany_ | [_德國小鎮_](https://www.books.com.tw/products/0010650393) | 2014 | Fiction, spy | |
 | 50th anniversary foreword, afterword and introductions | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | 2014 | Fiction, spy | |
-| Interview with the Author | _The Emperor's Soul_ | [_皇帝魂_](https://www.eslite.com/product/1001131382237792?srsltid=AfmBOorTulDLha2MB9wMwmMmfToM7e7JEiztDcCqtwunTlEBCxvSrcmZ) | 2013 | Fiction, fantasy, short story collection | |
-| Interview with the Author | _The Ark_ | [_方舟浩劫_](https://www.books.com.tw/products/0010476206?sloc=main) | 2010 | Fiction, thriller | |
-| Partial content of the official site | _The 39 Clues_ series | [_39 條線索系列_](https://www.crown.com.tw/bookpacklist.aspx?at=190) | 2010 | Fiction, children's book | |
+| Interview with the author | _The Emperor's Soul_ | [_皇帝魂_](https://www.eslite.com/product/1001131382237792?srsltid=AfmBOorTulDLha2MB9wMwmMmfToM7e7JEiztDcCqtwunTlEBCxvSrcmZ) | 2013 | Fiction, fantasy, short story collection | |
+| Interview with the author | _The Ark_ | [_方舟浩劫_](https://www.books.com.tw/products/0010476206?sloc=main) | 2010 | Fiction, thriller | |
+| Official site content | _The 39 Clues_ series | [_39 條線索系列_](https://www.crown.com.tw/bookpacklist.aspx?at=190) | 2010 | Fiction, children's book | |
 
 ---
 

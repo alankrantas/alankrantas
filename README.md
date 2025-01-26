@@ -12,6 +12,12 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 - [Résumé](https://www.cake.me/krantas)
 
+## My Published Works & Writing Projects
+
+- [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (translated, editorial and authored titles)
+
+- [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) (technical writing, documents/documentation and articles, etc.)
+
 ![profile](profile.jpg)
 
 ---
@@ -23,14 +29,6 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 2. Translate between English and Traditional Chinese for articles, documents and books.
 
 > _Note: I do not offer AI training writing (except writing source materials to be referenced by AI applications) nor i18n-type semi-machine translating._
-
----
-
-### My Published Works & Projects
-
-- [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (translated, editorial and authored titles)
-
-- [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) (technical writing, documents/documentation and articles, etc.)
 
 ---
 

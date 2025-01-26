@@ -59,7 +59,7 @@ Marketing campaigns on FST Network's Medium channel and official blog collaborat
 
 `技術插圖`
 
-- Product marketing materials and feature proposals for FST Network's [Logic Operating Centre](https://drive.google.com/file/d/1_5RBwHHWkVhRwzbfYrUuffJhMgUsmhYN/view?usp=sharing) (open in Draw.io)
+- Product marketing materials and feature proposals for FST Network's [Logic Operating Centre](https://drive.google.com/file/d/1_5RBwHHWkVhRwzbfYrUuffJhMgUsmhYN/view?usp=sharing). (open in Draw.io)
 - Business rules and product flowcharts for Xrex's FinTech products.
 
 ---
@@ -89,7 +89,7 @@ Book reviews published on the magazine _The Affairs_ around 2018 to 2019. They w
 
 ### Miscellaneous
 
-`其他`
+`其他寫作`
 
 | Authored Content | Target Title | Target Translated Title | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |

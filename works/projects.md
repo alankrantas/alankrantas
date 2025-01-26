@@ -55,6 +55,15 @@ Marketing campaigns on FST Network's Medium channel and official blog collaborat
 
 ---
 
+## Technical Illstrations
+
+`技術插圖`
+
+- Product marketing materials and feature proposals for FST Network's [Logic Operating Centre](https://drive.google.com/file/d/1_5RBwHHWkVhRwzbfYrUuffJhMgUsmhYN/view?usp=sharing) (open in Draw.io)
+- Business rules and product flowcharts for Xrex's FinTech products.
+
+---
+
 ## Content Writing and Articles
 
 `內容寫作與文章`

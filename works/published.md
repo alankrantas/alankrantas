@@ -56,7 +56,7 @@
 | _Level 2_ | [_天使禁區_](https://www.cite.com.tw/book?id=29966&srsltid=AfmBOorRC_kd9TWhWnEZ9NldjrEiRYTaz5KWCpPq1V-Dd1JL_-Uk8YWw) | Lenore Appelhans | 奇幻基地 (Fantasy Foundation) | 2013 | SF, young adult | |
 | _The Lost Train of Thought_ (The Seems #3) | [_超時空規劃局 3：思緒失落_](https://www.books.com.tw/products/0010553194?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | Fiction, SF, children's book | |
 | _The Split Second_ (The Seems #2) | [_超時空規劃局 2：時空分裂_](https://www.books.com.tw/products/0010550404?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | SF, children's book | |
-| _The Magicians_ | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main) | Lev Grossman | 就是創意 (Beam Books) | 2012 | Fiction, fantasy | Translation heavily abridged by the publisher's request |
+| _The Magicians_ | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main) | Lev Grossman | 就是創意 (Beam Books) | 2012 | Fantasy | Translation heavily abridged by the publisher's request |
 | _The Glitch in Sleep_ (The Seems #1) | [_超時空規劃局 1：臭蟲入侵_](https://www.books.com.tw/products/0010546777?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | SF, children's book | |
 | _Old Man's War_ | [_垂暮戰爭_](https://www.books.com.tw/products/0010539736?sloc=main) | John Scalzi | 晨星出版 (Morning Star) | 2012 | SF | |
 | _Flashback_ | [_閃憶殺手_](https://www.books.com.tw/products/0010529493?sloc=main) | Dan Simmons | 商周出版 (Business Weekly Publishing) | 2012 | SF, thriller | |
@@ -87,6 +87,7 @@
 | Introduction and praises | _A Small Town in Germany_ | [_德國小鎮_](https://www.books.com.tw/products/0010650393) | 2014 | Fiction, spy | |
 | 50th anniversary foreword, afterword and introductions | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | 2014 | Fiction, spy | |
 | Interview with the Author | _The Emperor's Soul_ | [_皇帝魂_](https://www.eslite.com/product/1001131382237792?srsltid=AfmBOorTulDLha2MB9wMwmMmfToM7e7JEiztDcCqtwunTlEBCxvSrcmZ) | 2013 | Fiction, fantasy, short story collection | |
+| Interview with the Author | _The Ark_ | [_方舟浩劫_](https://www.books.com.tw/products/0010476206?sloc=main) | 2010 | Fiction, thriller | |
 | Partial content of the official site | _The 39 Clues_ series | [_39 條線索系列_](https://www.crown.com.tw/bookpacklist.aspx?at=190) | 2010 | Fiction, children's book | |
 
 ---

@@ -80,4 +80,9 @@ Book reviews published on the magazine _The Affairs_ around 2018 to 2019. They w
 
 ### Miscellaneous
 
-- Write introduction, preface or praise for various science fiction and fantasy novels as a book review blogger and/or translator from mid-2000s to late 2010s.
+`其他`
+
+| Authored Content | Target Title | Target Translated Title | Published Year | Genre | Note |
+| --- | --- | --- | --- | --- | --- |
+| Introduction | _How Star Wars Conquered the Universe_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | 2015 | Non-fiction, cinema | Also the translator |
+| Introduction | _The Magicians_ | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main) | 2012 | Fiction, fantasy | Also the translator |

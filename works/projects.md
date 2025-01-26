@@ -12,7 +12,7 @@
 
 | Project | For | Period | Description | Translated Description |
 | --- | --- | --- | --- | --- |
-| Product White Paper Copywriting | [XREX Inc.](https://xrex.io/) | Sep - Oct 2024 | Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (_Spot Trading_, _Margin Trading_, _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_) based on materials and screenshots provided by the product team. | 替 XREX 交易所 (鏈科股份有限公司) 之數種加密數位貨幣金融科技產品──現貨交易、信用交易、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金──撰寫白皮書草稿，依據產品團隊提供之素材。這些白皮書的用途為提供必要揭露及遵循監管法規。 |
+| Product White Paper Copywriting | [XREX Inc.](https://xrex.io/) | Sep - Oct 2024 | Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (_Spot Trading_, _Margin Trading_, _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_) based on materials and screenshots provided by the product team. | 替 XREX 交易所 (鏈科股份有限公司) 之數種加密數位貨幣金融科技產品──現貨交易、信用交易、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金──撰寫白皮書草稿，依據產品團隊提供之素材。 |
 | [LOC Documentation](https://loc-documentation.vercel.app/) | [FST Network](https://www.fst.network/) | Apr 2022 - Jul 2024 | Write, maintain and deploy LOC Documentation, the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), based on information provided by the product and developer teams upon each releases. | 替 FST Network (邦拓鏈股份有限公司) 的資料產品雲平台 _Logic Operating Centre_ (LOC) 撰寫、維護及部署官方使用文件 LOC Documentation，包含產品使用指南、開發 SDK 文件及線上程式碼產生／測試工具，依據產品及開發團隊的產品改版更新。 |
 
 ---
@@ -23,8 +23,8 @@
 
 | Project | For | Period | Description | Translated Description |
 | --- | --- | --- | --- | --- |
-| [FST Network Blog](https://www.fst.network/blog) | FST Network | Sep - Dec 2022 | Product marketing blog posts collaborated with product and marketing teams | 與產品及行銷團隊合作的產品行銷文章 |
-| [FST Network Medium Channel](https://medium.com/fstnetwork) | FST Network | Apr - Sep 2022 | Technical marketing blog posts collaborated with dev team | 與開發團隊合作的技術行銷文章 |
+| [FST Network Blog](https://www.fst.network/blog) | FST Network | Sep - Dec 2022 | Write product marketing blog posts collaborated with product and marketing teams | 與產品及行銷團隊合作的產品行銷文章 |
+| [FST Network Medium Channel](https://medium.com/fstnetwork) | FST Network | Apr - Sep 2022 | Write product technical marketing blog posts supported by dev team | 在開發團隊支援下撰寫產品技術行銷文章 |
 
 ---
 
@@ -34,8 +34,8 @@
 
 | Project | For | Period | Description | Translated Description |
 | --- | --- | --- | --- | --- |
-| Product illustrations | XREX Inc. | Sep - Oct 2024 | Figures for business rule figures and product flowcharts in white papers | 金融產品白皮書的商業規則與產品流程的圖表 |
-| [Product and marketing illustrations](https://drive.google.com/file/d/1_5RBwHHWkVhRwzbfYrUuffJhMgUsmhYN/view?usp=sharing) | FST Network | Apr 2022 - Jul 2024 | Figures for marketing/sales, blog and feature proposals | 行銷／業務、部落格與產品功能提案的圖表 |
+| Product illustrations | XREX Inc. | Sep - Oct 2024 | Create figures for business rules and product features/flowcharts in white papers | 繪製產品白皮書的商業規則與產品功能／流程之圖表 |
+| [Product and marketing illustrations](https://drive.google.com/file/d/1_5RBwHHWkVhRwzbfYrUuffJhMgUsmhYN/view?usp=sharing) | FST Network | Apr 2022 - Jul 2024 | Create figures for product marketing/sales pitches, blog posts and product feature proposals | 繪製用於行銷／業務、部落格貼文及產品功能提案之圖表 |
 
 ---
 

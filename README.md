@@ -28,9 +28,9 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 ### My Published Works & Projects
 
-- [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
+- [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (translated, editorial and authored titles)
 
-- [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
+- [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) (technical writing, documents/documentation and articles, etc.)
 
 ---
 

@@ -28,17 +28,6 @@
 
 ---
 
-## Technical and Marketing Illustrations
-
-`技術與行銷插圖`
-
-| Project | For | Period | Description | Translated Description |
-| --- | --- | --- | --- | --- |
-| Product illustrations | XREX Inc. | Sep - Oct 2024 | Create figures for business rules and product features/flowcharts in white papers | 繪製產品白皮書的商業規則與產品功能／流程之圖表 |
-| [Product and marketing illustrations](https://drive.google.com/file/d/1_5RBwHHWkVhRwzbfYrUuffJhMgUsmhYN/view?usp=sharing) | FST Network | Apr 2022 - Jul 2024 | Create figures for product marketing/sales pitches, blog posts and product feature proposals | 繪製用於行銷／業務、部落格貼文及產品功能提案之圖表 |
-
----
-
 ## Content Writing and Articles
 
 `內容寫作與文章`

@@ -2,7 +2,7 @@
 
 `出版作品`
 
-> By [Alan Wang](https://github.com/alankrantas). Also see: [Writing Projects and Articles](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
+> By [Alan Wang](https://github.com/alankrantas).
 
 ---
 

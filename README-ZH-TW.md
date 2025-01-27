@@ -16,9 +16,11 @@
 
 ## 我的作品與專案
 
-- [出版作品](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
+- [出版作品](https://github.com/alankrantas/alankrantas/blob/main/works/published.md): 翻譯、編輯與寫作出版品。
 
-- [寫作專案](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
+- [寫作專案](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md): 技術與行銷寫作、文件、文章。
+
+- [技術與行銷插圖](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
 
 ---
 

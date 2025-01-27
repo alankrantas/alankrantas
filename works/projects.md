@@ -2,7 +2,7 @@
 
 `寫作專案與文章`
 
-> By [Alan Wang](https://github.com/alankrantas). Also see: [Published Works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
+> By [Alan Wang](https://github.com/alankrantas).
 
 ---
 

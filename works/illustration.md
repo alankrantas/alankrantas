@@ -14,7 +14,7 @@ Create figures for business rules and product features/flowcharts in [product wh
 
 ## [FST Network](https://www.fst.network/)
 
-Create figures for product marketing/sales pitches, blog posts and product feature proposals. None of them contains internal trade secret. Most of them are for FST Network's [Logic Operating Centre (LOC)](https://loc-documentation.vercel.app/). (繪製用於行銷／業務、部落格貼文及產品功能提案之圖表。不包含內部商業機密。)
+Create figures for product marketing/sales pitches, blog posts and product feature proposals. None of them contains internal trade secret. Most of them are for FST Network's [Logic Operating Centre (LOC)](https://loc-documentation.vercel.app/). (繪製用於行銷／業務、部落格貼文及產品功能提案之圖表。不包含內部商業機密。多數為針對 FST Network 之產品 Logic Operating Centre。)
 
 | Description | Illustration |
 | --- | --- |

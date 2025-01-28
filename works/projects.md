@@ -10,9 +10,9 @@
 
 `技術寫作與文件`
 
-### Product White Paper Copywriting
+### FinTech Product White Paper Copywriting
 
-`撰寫產品白皮書`
+`撰寫金融產品白皮書`
 
 | Detail | Description |
 | --- | --- |
@@ -23,7 +23,9 @@
 
 > No document available to share due to NDA. (因簽署保密協議故無文件可分享。)
 
-### User Documentation
+### Data Product Platform User Documentation
+
+`資料產品平台使用者文件`
 
 | Detail | Description |
 | --- | --- |

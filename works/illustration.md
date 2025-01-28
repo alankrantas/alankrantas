@@ -6,15 +6,29 @@
 
 ## [XREX Inc.](https://xrex.io/)
 
-Create figures for business rules and product features/flowcharts in [product white papers](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md#technical-writing-and-documentation). (繪製產品白皮書的商業規則與產品功能／流程。)
+Create figures and diagrams for [XREX product white papers](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md#technical-writing-and-documentation) (繪製產品白皮書的圖表及流程圖):
 
-> Not available due to NDA. (因簽署保密協議故無法公開。)
+| Product | Figure/diagram |
+| --- | --- |
+| _Spot Trading_ | Features and user flow |
+| _Spot Trading_ | Order matching mechanism |
+| _Margin Trading_ | Features and user flow |
+| _Margin Trading_ | Order matching mechanism |
+| _Margin Trading_ | Margin ratio level and risk status |
+| _Secured Loan_ | Features and user flow |
+| _Secured Loan_ | Loan To Value (LTV) level and risk status |
+| _XREX/DeFi Staking_ | Features and user flow |
+| _BitCheck_ | Features and user flow |
+
+> Not available to post due to NDA. (因簽署保密協議故無法張貼。)
 
 ---
 
 ## [FST Network](https://www.fst.network/)
 
-Create figures for product marketing/sales pitches, blog posts and product feature proposals. None of them contains internal trade secret. Most of them are for FST Network's [Logic Operating Centre (LOC)](https://loc-documentation.vercel.app/). (繪製用於行銷／業務、部落格貼文及產品功能提案之圖表。不包含內部商業機密。多數為針對 FST Network 之產品 Logic Operating Centre。)
+Create figures for product marketing/sales pitches, blog posts and product feature proposals. No internal trade secret included. (繪製用於行銷／業務、部落格貼文及產品功能提案之圖表。不包含內部商業機密。)
+
+Most of them are made for FST Network's [Logic Operating Centre (LOC)](https://loc-documentation.vercel.app/). (多數為針對 FST Network 之產品 Logic Operating Centre 而製作。)
 
 | Description | Illustration |
 | --- | --- |

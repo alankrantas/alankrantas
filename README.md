@@ -12,7 +12,7 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 - [Résumé](https://www.cake.me/krantas)
 
-## My Published Works & Writing Projects
+## Published & Writing Works
 
 - [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md): translated, editorial and authored titles.
 

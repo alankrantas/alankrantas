@@ -36,8 +36,8 @@ Most of them are made for FST Network's [Logic Operating Centre (LOC)](https://l
 | LOC system architecture | ![LOC-system](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-system.png) |
 | LOC for ESG reporting (not used) | ![esg](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/esg.png) |
 | LOC market positioning | ![LOC-position](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-marketing-position.png) |
-| LOC feature proposal: Open API integration (not used) | ![LOC-proposal](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-feature-proposal.png) |
-| LOC feature proposal: AWS Bedrock LLM (for collaboration proposal with AWS) | ![LOC-proposal-bedrock](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-aws-bedrock.png) |
+| LOC feature proposal: Open API integration with minimum implementation (not used) | ![LOC-proposal](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-feature-proposal.png) |
+| LOC feature proposal: AWS Bedrock LLM integration (for potential collaboration with AWS) | ![LOC-proposal-bedrock](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-aws-bedrock.png) |
 | Use data catalog in MLOps (for [this blog post](https://www.fst.network/post/machine-learning)) | ![mlops](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/mlops.png) |
 | Evolution of enterprise middleware | ![data-middleware](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/middleware.png) |
 | Evolution of enterprise system integration | ![data-virtualization](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/data-virtualization.png) |

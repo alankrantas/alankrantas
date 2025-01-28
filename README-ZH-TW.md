@@ -14,7 +14,7 @@
 
 - [中文履歷](https://www.cake.me/me/krantas)
 
-## 我的作品與專案
+## 出版及寫作作品
 
 - [出版作品](https://github.com/alankrantas/alankrantas/blob/main/works/published.md): 翻譯、編輯與寫作出版品。
 

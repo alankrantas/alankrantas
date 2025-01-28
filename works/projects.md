@@ -18,7 +18,7 @@
 | --- | --- |
 | Period | Sep 2004 - Oct 2024 |
 | For | [XREX Inc.](https://xrex.io/) (鏈科股份有限公司) |
-| Products | _Spot Trading_ (including Grid Bot), _Margin Trading_ (including Grid Bot), _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_. (現貨交易 (含交易機器人)、信用交易 (含交易機器人)、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金。) |
+| Products | _Spot Trading_ and [_Margin Trading_](https://support.xrex.io/en/collections/6032284-margin-trading) (including [_Grid Bot_](https://support.xrex.io/en/collections/4080296-grid-trading)), [_Secured Loan_](https://support.xrex.io/en/articles/7322871-what-is-crypto-secured-loan), [_XREX Staking_ and _DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking), [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck), [_Deposit_ and _Withdraw_](https://support.xrex.io/en/collections/2683050-deposit-and-withdraw). (現貨交易／信用交易 (含交易機器人)、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金。) |
 | Description | Write white papers for several cryptocurrency-related FinTech products for regulation compliance and disclosure purposes, including product design objective, product features and user flow, service fee as well as risk management. (替與加密貨幣相關之金融產品撰寫用於監管及接露用途之白皮書，包含產品設計目的、產品功能及使用流程、服務費用、風險控管機制等。) |
 
 > No document available to share due to NDA. (因簽署保密協議故無文件可分享。)
@@ -31,7 +31,7 @@
 | --- | --- |
 | Period | Apr 2022 - Jul 2024 |
 | For | [FST Network](https://www.fst.network/) (邦拓鏈股份有限公司) |
-| Products | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre) |
+| Product | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre), including LOC Core, Studio, CLI and SDKs |
 | Description | Write, maintain and deploy **[LOC Documentation](https://loc-documentation.vercel.app/)**, the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), based on information provided by the product and developer teams upon each releases. (撰寫、維護及部署使用文件 LOC Documentation，包含產品使用指南、開發 SDK 文件及線上程式碼產生／測試工具，依據產品及開發團隊的產品改版更新。) |
 
 ---

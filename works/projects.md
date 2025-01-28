@@ -10,10 +10,27 @@
 
 `技術寫作與文件`
 
-| Project | For | Period | Description | Translated Description |
-| --- | --- | --- | --- | --- |
-| Product White Paper Copywriting | [XREX Inc.](https://xrex.io/) | Sep - Oct 2024 | Write and organize product white paper drafts for XREX Exchange's several cryptocurrency-related FinTech products (_Spot Trading_, _Margin Trading_, _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_) based on materials and screenshots provided by the product team. (Note: not available due to NDA.) | 替 XREX 交易所 (鏈科股份有限公司) 之數種加密數位貨幣金融科技產品──現貨交易、信用交易、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金──撰寫白皮書草稿，依據產品團隊提供之素材。 (註：因簽署保密協議而無法公開。) |
-| [LOC Documentation](https://loc-documentation.vercel.app/) | [FST Network](https://www.fst.network/) | Apr 2022 - Jul 2024 | Write, maintain and deploy LOC Documentation, the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), based on information provided by the product and developer teams upon each releases. | 替 FST Network (邦拓鏈股份有限公司) 的資料產品雲平台 _Logic Operating Centre_ (LOC) 撰寫、維護及部署官方使用文件 LOC Documentation，包含產品使用指南、開發 SDK 文件及線上程式碼產生／測試工具，依據產品及開發團隊的產品改版更新。 |
+### Product White Paper Copywriting
+
+`撰寫產品白皮書`
+
+| Detail | Description |
+| --- | --- |
+| Period | Sep 2004 - Oct 2024 |
+| For | [XREX Inc.](https://xrex.io/) (鏈科股份有限公司) |
+| Products | _Spot Trading_ (including Grid Bot), _Margin Trading_ (including Grid Bot), _Secured Loan_, _XREX Staking_, _DeFi Staking_, _BitCheck_, _Deposit_ and _Withdraw_. (現貨交易 (含交易機器人)、信用交易 (含交易機器人)、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金。) |
+| Description | Write white papers for several cryptocurrency-related FinTech products for regulation compliance and disclosure purposes, including product design objective, product features and user flow, service fee as well as risk management. (替與加密貨幣相關之金融產品撰寫用於監管及接露用途之白皮書，包含產品設計目的、產品功能及使用流程、服務費用、風險控管機制等。) |
+
+> No document available to share due to NDA. (因簽署保密協議故無文件可分享。)
+
+### User Documentation
+
+| Detail | Description |
+| --- | --- |
+| Period | Apr 2022 - Jul 2024 |
+| For | [FST Network](https://www.fst.network/) (邦拓鏈股份有限公司) |
+| Products | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre) |
+| Description | Write, maintain and deploy **[LOC Documentation](https://loc-documentation.vercel.app/)**, the official user's guide, SDK reference and a web-based code generation/unit test tool for FST Network's data product cloud platform, _Logic Operating Centre_ (LOC), based on information provided by the product and developer teams upon each releases. (撰寫、維護及部署使用文件 LOC Documentation，包含產品使用指南、開發 SDK 文件及線上程式碼產生／測試工具，依據產品及開發團隊的產品改版更新。) |
 
 ---
 

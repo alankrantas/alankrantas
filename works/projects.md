@@ -16,7 +16,7 @@
 
 | Detail | Description |
 | --- | --- |
-| Period | Sep 2004 - Oct 2024 |
+| Period | Sep - Oct 2024 |
 | For | [XREX Inc.](https://xrex.io/) (鏈科股份有限公司) |
 | Products | _Spot Trading_ and [_Margin Trading_](https://support.xrex.io/en/collections/6032284-margin-trading) (including [_Grid Bot_](https://support.xrex.io/en/collections/4080296-grid-trading)), [_Secured Loan_](https://support.xrex.io/en/articles/7322871-what-is-crypto-secured-loan), [_XREX Staking_ and _DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking), [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck), [_Deposit_ and _Withdraw_](https://support.xrex.io/en/collections/2683050-deposit-and-withdraw). (現貨交易／信用交易 (含交易機器人)、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金。) |
 | Description | Write white papers for cryptocurrency-related FinTech products for regulation compliance and disclosure purposes, including product design objective, product features and user flow, terms of service/fee as well as risk management, based on information provided by the product team. (替與加密數位貨幣相關之金融產品撰寫用於監管及接露用途之白皮書，包含產品設計目的、產品功能及使用流程、服務條款／費用、風險控管機制等，依據產品團隊提供之資訊撰寫。) |

@@ -4,7 +4,7 @@
 
 ---
 
-## [XREX Inc.](https://xrex.io/)
+## [XREX Inc.](https://xrex.io/) (Sep - Oct 2024)
 
 Create figures and diagrams for [XREX product white papers](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md#fintech-product-white-paper-copywriting) (繪製產品白皮書的圖表及流程圖):
 
@@ -24,7 +24,7 @@ Create figures and diagrams for [XREX product white papers](https://github.com/a
 
 ---
 
-## [FST Network](https://www.fst.network/)
+## [FST Network](https://www.fst.network/) (Mid 2022 - Late 2023)
 
 Create figures product's technical marketing or other purposes. No internal trade secret included. (替產品的行銷或其他用途繪製圖表。不包含內部商業機密。)
 

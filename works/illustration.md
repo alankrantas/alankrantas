@@ -26,4 +26,4 @@ Create figures for product marketing/sales pitches, blog posts and product featu
 | LOC feature proposal: AWS Bedrock LLM (for collaboration proposal with AWS) | ![LOC-proposal-bedrock](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-aws-bedrock.png) |
 | Use data catalog in MLOps (for [this blog post](https://www.fst.network/post/machine-learning)) | ![mlops](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/mlops.png) |
 | Evolution of enterprise middleware | ![data-middleware](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/middleware.png) |
-| Evolution of system virtualization | ![data-virtualization](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/data-virtualization.png) |
+| Evolution of enterprise system integration | ![data-virtualization](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/data-virtualization.png) |

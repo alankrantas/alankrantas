@@ -1,8 +1,6 @@
-# Writing Projects and Articles
+# Writing Projects and Articles of [Alan Wang](https://github.com/alankrantas)
 
 `寫作專案與文章`
-
-> By [Alan Wang](https://github.com/alankrantas).
 
 ---
 

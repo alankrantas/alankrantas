@@ -1,4 +1,4 @@
-# Technical and Marketing Illustrations
+# Technical and Marketing Illustrations of [Alan Wang](https://github.com/alankrantas)
 
 `技術與行銷插圖`
 

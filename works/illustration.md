@@ -32,17 +32,17 @@ Create figures product's technical marketing or other purposes. No internal trad
 
 | Description | Figure/diagram |
 | --- | --- |
-| LOC architecture (the refined version can be found [here](https://loc-documentation.vercel.app/docs/system-faq/software-and-architecture).) | ![LOC](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc.png) |
-| LOC system architecture | ![LOC-system](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-system.png) |
-| LOC for ESG reporting (not used) | ![esg](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/esg.png) |
-| LOC market positioning | ![LOC-position](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-marketing-position.png) |
+| LOC architecture (for marketing and documentation; the refined version can be found [here](https://loc-documentation.vercel.app/docs/system-faq/software-and-architecture).) | ![LOC](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc.png) |
+| LOC system architecture (for sales pitch) | ![LOC-system](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-system.png) |
+| LOC for ESG reporting (for sales pitch, not used) | ![esg](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/esg.png) |
+| LOC market positioning (for sales pitch) | ![LOC-position](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-marketing-position.png) |
 | LOC feature proposal: Open API integration with minimum implementation (not used) | ![LOC-proposal](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-feature-proposal.png) |
-| LOC feature proposal: AWS Bedrock LLM integration (for potential collaboration with AWS) | ![LOC-proposal-bedrock](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-aws-bedrock.png) |
+| LOC feature proposal: AWS Bedrock LLM integration (for collaboration proposal with AWS, which did not happen. Part of the research I did can be found [here](https://github.com/alankrantas/aws-sdk-js-bedrock-llm-example).) | ![LOC-proposal-bedrock](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-aws-bedrock.png) |
 
 ### For Marketing
 
 | Description | Figure/diagram |
 | --- | --- |
 | Use data catalog in MLOps (for [this blog post](https://www.fst.network/post/machine-learning)) | ![mlops](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/mlops.png) |
-| Evolution of enterprise middleware | ![data-middleware](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/middleware.png) |
-| Evolution of enterprise system integration | ![data-virtualization](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/data-virtualization.png) |
+| Evolution of enterprise middleware (for sales pitch) | ![data-middleware](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/middleware.png) |
+| Evolution of enterprise system integration (for sales pitch) | ![data-virtualization](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/data-virtualization.png) |

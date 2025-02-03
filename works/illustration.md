@@ -37,7 +37,7 @@ Create figures product's technical marketing or other purposes. No internal trad
 | LOC for ESG reporting (for sales pitch, not used) | ![esg](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/esg.png) |
 | LOC market positioning (for sales pitch) | ![LOC-position](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-marketing-position.png) |
 | LOC feature proposal: Open API integration with minimum implementation (not used) | ![LOC-proposal](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-feature-proposal.png) |
-| LOC feature proposal: AWS Bedrock LLM integration (for collaboration proposal with AWS, which did not happen. Part of the research I did can be found [here](https://github.com/alankrantas/aws-sdk-js-bedrock-llm-example).) | ![LOC-proposal-bedrock](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-aws-bedrock.png) |
+| LOC feature proposal: AWS Bedrock LLM integration (for collaboration with AWS, which did not go beyond the proposal stage. Part of the research I did can be found [here](https://github.com/alankrantas/aws-sdk-js-bedrock-llm-example).) | ![LOC-proposal-bedrock](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-aws-bedrock.png) |
 
 ### For Marketing
 

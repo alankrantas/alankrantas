@@ -10,15 +10,15 @@ Create figures and diagrams for [XREX product white papers](https://github.com/a
 
 | Product | Figure/diagram |
 | --- | --- |
-| _Spot Trading_ | Features and user flow |
+| _Spot Trading_ | Features/user flow |
 | _Spot Trading_ | Order matching mechanism |
-| [_Margin Trading_](https://support.xrex.io/en/collections/6032284-margin-trading) | Features and user flow |
+| [_Margin Trading_](https://support.xrex.io/en/collections/6032284-margin-trading) | Features/user flow |
 | _Margin Trading_ | Order matching mechanism |
-| _Margin Trading_ | Margin ratio level and risk status |
-| [_Secured Loan_](https://support.xrex.io/en/articles/7322871-what-is-crypto-secured-loan) | Features and user flow |
-| _Secured Loan_ | Loan To Value (LTV) level and risk status |
-| [_XREX/DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking) | Features and user flow |
-| [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck) | Features and user flow |
+| _Margin Trading_ | Margin ratio levels/risk status and liquidation mechanism |
+| [_Secured Loan_](https://support.xrex.io/en/articles/7322871-what-is-crypto-secured-loan) | Features/ user flow |
+| _Secured Loan_ | Loan To Value (LTV) levels/risk status and liquidation mechanism |
+| [_XREX/DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking) | Features/user flow |
+| [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck) | Features/user flow |
 
 > Not available to post due to NDA. (因簽署保密協議故無法張貼。)
 

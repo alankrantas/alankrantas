@@ -1,6 +1,6 @@
 # Installation/Upgrade Packages
 
-## Python
+## [Python](https://www.python.org/downloads/)
 
 #### Linux
 
@@ -30,20 +30,20 @@ pip3 install --upgrade tensorflow tensorflow-cpu --user
 pip3 cache purge
 ```
 
-## Node.js
+## [Node.js](https://nodejs.org/zh-tw/download)
+
+#### Linux
 
 ```bash
 sudo apt install curl
-curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
 sudo apt install nodejs
 sudo npm i -g npm@latest yarn@latest
 ```
 
 [Install Node.js on ARMv6](https://blog.rodrigograca.com/how-to-install-latest-nodejs-on-raspberry-pi-0-w/)
 
-## Golang (Linux)
-
-Find the [platform version](https://go.dev/dl/) you need and
+## [Golang](https://go.dev/dl/)
 
 #### AMD64
 
@@ -86,43 +86,43 @@ Press `Ctrl` + `X` to save and make the new setting to take effect in the termin
 source ~/.bashrc
 ```
 
-## TinyGo (Linux)
-
-Find the [platform version](https://github.com/tinygo-org/tinygo/releases) you need and
+## [TinyGo](https://github.com/tinygo-org/tinygo/releases)
 
 #### AMD64
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.34.0_amd64.deb
-sudo dpkg -i tinygo_0.34.0_amd64.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.35.0/tinygo_0.35.0_amd64.deb
+sudo dpkg -i tinygo_0.35.0_amd64.deb
 ```
 
 #### ARM64
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.34.0_arm64.deb
-sudo dpkg -i tinygo_0.34.0_arm64.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.35.0/tinygo_0.35.0_arm64.deb
+sudo dpkg -i tinygo_0.35.0_arm64.deb
 ```
 
 #### ARM 32-bit
 
 ```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.33.0/tinygo_0.34.0_armhf.deb
-sudo dpkg -i tinygo_0.34.0_armhf.deb
+wget https://github.com/tinygo-org/tinygo/releases/download/v0.35.0/tinygo_0.35.0_armhf.deb
+sudo dpkg -i tinygo_0.35.0_armhf.deb
 ```
 
 #### First Installation
 
 Add  ```export PATH=$PATH:/usr/local/tinygo/bin``` in ```~/.bashrc```.
 
-## Rust
+## [Rust](https://www.rust-lang.org/tools/install)
 
 ```bash
 curl https://sh.rustup.rs -sSf | sh
 rustup update
 ```
 
-## .NET (Ubuntu AMD64)
+## [.NET](https://dotnet.microsoft.com/zh-tw/download)
+
+#### Ubuntu AMD64
 
 Setup the feed:
 

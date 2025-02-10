@@ -7,8 +7,6 @@
 ```bash
 sudo apt install python3 python3-pip python3-dev python3-venv python3-wheel python3-setuptools
 
-sudo python3 -m pip install --upgrade pip --break-system-packages
-
 sudo pip3 install --upgrade numpy scipy matplotlib pandas seaborn scikit-learn opencv-python flaml flaml[automl] --break-system-packages
 
 sudo pip3 install --upgrade tensorflow autokeras --break-system-packages
@@ -45,26 +43,14 @@ sudo npm i -g npm@latest yarn@latest
 
 ## [Golang](https://go.dev/dl/)
 
-#### AMD64
-
 ```bash
-wget https://go.dev/dl/go1.23.6.linux-amd64.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.6.linux-amd64.tar.gz
+GO_VERSION="1.xx.x"
+GO_PLATFORM="amd64"
+wget "https://go.dev/dl/go${GO_VERSION}.linux-${GO_PLATFORM}.tar.gz"
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf "go${GO_VERSION}.linux-${GO_PLATFORM}.tar.gz"
 ```
 
-#### ARM64
-
-```bash
-wget https://go.dev/dl/go1.23.6.linux-arm64.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.6.linux-arm64.tar.gz
-```
-
-#### ARM 32-bit
-
-```bash
-wget https://go.dev/dl/go1.23.6.linux-armv6l.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.6.linux-armv6l.tar.gz
-```
+The platform can be `amd64` (x64), `arm64` (ARM 64-bit) or `armv6l` (ARM 32-bit)
 
 #### First Installation
 
@@ -86,38 +72,17 @@ Press `Ctrl` + `X` to save and make the new setting to take effect in the termin
 source ~/.bashrc
 ```
 
-## [TinyGo](https://github.com/tinygo-org/tinygo/releases)
-
-#### AMD64
-
-```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.35.0/tinygo_0.35.0_amd64.deb
-sudo dpkg -i tinygo_0.35.0_amd64.deb
-```
-
-#### ARM64
-
-```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.35.0/tinygo_0.35.0_arm64.deb
-sudo dpkg -i tinygo_0.35.0_arm64.deb
-```
-
-#### ARM 32-bit
-
-```
-wget https://github.com/tinygo-org/tinygo/releases/download/v0.35.0/tinygo_0.35.0_armhf.deb
-sudo dpkg -i tinygo_0.35.0_armhf.deb
-```
-
-#### First Installation
-
-Add  ```export PATH=$PATH:/usr/local/tinygo/bin``` in ```~/.bashrc```.
-
 ## [Rust](https://www.rust-lang.org/tools/install)
 
 ```bash
 curl https://sh.rustup.rs -sSf | sh
 rustup update
+```
+
+Uninstall:
+
+```
+rustup self uninstall
 ```
 
 ## [.NET](https://dotnet.microsoft.com/zh-tw/download)

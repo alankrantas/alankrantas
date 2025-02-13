@@ -20,6 +20,8 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 - [Technical and marketing illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
 
+---
+
 ![profile](profile.jpg)
 
 ---

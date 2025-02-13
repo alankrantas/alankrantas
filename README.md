@@ -1,4 +1,4 @@
-# Alan Wang ✍️
+# Alan Wang ✍️ (Open for Hire)
 
 `Technical Writer` | `Copywriter` | `Translator`
 

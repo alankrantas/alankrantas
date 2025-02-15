@@ -18,8 +18,8 @@
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
-| (TBA working in progress #2) | | | | | | Full-length work |
-| (TBA working in progress #1) | | | | | | Full-length work |
+| (Working in progress #2) | | | | | | Full-length work |
+| (Working in progress #1) | | | | | | Full-length work |
 | _Deep Medicine_ | [_AI 醫療_](https://www.flag.com.tw/books/product/F0324) | Eric Topol | 旗標科技 (Flag Publishing) | 2020 | Non-fiction, AI, medicine | Translated first 2 chatpers (not credited) |
 | _Pressed for Time_ | [_縮時社會_](https://www.eslite.com/product/1001296512602774?srsltid=AfmBOorC1DHtfGb8AnZHEbBE1quLPYV5Z8RceR_3LSKMeRgXHW-xpMYz) | Judy Wajcman | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, sociology | |
 | _Tales From the Great Disruption_ | [_關鍵轉折_](https://www.eslite.com/product/1001296512562222?srsltid=AfmBOop2spfEiS_DK-znQFmnVvakTKiuIZUgDfPgKtbjxCQKCYgwX_2F) | Michael Shapiro, Anna Hiatt and Mike Hoyt | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, journalism | |
@@ -75,19 +75,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Free State of Jones_ | [_瓊斯自由邦_](https://www.books.com.tw/products/0010737316?sloc=main) | Victoria E. Bynum | 水靈文創 (Shuiling Publishing) | 2016 | History | |
 | _How Star Wars Conquered the Universe_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | Chris Taylor | 高寶書版 (Global Publishing) | 2015 | Cinema | Co-translated (60%) |
-
-### Translation of Additional Materials
-
-`額外翻譯內容`
-
-| Translated Content | Original Title | Translated Title | Published Year | Genre | Note |
-| --- | --- | --- | --- | --- | --- |
-| John Doe's Manifesto | _Panama Papers_ | [_巴拿馬文件_](https://www.books.com.tw/products/0010714943?srsltid=AfmBOorOUPfcnMeXP-0q2ITHusQ0BqfP4mLKKTp7XiodvQCmYZcrirK7) | 2016 | Non-fiction, true crime | Translated anonymously |
-| Introduction and praises | _A Small Town in Germany_ | [_德國小鎮_](https://www.books.com.tw/products/0010650393) | 2014 | Fiction, spy | |
-| 50th anniversary foreword, afterword and introductions | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | 2014 | Fiction, spy | |
-| Interview with the author | _The Emperor's Soul_ | [_皇帝魂_](https://www.eslite.com/product/1001131382237792?srsltid=AfmBOorTulDLha2MB9wMwmMmfToM7e7JEiztDcCqtwunTlEBCxvSrcmZ) | 2013 | Fiction, fantasy, short story collection | |
-| Interview with the author | _The Ark_ | [_方舟浩劫_](https://www.books.com.tw/products/0010476206?sloc=main) | 2010 | Fiction, thriller | |
-| Official site content | _The 39 Clues_ series | [_39 條線索系列_](https://www.crown.com.tw/bookpacklist.aspx?at=190) | 2010 | Fiction, children's book | |
 
 ---
 

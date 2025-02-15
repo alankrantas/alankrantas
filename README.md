@@ -2,15 +2,15 @@
 
 `Technical Writer` | `Copywriter` | `Translator`
 
-> 本頁的[中文版](https://github.com/alankrantas/alankrantas/blob/main/README-ZH-TW.md)
-
-A seasoned writer with 10+ years of writing and translating backgrounds that have resulted in 50+ full-length published works, dozens of articles and several writing projects, and has professional experience in technical writing (including documentation), copywriting, content marketing, publishing, software engineering and STEM education.
+A seasoned writer with 10+ years of writing and translating backgrounds that have resulted in 50+ full-length published works, dozens of articles and several writing projects, and has professional experience in technical writing (including documentation), copywriting and content marketing (including on social media), marketing assisting, publishing, software engineering, AI and STEM education.
 
 - [Personal website](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 
 - [Résumé](https://www.cake.me/krantas)
+
+- [中文履歷](https://www.cake.me/me/krantas)
 
 ## Published & Writing Works
 

@@ -8,7 +8,7 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 
-- [Résumé](https://www.cake.me/krantas)
+- [Résumé/CV](https://www.cake.me/krantas)
 
 - [中文履歷](https://www.cake.me/me/krantas)
 

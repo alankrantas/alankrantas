@@ -14,9 +14,9 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 ## Published & Writing Works
 
-- [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md): translated, editorial and authored titles.
+- [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md): list of translated, editorial and authored titles.
 
-- [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md): technical/markeeting writing, documents/documentation and articles.
+- [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md): list of technical/marketing writing, documents/documentation and articles.
 
 - [Technical and marketing illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
 

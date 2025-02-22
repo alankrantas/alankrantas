@@ -12,8 +12,8 @@ All works are either written in Traditional Chinese or translated from English.
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
-| To be published #2 | | | | | Software, technology | Full-length work (draft completed; proofreading) |
-| To be published #1 | | | | | Software | Full-length work (draft completed; proofreading) |
+| To be published #2 | | | | 2025 (ETA) | Software, technology | Full-length work (draft completed; proofreading) |
+| To be published #1 | | | | 2025 (ETA) | Software | Full-length work (draft completed; proofreading) |
 | _Deep Medicine_ | [_AI 醫療_](https://www.flag.com.tw/books/product/F0324) | Eric Topol | 旗標科技 (Flag Publishing) | 2020 | Non-fiction, AI, medicine | Translated first 2 chatpers (not credited) |
 | _Pressed for Time_ | [_縮時社會_](https://www.eslite.com/product/1001296512602774?srsltid=AfmBOorC1DHtfGb8AnZHEbBE1quLPYV5Z8RceR_3LSKMeRgXHW-xpMYz) | Judy Wajcman | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, sociology | |
 | _Tales From the Great Disruption_ | [_關鍵轉折_](https://www.eslite.com/product/1001296512562222?srsltid=AfmBOop2spfEiS_DK-znQFmnVvakTKiuIZUgDfPgKtbjxCQKCYgwX_2F) | Michael Shapiro, Anna Hiatt and Mike Hoyt | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, web, journalism | |

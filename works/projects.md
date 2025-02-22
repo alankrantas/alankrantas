@@ -4,25 +4,21 @@
 
 ## Technical Writing
 
-### FinTech Product White Paper Copywriting
+### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep - Oct 2024)
 
 | Detail | Description |
 | --- | --- |
 | Domain | Finance, foreign exchange, FinTech, cryptocurrency, software |
-| Period | Sep - Oct 2024 |
-| For | [XREX Inc.](https://xrex.io/) |
 | Products | _Spot Trading_ and [_Margin Trading_](https://support.xrex.io/en/collections/6032284-margin-trading) (including [_Grid Bot_](https://support.xrex.io/en/collections/4080296-grid-trading)), [_Secured Loan_](https://support.xrex.io/en/articles/7322871-what-is-crypto-secured-loan), [_XREX Staking_ and _DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking), [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck), [_Deposit_ and _Withdraw_](https://support.xrex.io/en/collections/2683050-deposit-and-withdraw). |
 | Description | Write white paper drafts for cryptocurrency-related FinTech products for regulation compliance and disclosure purposes, including product design objective, product features and user flow, terms of service/fee as well as risk management, based on information provided by the product team. |
 | Language | Traditional Chinese |
 | Link | Not available to share due to NDA. |
 
-### Data Product Platform User Documentation
+### Software User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
 
 | Detail | Description |
 | --- | --- |
 | Domain | Software, SaaS, serverless, data integration, data catalog, Data Mesh |
-| Period | Apr 2022 - Jul 2024 (as employee) |
-| For | [FST Network](https://www.fst.network/) |
 | Product | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre), including LOC's Core, Studio, CLI and SDKs |
 | Description | Write, maintain and deploy **LOC Documentation**, the official user's guide for product features, release notes, SDK developer references and code examples (JavaScript/TypeScript/C#), as well as a web-based code generation/unit test tool I've written on my own, based on information provided by the product and developer teams. |
 | Language | English |
@@ -34,12 +30,12 @@
 
 | Project | For | Period | Description | Language |
 | --- | --- | --- | --- | --- |
-| [FST Network Blog](https://www.fst.network/blog) | FST Network | Sep - Dec 2022 (as employee) | Product marketing posts collaborated with product and marketing teams | English |
-| [FST Network Medium Channel](https://medium.com/fstnetwork) | FST Network | Apr - Sep 2022 (as employee) | Technical marketing posts collaborated with dev team | English or Traditional Chinese |
+| [FST Network Blog](https://www.fst.network/blog) | FST Network | Sep - Dec 2022 | Product marketing posts collaborated with product and marketing teams | English |
+| [FST Network Medium Channel](https://medium.com/fstnetwork) | FST Network | Apr - Sep 2022 | Technical marketing posts collaborated with dev team | English or Traditional Chinese |
 
 ---
 
-## Content Writing and Articles
+## Other Writing and Articles
 
 ### Literary Column for [The Affairs](https://www.theaffairs.com/)
 
@@ -58,9 +54,17 @@ Book reviews published on a monthly newspaper around 2018 to 2019. Re-published 
 | "After the Eternity - _Never Let Me Go_ by Kazuo Ishiguro" | [永生之後——《別讓我走》](https://www.theaffairs.com/%E6%B0%B8%E7%94%9F%E4%B9%8B%E5%BE%8C-%E3%80%8A%E5%88%A5%E8%AE%93%E6%88%91%E8%B5%B0%E3%80%8B/) |
 | "When the False is More Real - _Skin Deep_ by Isaac Hsu" | [當假的世界一樣真實——《如膚之深》](https://www.theaffairs.com/%E7%95%B6%E5%81%87%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%80%E6%A8%A3%E7%9C%9F%E5%AF%A6-%E3%80%8A%E5%A6%82%E8%86%9A%E4%B9%8B%E6%B7%B1%E3%80%8B/) |
 
-### Miscellaneous
+### Book Introduction as [translator](https://github.com/alankrantas/alankrantas/blob/main/works/published.md#translated-titles)
 
 | Authored Content | Target Title | Target Translated Title | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | Introduction | _How Star Wars Conquered the Universe_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | 2015 | Non-fiction, cinema | Also the translator |
 | Introduction | _The Magicians_ | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main) | 2012 | Fiction, fantasy | Also the translator |
+
+### Blogs
+
+| Site | Description |
+| --- | --- |
+| [Blogger](https://krantasblog.blogspot.com/) | Personal blog; mostly reviews for books, movies and games, travel and photography, and additional translation works. I started to write blog since late 2000s. |
+| [Medium](https://alankrantas.medium.com/) | Mostly software/technology blog posts with a bit of other topics not fit for personal blog. Written for free. |
+| [Hackster](https://www.hackster.io/alankrantas) | Open sourced Maker/embedded project showcases. Shared mostly under CC BY-NC-SA license. |

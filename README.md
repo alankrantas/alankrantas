@@ -10,8 +10,6 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 - [Résumé/CV](https://www.cake.me/krantas)
 
-- [中文履歷](https://www.cake.me/me/krantas)
-
 ## Published & Writing Works
 
 - [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (full-length translated, editorial and authored titles)

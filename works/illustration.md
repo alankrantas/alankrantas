@@ -26,7 +26,7 @@ Create figures and diagrams for [XREX product white papers](https://github.com/a
 
 Create illustrations for technical marketing or other purposes upon requests. No internal trade secret included.
 
-### For [Logic Operating Centre (LOC)](https://www.fst.network/logic-operation-centre)
+### For [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre)
 
 | Description | Figure/diagram |
 | --- | --- |

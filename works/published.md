@@ -1,7 +1,5 @@
 # Published Works of [Alan Wang](https://github.com/alankrantas)
 
-> By [Alan Wang](https://github.com/alankrantas).
-
 All works are either written in Traditional Chinese or translated from English.
 
 ---

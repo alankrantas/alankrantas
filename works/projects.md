@@ -14,7 +14,7 @@
 | Language | Traditional Chinese |
 | Link | Not available to share due to NDA. |
 
-### Software User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+### SaaS User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
 
 | Detail | Description |
 | --- | --- |

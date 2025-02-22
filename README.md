@@ -4,7 +4,7 @@
 
 A seasoned writer with 10+ years of writing and translating backgrounds that have resulted in 50+ full-length published works, dozens of articles and several writing projects, and has professional experience in technical writing (including documentation), copywriting and content marketing (including on social media), marketing assisting, publishing, software engineering, AI and STEM education.
 
-- [Personal website](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
+- [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 

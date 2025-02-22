@@ -2,7 +2,7 @@
 
 ---
 
-## Technical Writing and Documentation
+## Technical Writing
 
 ### FinTech Product White Paper Copywriting
 

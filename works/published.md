@@ -1,20 +1,16 @@
 # Published Works of [Alan Wang](https://github.com/alankrantas)
 
-`出版作品`
-
 > By [Alan Wang](https://github.com/alankrantas).
+
+All works are either written in Traditional Chinese or translated from English.
 
 ---
 
 ## Translated Titles
 
-`翻譯作品`
-
 ---
 
 ### Software & Information Technology
-
-`軟體與科技`
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -28,8 +24,6 @@
 ---
 
 ### Fiction
-
-`文學`
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -67,9 +61,7 @@
 | _The Replacement_ | [_替身天使_](https://www.books.com.tw/products/0010481832?sloc=main) | Brenna Yovanoff | 晨星出版 (Morning Star) | 2010 | Fantasy, young adult | |
 | _The Ark_ | [_方舟浩劫_](https://www.books.com.tw/products/0010476206?sloc=main) | Boyd Morrison | 奇幻基地 (Fantasy Foundation) | 2010 | Thriller | |
 
-### Other Non-Fiction
-
-`其他非文學`
+### Non-Fiction
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -80,13 +72,9 @@
 
 ## Editorial Titles
 
-`編輯作品`
-
 ---
 
 ### Software & Information Technology
-
-`軟體與科技`
 
 | English Title | Local Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -103,8 +91,6 @@
 
 ### Fiction
 
-`文學`
-
 | English Title | Local Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _The Spy Who Came in from the Cold_ | [_冷戰諜魂_](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=8904) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Fiction, spy | As assistant editor |
@@ -113,13 +99,9 @@
 
 ## Authored Titles
 
-`著作`
-
 ---
 
 ### Software & Technology
-
-`軟體與科技`
 
 | English Title | Local Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -129,8 +111,6 @@
 ---
 
 ### STEM Education
-
-`STEM 教育`
 
 | English Title | Local Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |

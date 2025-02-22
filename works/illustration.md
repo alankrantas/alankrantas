@@ -1,12 +1,10 @@
 # Technical and Marketing Illustrations of [Alan Wang](https://github.com/alankrantas)
 
-`技術與行銷插圖`
-
 ---
 
 ## [XREX Inc.](https://xrex.io/) (Sep - Oct 2024)
 
-Create figures and diagrams for [XREX product white papers](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md#fintech-product-white-paper-copywriting) (繪製產品白皮書的圖表及流程圖):
+Create figures and diagrams for [XREX product white papers](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md#fintech-product-white-paper-copywriting):
 
 | Product | Figure/diagram |
 | --- | --- |
@@ -20,13 +18,13 @@ Create figures and diagrams for [XREX product white papers](https://github.com/a
 | [_XREX/DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking) | Features/user flow |
 | [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck) | Features/user flow |
 
-> Not available to post due to NDA. (因簽署保密協議故無法張貼。)
+> Not available to share due to NDA.
 
 ---
 
 ## [FST Network](https://www.fst.network/) (Mid 2022 - Late 2023)
 
-Create figures product's technical marketing or other purposes. No internal trade secret included. (替產品的行銷或其他用途繪製圖表。不包含內部商業機密。)
+Create illustrations for technical marketing or other purposes upon requests. No internal trade secret included.
 
 ### For [Logic Operating Centre (LOC)](https://www.fst.network/logic-operation-centre)
 

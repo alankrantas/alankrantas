@@ -1,59 +1,47 @@
 # Writing Projects and Articles of [Alan Wang](https://github.com/alankrantas)
 
-`寫作專案與文章`
-
 ---
 
 ## Technical Writing and Documentation
 
-`技術寫作與文件`
-
 ### FinTech Product White Paper Copywriting
-
-`撰寫金融產品白皮書`
 
 | Detail | Description |
 | --- | --- |
 | Period | Sep - Oct 2024 |
-| For | [XREX Inc.](https://xrex.io/) (鏈科股份有限公司) |
-| Products | _Spot Trading_ and [_Margin Trading_](https://support.xrex.io/en/collections/6032284-margin-trading) (including [_Grid Bot_](https://support.xrex.io/en/collections/4080296-grid-trading)), [_Secured Loan_](https://support.xrex.io/en/articles/7322871-what-is-crypto-secured-loan), [_XREX Staking_ and _DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking), [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck), [_Deposit_ and _Withdraw_](https://support.xrex.io/en/collections/2683050-deposit-and-withdraw). (現貨交易／信用交易 (含交易機器人)、抵押貸款、XREX／DeFi 質押、BitCheck、法幣／虛擬幣出入金。) |
-| Description | Write white papers for cryptocurrency-related FinTech products for regulation compliance and disclosure purposes, including product design objective, product features and user flow, terms of service/fee as well as risk management, based on information provided by the product team. (替與加密數位貨幣相關之金融產品撰寫用於監管及接露用途之白皮書，包含產品設計目的、產品功能及使用流程、服務條款／費用、風險控管機制等，依據產品團隊提供之資訊撰寫。) |
+| For | [XREX Inc.](https://xrex.io/) |
+| Products | _Spot Trading_ and [_Margin Trading_](https://support.xrex.io/en/collections/6032284-margin-trading) (including [_Grid Bot_](https://support.xrex.io/en/collections/4080296-grid-trading)), [_Secured Loan_](https://support.xrex.io/en/articles/7322871-what-is-crypto-secured-loan), [_XREX Staking_ and _DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking), [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck), [_Deposit_ and _Withdraw_](https://support.xrex.io/en/collections/2683050-deposit-and-withdraw). |
+| Description | Write white papers for cryptocurrency-related FinTech products for regulation compliance and disclosure purposes, including product design objective, product features and user flow, terms of service/fee as well as risk management, based on information provided by the product team. |
+| Language | Traditional Chinese |
 
-> No document available to share due to NDA. (因簽署保密協議故無文件可分享。)
+> No documents available to share due to NDA.
 
 ### Data Product Platform User Documentation
 
-`資料產品平台使用者文件`
-
 | Detail | Description |
 | --- | --- |
-| Period | Apr 2022 - Jul 2024 |
-| For | [FST Network](https://www.fst.network/) (邦拓鏈股份有限公司) |
+| Period | Apr 2022 - Jul 2024 (as employee) |
+| For | [FST Network](https://www.fst.network/) |
 | Product | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre), including LOC Core, Studio, CLI and SDKs |
-| Description | Write, maintain and deploy **[LOC Documentation](https://loc-documentation.vercel.app/)**, the official user's guide for product features, code examples, release notes, SDK developer references and a web-based code generation/unit test tool, based on information provided by the product and developer teams. (撰寫、維護及部署官方使用者指南 LOC Documentation，包含產品功能介紹、範例程式碼、新版發行說明、SDK 開發文件及線上程式碼產生／測試工具，依據產品及開發團隊提供的資訊撰寫。) |
+| Description | Write, maintain and deploy **[LOC Documentation](https://loc-documentation.vercel.app/)**, the official user's guide for product features, code examples, release notes, SDK developer references and a web-based code generation/unit test tool, based on information provided by the product and developer teams. |
+| Language | English |
 
 ---
 
 ## Marketing Writing
 
-`行銷寫作`
-
-| Project | For | Period | Description | Translated Description |
+| Project | For | Period | Description | Language |
 | --- | --- | --- | --- | --- |
-| [FST Network Blog](https://www.fst.network/blog) | FST Network | Sep - Dec 2022 | Product marketing posts collaborated with product and marketing teams | 與產品及行銷團隊合作的產品行銷文章 |
-| [FST Network Medium Channel](https://medium.com/fstnetwork) | FST Network | Apr - Sep 2022 | Technical marketing posts collaborated with dev team | 與開發團隊合作的技術行銷文章 |
+| [FST Network Blog](https://www.fst.network/blog) | FST Network | Sep - Dec 2022 (as employee) | Product marketing posts collaborated with product and marketing teams | English |
+| [FST Network Medium Channel](https://medium.com/fstnetwork) | FST Network | Apr - Sep 2022 (as employee) | Technical marketing posts collaborated with dev team | English or Traditional Chinese |
 
 ---
 
 ## Content Writing and Articles
 
-`內容寫作與文章`
-
 ### Literary Column for [The Affairs](https://www.theaffairs.com/)
 
-Book reviews published on the magazine _The Affairs_ around 2018 to 2019. They were re-published online in 2020.
-
-在 2018-2019 年間替編集者新聞書評專欄撰寫的文章，2020 年被重新發布為網路版。
+Book reviews published on a monthly newspaper around 2018 to 2019. Re-published online in 2020.
 
 | English Title | Original Title |
 | --- | --- |
@@ -69,8 +57,6 @@ Book reviews published on the magazine _The Affairs_ around 2018 to 2019. They w
 | "When the False is More Real - _Skin Deep_ by Isaac Hsu" | [當假的世界一樣真實——《如膚之深》](https://www.theaffairs.com/%E7%95%B6%E5%81%87%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%80%E6%A8%A3%E7%9C%9F%E5%AF%A6-%E3%80%8A%E5%A6%82%E8%86%9A%E4%B9%8B%E6%B7%B1%E3%80%8B/) |
 
 ### Miscellaneous
-
-`其他寫作`
 
 | Authored Content | Target Title | Target Translated Title | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |

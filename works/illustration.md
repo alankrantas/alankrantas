@@ -18,7 +18,7 @@ Create figures and diagrams for [XREX product white papers](https://github.com/a
 | [_XREX/DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking) | Features/user flow |
 | [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck) | Features/user flow |
 
-> Not available to share due to NDA.
+> Not available to share due to NDA. The status of the project is unknown.
 
 ---
 

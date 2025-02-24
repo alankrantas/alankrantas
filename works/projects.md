@@ -69,6 +69,6 @@ Book reviews published on a monthly newspaper around 2018 to 2019. Re-published 
 
 | Site | Description |
 | --- | --- |
-| [Blogger](https://krantasblog.blogspot.com/) | Personal blog; mostly reviews for books, movies and games, travel and photography, and additional translation works. I started to write blog since late 2000s. |
+| [Blogger](https://krantasblog.blogspot.com/) | Personal blog; mostly reviews for books, movies and games, travel and photography, and additional translation works. I started to write blog since around 2006. This is the second blog platform I've used. |
 | [Medium](https://alankrantas.medium.com/) | Mostly software/technology blog posts with a bit of other topics not fit for personal blog. Written for free. |
 | [Hackster](https://www.hackster.io/alankrantas) | Open sourced Maker/embedded project showcases. Shared mostly under CC BY-NC-SA license. |

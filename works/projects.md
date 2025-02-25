@@ -55,11 +55,11 @@ Technical marketing posts collaborated with dev team.
 
 ---
 
-## Other Writing and Articles
+## Miscellaneous Writing and Articles
 
 ### Literary Column for [The Affairs](https://www.theaffairs.com/)
 
-Book reviews published on a local monthly newspaper (編集者新聞) around 2018 to 2019. Re-published online in 2020.
+Book reviews published on a local monthly magazine (編集者新聞) around 2018 to 2019. Re-published online in 2020.
 
 - [淺談勒瑰恩的瀚星系列](https://www.theaffairs.com/%e6%b7%ba%e8%ab%87%e5%8b%92%e7%91%b0%e6%81%a9%e7%9a%84%e7%80%9a%e6%98%9f%e7%b3%bb%e5%88%97/) ("An Brief Introduction to Ursula K. Le Guin's Ekumen Series")
 - [尼爾‧蓋曼的黑色夢境王國](https://www.theaffairs.com/%e5%b0%bc%e7%88%be%e2%80%a7%e8%93%8b%e6%9b%bc%e7%9a%84%e9%bb%91%e8%89%b2%e5%a4%a2%e5%a2%83%e7%8e%8b%e5%9c%8b/) ("The Dark Grim Dream Realm of Neil Gaiman")
@@ -72,17 +72,9 @@ Book reviews published on a local monthly newspaper (編集者新聞) around 201
 - [永生之後——《別讓我走》](https://www.theaffairs.com/%E6%B0%B8%E7%94%9F%E4%B9%8B%E5%BE%8C-%E3%80%8A%E5%88%A5%E8%AE%93%E6%88%91%E8%B5%B0%E3%80%8B/) ("After the Eternity - _Never Let Me Go_ by Kazuo Ishiguro")
 - [當假的世界一樣真實——《如膚之深》](https://www.theaffairs.com/%E7%95%B6%E5%81%87%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%80%E6%A8%A3%E7%9C%9F%E5%AF%A6-%E3%80%8A%E5%A6%82%E8%86%9A%E4%B9%8B%E6%B7%B1%E3%80%8B/) ("When the False is More Real - _Skin Deep_ by Isaac Hsu")
 
-### Book Introduction as [translator](https://github.com/alankrantas/alankrantas/blob/main/works/published.md#translated-titles)
+### Book Introduction as [Translator](https://github.com/alankrantas/alankrantas/blob/main/works/published.md#translated-titles)
 
 | Authored Content | Target Title | Target Translated Title | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | Introduction | _How Star Wars Conquered the Universe_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | 2015 | Non-fiction, cinema | Also the translator |
 | Introduction | _The Magicians_ | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main) | 2012 | Fiction, fantasy | Also the translator |
-
-### Blogs
-
-| Site | Description |
-| --- | --- |
-| [Blogger](https://krantasblog.blogspot.com/) | Personal blog; mostly reviews for books, movies and games, travel and photography, and additional translation works. I started to write blog since around 2006. This is the second blog platform I've used. |
-| [Medium](https://alankrantas.medium.com/) | Mostly software/technology blog posts with a bit of other topics not fit for personal blog. Written for free. |
-| [Hackster](https://www.hackster.io/alankrantas) | Open sourced Maker/embedded project showcases. Shared mostly under CC BY-NC-SA license. |

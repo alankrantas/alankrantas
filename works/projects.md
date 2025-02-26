@@ -1,4 +1,4 @@
-# Writing Projects and Articles of [Alan Wang](https://github.com/alankrantas)
+# Writing Works of [Alan Wang](https://github.com/alankrantas)
 
 ---
 

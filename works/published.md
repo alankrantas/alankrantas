@@ -41,29 +41,29 @@ All works are either written in Traditional Chinese or translated from English.
 | _**The Forever War**_ | [_永世之戰_](https://www.eslite.com/product/1001123032566925?srsltid=AfmBOoo_NdxKXAB6ByeBs6E3UrfbXsebhBNbVzZrMvLm8Pspllloi1TX) | Joe Haldeman | 高寶書版 (Global Publishing) | 2017 | SF | Hugo, Nebula and Locus Award winner; 2012 Locus All-Centuries Polls #13  |
 | _**And Another Thing...**_ (The Hitchhiker's Guide to the Galaxy #6) | [_銀河便車指南 6：啊，還有一件事..._](https://www.books.com.tw/products/0010720121?sloc=main) | Eoin Colfer | 木馬文化 (ECUS Publishing) | 2016 | SF | Co-translated (75%) |
 | _**Open Secrets**_ | [_公開的祕密_](https://www.books.com.tw/products/0010690300?sloc=main) | Alice Munro (Nobel Prize winner) | 木馬文化 (ECUS Publishing) | 2015 | Literature, short story collection | |
-| _**Dangerous Woman**_ | [_危險女人_](https://www.cite.com.tw/book?id=59717&srsltid=AfmBOopJQe-3wGdwmYkvKZ_OgLS299NsDsk96sNQ_5lYLq9wstf4Cp4h) | Joe Abercrombie, Jim Butcher, Lawrence Block, Brandon Sanderson, Lev Grossman, Diana Gabaldon and George R. R. Martin, etc. | 高寶書版 (Global Publishing) | 2015 | SFF, anthology | |
+| _**Dangerous Woman**_ | [_危險女人_](https://www.cite.com.tw/book?id=59717&srsltid=AfmBOopJQe-3wGdwmYkvKZ_OgLS299NsDsk96sNQ_5lYLq9wstf4Cp4h) | Joe Abercrombie, Jim Butcher, Lawrence Block, Brandon Sanderson, Lev Grossman, Diana Gabaldon and George R. R. Martin, etc. | 高寶書版 (Global Publishing) | 2015 | SFF, anthology | Including "The Princess and the Queen" from _A Song of Ice and Fire_ |
 | _**To Be a Cat**_ | [_突然變成一隻貓_](https://www.books.com.tw/products/0010665405?sloc=main) | Matt Haig | 天培 (Ten Points Publishing) | 2015 | Fantasy, children's book | |
 | _**The Jungle**_ | [_魔鬼的叢林_](https://www.books.com.tw/products/0010656599?sloc=main) | Upton Sinclair (Pulitzer Prize winner) | 柿子文化 (Persimmon Books) | 2014 | Literature | |
 | _**The View from Castle Rock**_ | [_城堡岩海景_](https://www.books.com.tw/products/0010650379?sloc=main) | Alice Munro (Nobel Prize winner) | 木馬文化 (ECUS Publishing) | 2014 | Literature, short story collection | |
 | _**Brave New World**_ | [_美麗新世界_](https://www.books.com.tw/products/0010638857?sloc=main) | Aldous Huxley | 好讀出版 (Howdo Publishing) | 2014 | SF | 2003 BBC The Big Read #87; 2012 Locus All-Centuries Polls #29 |
 | _**A Delicate Truth**_ | [_脆弱的真相_](https://www.books.com.tw/products/0010634261?sloc=main) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Thriller | |
 | _**Steelheart**_ | [_審判者傳奇：鋼鐵心_](https://www.books.com.tw/products/0010633324?sloc=main) | Brandon Sanderson | 奇幻基地 (Fantasy Foundation) | 2014 | SF, young adult | |
-| _**The Heroes**_ | [_血戰英雄_](https://www.books.com.tw/products/0010633330?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2014 | Fantasy | |
+| _**The Heroes**_ (The First Law)  | [_血戰英雄_](https://www.books.com.tw/products/0010633330?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2014 | Fantasy | |
 | _**Dear Life**_ | [_親愛的人生_](https://www.books.com.tw/products/0010617695?sloc=main) | Alice Munro (Nobel Prize winner) | 木馬文化 (ECUS Publishing) | 2014 | Literature, short story collection | Co-translated (60%) |
-| _**Last Argument of Kings**_ | [_第一法則終部曲：最後手段_](https://www.books.com.tw/products/0010590872?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2013 | Fantasy | |
-| _**Before They Are Hanged**_ | [_第一法則二部曲：絞刑之前_](https://www.books.com.tw/products/0010587117?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2013 | Fantasy | |
-| _**The Blade Itself**_ | [_第一法則首部曲：劍刃自身_](https://www.books.com.tw/products/0010584766?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2013 | Fantasy | |
+| _**Last Argument of Kings**_ (The First Law)  | [_第一法則終部曲：最後手段_](https://www.books.com.tw/products/0010590872?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2013 | Fantasy | |
+| _**Before They Are Hanged**_ (The First Law)  | [_第一法則二部曲：絞刑之前_](https://www.books.com.tw/products/0010587117?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2013 | Fantasy | |
+| _**The Blade Itself**_ (The First Law) | [_第一法則首部曲：劍刃自身_](https://www.books.com.tw/products/0010584766?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2013 | Fantasy | |
 | _**Pump Six and Other Stories**_ | [_六號抽水站_](https://www.books.com.tw/products/0010580745?sloc=main) | Paolo Bacigalupi | 晨星出版 (Morning Star) | 2013 | SF, short story collection | |
 | _**Level 2**_ | [_天使禁區_](https://www.cite.com.tw/book?id=29966&srsltid=AfmBOorRC_kd9TWhWnEZ9NldjrEiRYTaz5KWCpPq1V-Dd1JL_-Uk8YWw) | Lenore Appelhans | 奇幻基地 (Fantasy Foundation) | 2013 | SF, young adult | |
-| _**The Lost Train of Thought**_ | [_超時空規劃局 3：思緒失落_](https://www.books.com.tw/products/0010553194?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | Fiction, SF, children's book | |
-| _**The Split Second**_ | [_超時空規劃局 2：時空分裂_](https://www.books.com.tw/products/0010550404?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | SF, children's book | |
+| _**The Lost Train of Thought**_ (The Seems #3) | [_超時空規劃局 3：思緒失落_](https://www.books.com.tw/products/0010553194?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | Fiction, SF, children's book | |
+| _**The Split Second**_ (The Seems #2) | [_超時空規劃局 2：時空分裂_](https://www.books.com.tw/products/0010550404?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | SF, children's book | |
 | _**The Magicians**_ | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main) | Lev Grossman | 就是創意 (Beam Books) | 2012 | Fantasy | Translation heavily abridged by the publisher |
-| _**The Glitch in Sleep**_ | [_超時空規劃局 1：臭蟲入侵_](https://www.books.com.tw/products/0010546777?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | SF, children's book | |
+| _**The Glitch in Sleep**_ (The Seems #1) | [_超時空規劃局 1：臭蟲入侵_](https://www.books.com.tw/products/0010546777?sloc=main) | John Hulme and Michael Wexler | 晨星出版 (Morning Star) | 2012 | SF, children's book | |
 | _**Old Man's War**_ | [_垂暮戰爭_](https://www.books.com.tw/products/0010539736?sloc=main) | John Scalzi | 晨星出版 (Morning Star) | 2012 | SF | Hugo Award nominee|
 | _**Flashback**_ | [_閃憶殺手_](https://www.books.com.tw/products/0010529493?sloc=main) | Dan Simmons | 商周出版 (Business Weekly Publishing) | 2012 | SF, thriller | |
 | _**The Windup Girl**_ | [_曼谷的發條女孩_](https://www.books.com.tw/products/0010511697?sloc=main) | Paolo Bacigalupi | 晨星出版 (Morning Star) | 2011 | SF | Hugo and Nebula Award winner |
-| _**The Legacy**_ | [_青春鑰 3：生生不息_](https://www.books.com.tw/products/0010521276?sloc=main) | Gemma Malley | 晨星出版 (Morning Star) | 2011 | SF, young adult | |
-| _**The Resistance**_ | [_青春鑰 2：解放陣線_](https://www.books.com.tw/products/0010501090?sloc=main) | Gemma Malley | 晨星出版 (Morning Star) | 2011 | SF, young adult | |
+| _**The Legacy**_ (The Declaration #3) | [_青春鑰 3：生生不息_](https://www.books.com.tw/products/0010521276?sloc=main) | Gemma Malley | 晨星出版 (Morning Star) | 2011 | SF, young adult | |
+| _**The Resistance**_ (The Declaration #2) | [_青春鑰 2：解放陣線_](https://www.books.com.tw/products/0010501090?sloc=main) | Gemma Malley | 晨星出版 (Morning Star) | 2011 | SF, young adult | |
 | _**The Declaration**_ | [_青春鑰 1：永生宣言_](https://www.books.com.tw/products/0010495807?sloc=main) | Gemma Malley | 晨星出版 (Morning Star) | 2011 | SF, young adult | |
 | _**The Replacement**_ | [_替身天使_](https://www.books.com.tw/products/0010481832?sloc=main) | Brenna Yovanoff | 晨星出版 (Morning Star) | 2010 | Fantasy, young adult | |
 | _**The Ark**_ | [_方舟浩劫_](https://www.books.com.tw/products/0010476206?sloc=main) | Boyd Morrison | 奇幻基地 (Fantasy Foundation) | 2010 | Thriller | |

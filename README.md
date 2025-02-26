@@ -6,17 +6,17 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 
-- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/) and [résumé/CV](https://www.cake.me/krantas)
 
-- [Résumé/CV](https://www.cake.me/krantas)
+## Portfolio
 
-## Published & Writing Works
+- [Published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
-- [Published works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (full-length translated, editorial and authored titles)
-
-- [Writing projects](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) (technical/marketing/documentation/blog writing)
+- [Writing works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
 
 - [Technical and marketing illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
+
+You can also visited my homepage's [portfolio page](https://alankrantas.github.io/?view=work).
 
 ---
 

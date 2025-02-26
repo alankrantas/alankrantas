@@ -45,7 +45,7 @@ All works are either written in Traditional Chinese or translated from English.
 | _**To Be a Cat**_ | [_突然變成一隻貓_](https://www.books.com.tw/products/0010665405?sloc=main) | Matt Haig | 天培 (Ten Points Publishing) | 2015 | Fantasy, children's book | |
 | _**The Jungle**_ | [_魔鬼的叢林_](https://www.books.com.tw/products/0010656599?sloc=main) | Upton Sinclair | 柿子文化 (Persimmon Books) | 2014 | Literature | |
 | _**The View from Castle Rock**_ | [_城堡岩海景_](https://www.books.com.tw/products/0010650379?sloc=main) | Alice Munro | 木馬文化 (ECUS Publishing) | 2014 | Literature, short story collection | Nobel prize winner |
-| _**Brave New World**_ | [_美麗新世界_](https://www.books.com.tw/products/0010638857?sloc=main) | Aldous Huxley | 好讀出版 (Howdo Publishing) | 2014 | SF | |
+| _**Brave New World**_ | [_美麗新世界_](https://www.books.com.tw/products/0010638857?sloc=main) | Aldous Huxley | 好讀出版 (Howdo Publishing) | 2014 | SF | 2003 BBC The Big Read #87 |
 | _**A Delicate Truth**_ | [_脆弱的真相_](https://www.books.com.tw/products/0010634261?sloc=main) | John le Carré | 木馬文化 (ECUS Publishing) | 2014 | Thriller | |
 | _**Steelheart**_ | [_審判者傳奇：鋼鐵心_](https://www.books.com.tw/products/0010633324?sloc=main) | Brandon Sanderson | 奇幻基地 (Fantasy Foundation) | 2014 | SF, young adult | |
 | _**The Heroes**_ | [_血戰英雄_](https://www.books.com.tw/products/0010633330?sloc=main) | Joe Abercrombie | 奇幻基地 (Fantasy Foundation) | 2014 | Fantasy | |

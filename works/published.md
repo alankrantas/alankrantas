@@ -12,8 +12,8 @@ All works are either written in Traditional Chinese or translated from English.
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
-| To be published #2 | | | | 2025 (ETA) | Software, technology | Full-length work |
-| To be published #1 | | | | 2025 (ETA) | Software | Full-length work |
+| _**We, Programmers**: A Chronicle of Coders from Ada to AI_ | (To be announced) | Robert C. Martin | 博碩文化 (DrMaster Press) | 2025 | Software, technology, history | |
+| _**Balancing Coupling in Software Design**: Universal Design Principles for Architecting Modular Software Systems_ | (To be announced) | Vlad Khononov | 博碩文化 (DrMaster Press) | 2025 | Software, design | |
 | _**Deep Medicine**: How Artificial Intelligence Can Make Healthcare Human Again_ | [_AI 醫療_](https://www.flag.com.tw/books/product/F0324) | Eric Topol | 旗標科技 (Flag Publishing) | 2020 | Non-fiction, AI, medicine | Translated first 2 chatpers (not credited) |
 | _**Pressed for Time**: The Acceleration of Life in Digital Capitalism_ | [_縮時社會_](https://www.eslite.com/product/1001296512602774?srsltid=AfmBOorC1DHtfGb8AnZHEbBE1quLPYV5Z8RceR_3LSKMeRgXHW-xpMYz) | Judy Wajcman | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, sociology | |
 | _**Tales From the Great Disruption**: Insights and Lessons From Journalism's Technological Transformation_ | [_關鍵轉折_](https://www.eslite.com/product/1001296512562222?srsltid=AfmBOop2spfEiS_DK-znQFmnVvakTKiuIZUgDfPgKtbjxCQKCYgwX_2F) | Michael Shapiro, Anna Hiatt and Mike Hoyt | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, web, journalism | |

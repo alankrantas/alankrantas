@@ -2,6 +2,8 @@
 
 All works are either written in Traditional Chinese or translated from English.
 
+![published_works](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/published_works.png)
+
 ---
 
 ## Translated Titles
@@ -19,16 +21,12 @@ All works are either written in Traditional Chinese or translated from English.
 | _**Tales From the Great Disruption**: Insights and Lessons From Journalism's Technological Transformation_ | [_關鍵轉折_](https://www.eslite.com/product/1001296512562222?srsltid=AfmBOop2spfEiS_DK-znQFmnVvakTKiuIZUgDfPgKtbjxCQKCYgwX_2F) | Michael Shapiro, Anna Hiatt and Mike Hoyt | 新樂園 (Nutopia Publishing) | 2017 | Non-fiction, technology, web, journalism | |
 | _**Splinternet**: How Geopolitics and Commerce Are Fragmenting the World Wide Web_ | [_分裂的網路_](https://www.eslite.com/product/1001296512543627?srsltid=AfmBOooGHyzG_r_mdg90j6fd9nkxGqyH4cOzQxItzumu9va7EsyfLvko) | Scott Malcomson | 新樂園 (Nutopia Publishing) | 2016 | Non-fiction, technology, software, web | |
 
----
-
 ### Non-Fiction
 
 | Original Title | Translated Title | Author | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- | --- |
 | _**The Free State of Jones**: Mississippi's Longest Civil War_ | [_瓊斯自由邦_](https://www.books.com.tw/products/0010737316?sloc=main) | Victoria E. Bynum | 水靈文創 (Shuiling Publishing) | 2016 | History | |
 | _**How Star Wars Conquered the Universe**_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | Chris Taylor | 高寶書版 (Global Publishing) | 2015 | Cinema | Co-translated (60%) |
-
----
 
 ### Fiction
 
@@ -70,9 +68,7 @@ All works are either written in Traditional Chinese or translated from English.
 
 ---
 
-## Editorial Titles
-
----
+## Edited Titles
 
 ### Software & Information Technology
 
@@ -87,8 +83,6 @@ All works are either written in Traditional Chinese or translated from English.
 | _**Python Workout**: 50 Essential Exercises_ | [_Python 刷題鍛鍊班_](https://www.flag.com.tw/books/product/F1750) | Reuven M. Lerner | 旗標科技 (Flag Publishing) | 2021 | Programming | |
 | _**Python Tricks**: A Buffet of Awesome Python Features_ | [_Python 神乎其技 全新超譯版_](https://www.flag.com.tw/activity/FT746A/) | Dan Bader | 旗標科技 (Flag Publishing) | 2020 | Programming | |
 
----
-
 ### Fiction
 
 | English Title | Local Title | Author | Publisher | Published Year | Genre | Note |
@@ -99,16 +93,12 @@ All works are either written in Traditional Chinese or translated from English.
 
 ## Authored Titles
 
----
-
 ### Software & Technology
 
 | Translated Title | Local Title | Publisher | Published Year | Genre | Note |
 | --- | --- | --- | --- | --- | --- |
 | _The Python and Data Science Book for Interdisciplinary Learning_ | [_**跨領域學 Python：資料科學基礎養成**_](https://www.flag.com.tw/books/product/F0753) | 旗標科技 (Flag Publishing) | 2020 | Programming, AI, data science | Also the editor |
 | _Flag's Maker Workshop: Smart Cloud Sensors with Python_ | [_**Flag's 創客‧自造者工作坊 Python 感測器大應用**_](https://www.flag.com.tw/maker/FM622A) | 旗標科技 (Flag Publishing) | 2020 | Embedded programming, IoT | Also the illustration photographer |
-
----
 
 ### STEM Education
 

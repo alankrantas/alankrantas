@@ -16,7 +16,9 @@
 
 > Not available to share due to NDA. The status of the project is unknown. 
 
-### SaaS User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+
+![loc-documentation](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-documentation.jpg)
 
 | Detail | Description |
 | --- | --- |

@@ -38,11 +38,11 @@
 
 Product marketing campaign collaborated with product and marketing teams. Halted after the first layoffs occurred in Dec 2022.
 
-- [Data Mesh: A Paradigm Shift to Make Your Data Great Again](https://www.fst.network/post/data-mesh)
-- [Data as a Product: Make It Real with Event-Driven, Serverless Data Pipelines](https://www.fst.network/post/data-product)
-- [Active Metadata: Tracking the Life Cycle and Data Trails of Data Products with Data Lineage](https://www.fst.network/post/active-metadata)
-- [ETL, Reverse ETL and Streaming ETL: Building the Right Pipelines For Data Integration](https://www.fst.network/post/etl-reverse-etl-streaming-etl)
-- [Why Machine Learning is Important for Data-Driven Decision-Making](https://www.fst.network/post/machine-learning)
+- [Data Mesh: A Paradigm Shift to Make Your Data Great Again](https://github.com/alankrantas/alankrantas/blob/main/works/articles/What%20is%20Data%20Mesh_%20-%20FST%20Network.pdf)
+- [Data as a Product: Make It Real with Event-Driven, Serverless Data Pipelines](https://github.com/alankrantas/alankrantas/blob/main/works/articles/What%20is%20a%20Data%20Product_%20-%20FST%20Network.pdf)
+- [Active Metadata: Tracking the Life Cycle and Data Trails of Data Products with Data Lineage](https://github.com/alankrantas/alankrantas/blob/main/works/articles/What%20is%20Active%20Metadata%20and%20Data%20Lineage_%20-%20FST%20Network.pdf)
+- [ETL, Reverse ETL and Streaming ETL: Building the Right Pipelines For Data Integration](https://github.com/alankrantas/alankrantas/blob/main/works/articles/Building%20(Streaming)%20ETL%20Pipelines%20with%20LOC%20Data%20Processes%20-%20FST%20Network.pdf)
+- [Why Machine Learning is Important for Data-Driven Decision-Making](https://github.com/alankrantas/alankrantas/blob/main/works/articles/Why%20Machine%20Learning%20is%20important%20for%20Data-Driven%20Decision-Making%20-%20FST%20Network.pdf)
 
 ### FST Network [Medium Channel](https://medium.com/fstnetwork) (Apr - Sep 2022)
 

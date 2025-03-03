@@ -37,6 +37,8 @@ sudo apt install curl
 curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
 sudo apt install nodejs
 sudo npm i -g npm@latest yarn@latest
+npm cache clean --force
+yarn cache clean --all
 ```
 
 [Install Node.js on ARMv6](https://blog.rodrigograca.com/how-to-install-latest-nodejs-on-raspberry-pi-0-w/)

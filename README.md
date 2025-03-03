@@ -1,6 +1,6 @@
 # Alan Wang ✍️ (Open for Work)
 
-`Experienced Technical Writer` | `Translator` | `Ex-Editor & Software Engineer`
+`Technical Writer` | `Translator` | `Ex-Editor & Software Engineer`
 
 A seasoned writer with 10+ years of writing and translating backgrounds that have resulted in 50+ full-length published works, dozens of articles and several writing projects, and has professional experience in technical writing (including documentation), copywriting and content marketing (including on social media), marketing assisting, publishing, software engineering, AI and STEM education.
 

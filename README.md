@@ -10,9 +10,9 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 ## Portfolio
 
-- [Published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
+- [Published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) (translated, edited & authored works)
 
-- [Writing works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
+- [Writing works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md), including [LOC Documentation](https://loc-documentation.vercel.app/)
 
 - [Technical and marketing illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
 

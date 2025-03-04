@@ -23,7 +23,7 @@
 | Detail | Description |
 | --- | --- |
 | Domain | Software, SaaS, serverless, data integration, data catalog, Data Mesh |
-| Product | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre), including LOC's Core, Studio, CLI and SDKs |
+| Product | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre), including _LOC Core_, _LOC Studio_, _LOC CLI_ and _LOC SDKs_ |
 | Description | Write, maintain and deploy **LOC Documentation**, the official user's guide for product features, release notes, SDK developer references and code examples (JavaScript/TypeScript/C#), as well as a web-based code generation/unit test tool I've written on my own, based on information provided by the product and developer teams. Contains 300+ pages over 6 product releases. Most docs are written in Markdown with illustrations/diagrams created with Mermaid. |
 | Language | English |
 | Link | [LOC Documentation](https://loc-documentation.vercel.app/) (archived site) |

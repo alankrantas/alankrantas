@@ -18,10 +18,6 @@ A seasoned writer with 10+ years of writing and translating backgrounds that hav
 
 You can also visited my homepage's [portfolio page](https://alankrantas.github.io/?view=work).
 
----
-
 ![profile](profile.jpg)
-
----
 
 [Github profile repo](https://github.com/alankrantas/alankrantas)

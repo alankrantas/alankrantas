@@ -2,7 +2,20 @@
 
 `Technical Writer` | `Translator` | `Ex-Software Engineer`
 
-A seasoned writer with 10+ years of writing and translating backgrounds that have resulted in 50+ full-length published works, dozens of articles and several writing projects, and has professional experience in technical writing (including documentation), copywriting and content marketing (including on social media), marketing assisting, publishing, software engineering, AI and STEM education.
+A seasoned writer (10+ years) and expert translator (10 years) with professional experience in fields including software, technology, AI, literature and STEM education.
+
+I have 60+ full-length published works, dozens of articles and a couple of writing projects (document copywriting and documentation), and have professional responsibilities of around 5 years in social media content marketing, as well as around 9 years in software engineering and embedded programming.
+
+---
+
+Résumé/CV:
+https://www.cake.me/krantas
+
+Personal website:
+https://alankrantas.github.io/
+
+Github profile:
+https://github.com/alankrantas
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 

@@ -8,15 +8,6 @@ I have 60+ full-length published works, dozens of articles and a couple of writi
 
 ---
 
-Résumé/CV:
-https://www.cake.me/krantas
-
-Personal website:
-https://alankrantas.github.io/
-
-Github profile:
-https://github.com/alankrantas
-
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/) and [résumé/CV](https://www.cake.me/krantas)

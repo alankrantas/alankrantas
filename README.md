@@ -1,4 +1,6 @@
-# Alan Wang ✍️ (Open for Work)
+# Alan Wang ✍️
+
+> Open to work!
 
 `Technical Writer` | `Translator` | `Ex-Software Engineer`
 

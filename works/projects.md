@@ -28,7 +28,7 @@
 | Language | English |
 | Link | [LOC Documentation](https://loc-documentation.vercel.app/) (archived site) |
 
-> The original site (https://documentation.loc.fst.network/) is no longer accessible.
+> The [original site](https://documentation.loc.fst.network/) is no longer accessible.
 
 ---
 

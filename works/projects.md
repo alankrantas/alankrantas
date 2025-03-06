@@ -4,19 +4,19 @@
 
 ## Technical Writing
 
-### Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep - Oct 2024)
+### FinTech Product White Paper Copywriting for [XREX Inc.](https://xrex.io/) (Sep - Oct 2024)
 
 | Detail | Description |
 | --- | --- |
 | Domain | Finance, foreign exchange, FinTech, cryptocurrency, software |
 | Products | _Spot Trading_ and [_Margin Trading_](https://support.xrex.io/en/collections/6032284-margin-trading) (including [_Grid Bot_](https://support.xrex.io/en/collections/4080296-grid-trading)), [_Secured Loan_](https://support.xrex.io/en/articles/7322871-what-is-crypto-secured-loan), [_XREX Staking_ and _DeFi Staking_](https://support.xrex.io/en/articles/6034478-what-is-staking), [_BitCheck_](https://support.xrex.io/en/collections/3064945-bitcheck), [_Deposit_ and _Withdraw_](https://support.xrex.io/en/collections/2683050-deposit-and-withdraw). |
-| Description | Write **product white paper** drafts for cryptocurrency-related FinTech products for regulation compliance and disclosure purposes, including product design objective, product features and user flow, terms of service/fee as well as risk management, based on information provided by the product team. |
+| Description | Write product white paper drafts for cryptocurrency-related FinTech products for regulation compliance and disclosure purposes, including product design objective, product features and user flow, terms of service/fee as well as risk management, based on information provided by the product team. |
 | Language | Traditional Chinese |
 | Link | N/A |
 
-> Not available to share due to NDA. The status of the project is unknown. 
+> Not available to share due to NDA.
 
-### User Documentation for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+### [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
 
 ![loc-documentation](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-documentation.jpg)
 
@@ -24,9 +24,8 @@
 | --- | --- |
 | Domain | Software, SaaS, serverless, data integration, data catalog, Data Mesh |
 | Product | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre), including _LOC Core_, _LOC Studio_, _LOC CLI_ and _LOC SDKs_ |
-| Description | Write, maintain and deploy **LOC Documentation**, the official user's guide for product features, release notes, SDK developer references and code examples (JavaScript/TypeScript/C#), as well as a web-based code generation/unit test tool I've written on my own, based on information provided by the product and developer teams. Contains 300+ pages over 6 product releases. Most docs are written in Markdown with illustrations/diagrams created with Mermaid. |
+| Description | Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide for product features, release notes, SDK developer references and code examples (JavaScript/TypeScript/C#), as well as a web-based code generation/unit test tool I've written on my own, based on information provided by the product and developer teams. Contains 300+ pages over 6 product releases. Most docs are written in Markdown with illustrations/diagrams created with Mermaid. |
 | Language | English |
-| Link | [LOC Documentation](https://loc-documentation.vercel.app/) (archived site) |
 
 > The [original site](https://documentation.loc.fst.network/) is no longer accessible.
 

@@ -1,6 +1,8 @@
 # Alan Wang ✍️
 
-> Open to work! [`Technical Writer`](https://www.cake.me/krantas)
+`Technical Writer`, `Translator` & `Ex-Software Engineer`
+
+> Open to work! [Resume](https://www.cake.me/krantas)
 
 ## Portfolio
 

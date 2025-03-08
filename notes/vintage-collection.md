@@ -94,11 +94,11 @@
 | Name                           | Type                          | Serial/Manufactured Date | Caliber/Module  | Jewels/Bph or Battery | Note                                           |
 | ------------------------------ | ----------------------------- | ------------------------ | --------------- | --------------------- | ---------------------------------------------- |
 | **Seiko Type 19**              | Mechanical pocket watch       | 89559781 (late 1950s?)   | Moeris 19H copy | 7 (18,000)            |                                                |
-| **Dolmy 1/5**                  | Mechanical stopwatch          | 1970s?                   | BF410?          | 7 (18,000)            | Retailed by Camerer Cuss                       |
-| **Seiko Sportsmatic 5**        | Mechanical watch              | 5102998 (Feb 1965)       | 6619A           | 21 (18,000)           | Day wheel not working; missing dial outer ring |
-| **Seiko 5**                    | Mechanical watch              | 276684 (Jul 1982)        | 7009A           | 17 (21,600)           |                                                |
-| **Casio A-168W**               | Digital quartz watch          | 1997?                    | 1572            | CR2016                | Dad's watch; beeper not working                |
-| _Orient GP?_                   | Analog quartz watch (2 hands) | Late 1970s?              | 53030           | SR726SW               | Mom's watch; broken                            |
+| **Dolmy 1/5**                  | Mechanical stopwatch          | 1970s?                   | Dolmy BF410?    | 7 (18,000)            | Retailed by Camerer Cuss                       |
+| **Seiko Sportsmatic 5**        | Mechanical watch              | 5102998 (Feb 1965)       | Seiko 6619A     | 21 (18,000)           | Day wheel not working; missing dial outer ring |
+| **Seiko 5**                    | Mechanical watch              | 276684 (Jul 1982)        | Seiko 7009A     | 17 (21,600)           |                                                |
+| **Casio A-168W**               | Digital quartz watch          | 1997?                    | Casio 1572      | CR2016                | Dad's watch; beeper not working                |
+| _Orient GP?_                   | Analog quartz watch (2 hands) | Late 1970s?              | Orient 53030    | SR726SW               | Mom's watch; broken                            |
 | _Wang Laboratories gift watch_ | Analog quartz watch (3 hands) | Early 1980s?             | ETA 561.101?    | SR721SW               | Dad's watch; broken                            |
 
 ## Typewriters

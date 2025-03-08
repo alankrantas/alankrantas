@@ -44,8 +44,6 @@
 | **Polaroid SX-70 Land Camera Sonar OneStep**     | Polaroid instant camera    | 1978 | 5G847493588 (Jun 1978)   | 116mm f/8 (eq. 45mm; 4E)                               | Program  | Film cartridge | Auto-focusing with ultrasonic                            |
 | _Polaroid SX-70 Model 2_                         | Polaroid instant camera    | 1974 | 0G520203007 (Jul 1975)   | 116mm f/8 (eq. 45mm; 4E)                               | Program  | Film cartridge | Semi-broken                                              |
 | **Polaroid P 600**                               | Polaroid instant camera    | 2009 | JZHGTAJXVDJA             | 106mm f/14.6 (eq. 41mm; 1E)                            | Program  | Film cartridge | Made in UK                                               |
-| **Agfa Photo**                                   | 35mm toy camera            |      |                          |                                                        |          | AAA (flash)    |                                                          |
-| **Vivitar UW500** (unmarked copy)                | 35mm toy camera            |      |                          |                                                        |          | AA x 2         | Auto winding with waterproof case                        |
 
 ## Digital Cameras
 

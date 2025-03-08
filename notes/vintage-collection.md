@@ -116,6 +116,6 @@
 | _Motorola Timeport P7689_ | Mobile phone                           | 2001        | B69VBLD499 | BYD-V8088     | No battery or charger       |
 | _Nokia 3330_              | Mobile phone                           | 2002        | 0506208    | BLC-2         | No battery or charger       |
 | _Nokia 3210_              | Mobile phone                           | 2005        | 0525972    | BML-3         | No battery or charger       |
-| **Panasonic SL-CT500**    | Portable CD player                     | 2022        | FB3BAO3418 | AA x 2        | Damaged battery compartment |
+| **Panasonic SL-CT500**    | Portable CD player                     | 2002        | FB3BAO3418 | AA x 2        | Damaged battery compartment |
 | **Toshiba KT-V780**       | Portable cassette tape player/FM radio | Mid-1980s   |            | AAA x 2       |                             |
 | _Sharp Viewcam VL-E30U_   | Video8 tape recorder                   | 1994        | 30822760   | Sharp BT-77   | Broken charger              |

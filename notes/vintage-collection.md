@@ -38,7 +38,7 @@
 | _Kodak Brownie Reflex Synchro Model_             | 127 pseudo TLR             | 1940 |                          | 45mm f/11 (eq. 35mm)                                   | I (~1/50), B                            |          |                |                                                              |
 | _Kodak Six-20 Brownie D_                         | 620 box camera             | 1946 |                          | 100mm f/11 (eq. 55mm, 1E?)                             | I (~1/40), B                            |          |                |                                                              |
 | _Kodak Brownie Hawkeye Flash_                    | 620 box camera             | 1950 |                          | 81mm f/15 (eq. 44mm, 1E?)                              | I (~1/35), B                            |          |                | Comes with a Kodalite Flashholder                            |
-| _Kodak Instamatic 124_                           | 126 viewfinder             | 1968 |                          | 43mm f/11 (eq. 45mm)                                   | 1/90 or 1/40 (flash)                    |          | PX825 (flash)  | Shutter broken                                               |
+| _Kodak Instamatic 124_                           | 126 viewfinder             | 1968 |                          | 43mm f/11 (eq. 45mm, 1E?)                              | 1/90 or 1/40 (flash)                    |          | PX825 (flash)  | Shutter broken                                               |
 | _Kodak Hawkeye Instamatic II_                    | 126 viewfinder             | 1969 |                          | 43mm f/11 (eq. 45mm; 1E?)                              | 1/90 or 1/40 (flash)                    |          | PX825 (flash)  | Comes with a flash cube                                      |
 | _Kodak Instamatic 76x_                           | 126 viewfinder             | 1977 |                          | Kodar 43mm f/11 (eq. 45mm)                             | 1/50                                    |          |                | Made in England; uses Magicube                               |
 | _Kodak Brownie 8_                                | 8mm movie camera           | 1960 |                          | 13mm f/2.7 (eq. 95mm)                                  | 1/35                                    |          |                | Made in Canada                                               |
@@ -57,27 +57,27 @@
 ## Lenses
 
 > Series E lenses are all AI-S. Also, I use a Canon EF to EF-M adapter to use EF-S lenses.
->
-> | Name                                                    | Mount      | Type                                                    | Year | Serial/Manufactured Date | Lens    | Note                                         |
-> | ------------------------------------------------------- | ---------- | ------------------------------------------------------- | ---- | ------------------------ | ------- | -------------------------------------------- |
-> | **Nikon AI Nikkor 28mm f/3.5S**                         | Nikon F    | Manual prime                                            | 1981 | 2120487                  | 6E 6G   |                                              |
-> | **Nikon AI Nikkor 35mm f/2.8S**                         | Nikon F    | Manual prime                                            | 1981 | 569012                   | 7E 5G   |                                              |
-> | **Nikon AI Nikkor 50mm f/1.4**                          | Nikon F    | Manual prime                                            | 1977 | 4592379                  | 7E 6G   |                                              |
-> | **Nikon Series E 50mm f/1.8**                           | Nikon F    | Manual prime                                            | 1979 | 2702196                  | 6E 5G   | Closest focus 60 cm                          |
-> | **Nikon AI Micro-Nikkor 55mm f/2.8S**                   | Nikon F    | Manual prime, micro                                     | 1979 | 456606                   | 6E 5G   | Macro 1:2                                    |
-> | **Nikon Series E 100mm f/2.8**                          | Nikon F    | Manual prime                                            | 1979 | 1872950                  | 4E 4G   |                                              |
-> | **Nikon AI Nikkor 135mm f/3.5S**                        | Nikon F    | Manual prime                                            | 1981 | 298008                   | 4E 4G   | With built-in lens hood                      |
-> | **Nikon AI Zoom-Nikkor 35-105mm 1:3.5-4.5S**            | Nikon F    | Manual zoom                                             | 1983 | 2080625                  | 16E 12G | Macro 1:4 at 35mm                            |
-> | **Nikon Series E 75-150mm f/3.5**                       | Nikon F    | Manual zoom                                             | 1980 | 1830117                  | 12E 9G  |                                              |
-> | **Soligor C/D 80-200mm f/4.5 Zoom + Macro "One Touch"** | Nikon F    | Manual zoom                                             | 1980 | 382332350 (1982)         | 12E 9G  | Made by Sun Optical; macro 1:4 at 80mm       |
-> | _SMC Pentax-M 50mm f/1.7_                               | Pentax K   | Manual prime                                            | 1977 | 6178903                  | 6E 5G   | Heavily molded; for display on the Pentax MX |
-> | **Canon EF 50mm f/1.8 II**                              | Canon EF   | Auto-focusing prime                                     | 1990 | 41460342 (2008?)         | 6E 5G   |                                              |
-> | **Canon EF 28-80mm f/3.5-5.6 II**                       | Canon EF   | Auto-focusing zoom                                      | 1999 | 3727102                  | 10E 10G |                                              |
-> | **Tamron AF 28-80mm f/3.5-5.6 Aspherical** (177D)       | Canon EF   | Auto-focusing zoom                                      | 1998 | 248747                   | 7E 7G   | Closest focus 70 cm                          |
-> | **Canon EF-S 24mm f/2.8 STM** (eq. 38mm)                | Canon EF-S | Auto-focusing prime, stepping motor                     | 2014 | 5301110188               | 6E 5G   | Macro 1:3.7                                  |
-> | **Canon EF-S 10-18mm f/4.5-5.6 IS STM** (eq. 18-28mm)   | Canon EF-S | Auto-focusing zoom, image stabilization, stepping motor | 2014 | 6142007940               | 14E 11G |                                              |
-> | **Canon EF-S 18-55mm f/3.5-5.6 IS STM** (eq. 28-88mm)   | Canon EF-S | Auto-focusing zoom, image stabilization, stepping motor | 2013 | 386204070701             | 13E 11G | Macro 1:2.9                                  |
-> | **Canon EF-S 55-250mm f/4-5.6 IS STM** (eq. 88-400mm)   | Canon EF-S | Auto-focusing zoom, image stabilization, stepping motor | 2013 | 4241113041               | 15E 12G |                                              |
+
+| Name                                                    | Mount      | Type                                                    | Year | Serial/Manufactured Date | Lens    | Note                                         |
+| ------------------------------------------------------- | ---------- | ------------------------------------------------------- | ---- | ------------------------ | ------- | -------------------------------------------- |
+| **Nikon AI Nikkor 28mm f/3.5S**                         | Nikon F    | Manual-focusing prime                                   | 1981 | 2120487                  | 6E 6G   |                                              |
+| **Nikon AI Nikkor 35mm f/2.8S**                         | Nikon F    | Manual-focusing prime                                   | 1981 | 569012                   | 7E 5G   |                                              |
+| **Nikon AI Nikkor 50mm f/1.4**                          | Nikon F    | Manual-focusing prime                                   | 1977 | 4592379                  | 7E 6G   |                                              |
+| **Nikon Series E 50mm f/1.8**                           | Nikon F    | Manual-focusing prime                                   | 1979 | 2702196                  | 6E 5G   | Closest focus 60 cm                          |
+| **Nikon AI Micro-Nikkor 55mm f/2.8S**                   | Nikon F    | Manual-focusing prime, micro                            | 1979 | 456606                   | 6E 5G   | Macro 1:2                                    |
+| **Nikon Series E 100mm f/2.8**                          | Nikon F    | Manual-focusing prime                                   | 1979 | 1872950                  | 4E 4G   |                                              |
+| **Nikon AI Nikkor 135mm f/3.5S**                        | Nikon F    | Manual-focusing prime                                   | 1981 | 298008                   | 4E 4G   | With built-in lens hood                      |
+| **Nikon AI Zoom-Nikkor 35-105mm 1:3.5-4.5S**            | Nikon F    | Manual-focusing zoom                                    | 1983 | 2080625                  | 16E 12G | Macro 1:4 at 35mm                            |
+| **Nikon Series E 75-150mm f/3.5**                       | Nikon F    | Manual-focusing zoom                                    | 1980 | 1830117                  | 12E 9G  |                                              |
+| **Soligor C/D 80-200mm f/4.5 Zoom + Macro "One Touch"** | Nikon F    | Manual-focusing zoom                                    | 1980 | 382332350 (1982)         | 12E 9G  | Made by Sun Optical; macro 1:4 at 80mm       |
+| _SMC Pentax-M 50mm f/1.7_                               | Pentax K   | Manual-focusing prime                                   | 1977 | 6178903                  | 6E 5G   | Heavily molded; for display on the Pentax MX |
+| **Canon EF 50mm f/1.8 II**                              | Canon EF   | Auto-focusing prime                                     | 1990 | 41460342 (2008?)         | 6E 5G   |                                              |
+| **Canon EF 28-80mm f/3.5-5.6 II**                       | Canon EF   | Auto-focusing zoom                                      | 1999 | 3727102                  | 10E 10G |                                              |
+| **Tamron AF 28-80mm f/3.5-5.6 Aspherical** (177D)       | Canon EF   | Auto-focusing zoom                                      | 1998 | 248747                   | 7E 7G   | Closest focus 70 cm                          |
+| **Canon EF-S 24mm f/2.8 STM** (eq. 38mm)                | Canon EF-S | Auto-focusing prime, stepping motor                     | 2014 | 5301110188               | 6E 5G   | Macro 1:3.7                                  |
+| **Canon EF-S 10-18mm f/4.5-5.6 IS STM** (eq. 18-28mm)   | Canon EF-S | Auto-focusing zoom, image stabilization, stepping motor | 2014 | 6142007940               | 14E 11G |                                              |
+| **Canon EF-S 18-55mm f/3.5-5.6 IS STM** (eq. 28-88mm)   | Canon EF-S | Auto-focusing zoom, image stabilization, stepping motor | 2013 | 386204070701             | 13E 11G | Macro 1:2.9                                  |
+| **Canon EF-S 55-250mm f/4-5.6 IS STM** (eq. 88-400mm)   | Canon EF-S | Auto-focusing zoom, image stabilization, stepping motor | 2013 | 4241113041               | 15E 12G |                                              |
 
 ## Flash Units
 
@@ -95,15 +95,15 @@
 
 ## Vintage Watches
 
-| Name                           | Type                               | Serial/Manufactured Date | Caliber/Module  | Bph or Battery | Note                                           |
-| ------------------------------ | ---------------------------------- | ------------------------ | --------------- | -------------- | ---------------------------------------------- |
-| **Seiko Type 19**              | Mechanical pocket watch (7 jewels) | 89559781 (late 1950s?)   | Moeris 19H copy | 18,000         | Runs ~40 hours when fully winded               |
-| **Dolmy 1/5**                  | Mechanical stopwatch (7 jewels)    | 1970s?                   | Dolmy BF410     | 18,000         | Retailed by Camerer Cuss                       |
-| **Seiko Sportsmatic 5**        | Mechanical watch (21 jewels)       | 5102998 (Feb 1965)       | Seiko 6619A     | 18,000         | Day wheel not working; missing dial outer ring |
-| **Seiko 5**                    | Mechanical watch (17 jewels)       | 276684 (Jul 1982)        | Seiko 7009A     | 21,600         |                                                |
-| **Casio A168WA-1Z**            | Digital quartz watch               | 1997?                    | Casio 1572      | CR2016         | Dad's watch; beeper not working                |
-| _Orient GP_                    | Analog quartz watch (2 hands)      | I530403-20 (late 1970s?) | Orient 53030    | SR726SW        | Mom's watch; broken                            |
-| _Wang Laboratories gift watch_ | Analog quartz watch (3 hands)      | Early 1980s?             | ETA 561.101?    | SR721SW        | Dad's watch; broken                            |
+| Name                           | Type                          | Year         | Serial             | Caliber/Module                  | Bph or Battery | Note                                           |
+| ------------------------------ | ----------------------------- | ------------ | ------------------ | ------------------------------- | -------------- | ---------------------------------------------- |
+| **Seiko Type 19**              | Mechanical pocket watch       | Late 1950s?  | 89559781           | Moeris 19H copy (7 jewels)      | 18,000         | Runs ~40 hours when fully winded               |
+| **Dolmy 1/5**                  | Mechanical stopwatch          | 1970s?       |                    | Dolmy BF410 (7 jewels)          | 18,000         | Retailed by Camerer Cuss                       |
+| **Seiko Sportsmatic 5**        | Mechanical watch              | 1964         | 5102998 (Feb 1965) | Seiko 6619A (21 jewels)         | 18,000         | Day wheel not working; missing dial outer ring |
+| **Seiko 5**                    | Mechanical watch              |              | 276684 (Jul 1982)  | Seiko 7009A (17 jewels)         | 21,600         |                                                |
+| **Casio A168WA-1Z**            | Digital quartz watch          | 1997         |                    | Casio 1572                      | CR2016         | Dad's watch; beeper not working                |
+| _Orient GP_                    | Analog quartz watch (2 hands) | Late 1970s?  | I530403-20         | Orient 53030 (5 jewels)         | SR726SW        | Mom's watch; broken                            |
+| _Wang Laboratories gift watch_ | Analog quartz watch (3 hands) | Early 1980s? |                    | ETA 561.101 (clone?) (1 jewels) | SR721SW        | Dad's watch; broken                            |
 
 ## Typewriters
 
@@ -113,18 +113,18 @@
 
 ## Phones, Players and Recorders
 
-| Name                       | Type                                   | Year        | Serial              | Battery       | Note                        |
-| -------------------------- | -------------------------------------- | ----------- | ------------------- | ------------- | --------------------------- |
-| _Ericsson GF388_           | Mobile phone                           | 1995        | A51023PWMj          | Unknown model | Broken                      |
-| _Motorola Bravo Angel_     | Pager                                  | Early 1990s | BECVVQ5F6P          | AAA           | Broken                      |
-| _Motorola Timeport P7689_  | Mobile phone                           | 2001        | B69VBLD499          | BYD-V8088     | No battery or charger       |
-| _Nokia 3330_               | Mobile phone                           | 2002        | 0506208             | BLC-2         | No battery or charger       |
-| _Nokia 3210_               | Mobile phone                           | 2005        | 0525972             | BML-3         | No battery or charger       |
-| **Panasonic SL-CT500**     | Portable CD/MP3 player                 | 2002        | FB3BAO3418          | AA x 2        | Damaged battery compartment |
-| **Panasonic RF-522**       | Portable FM radio                      | 1986?       |                     | AA x 2        |                             |
-| **Toshiba KT-V780**        | Portable cassette tape player/FM radio | Mid-1980s   |                     | AAA x 2       |                             |
-| _Creative MuVo Micro N200_ | Protable MP3 player/FM radio           | 2004        | CLPF1212509014132K? | AAA           | 512 MB storage; broken      |
-| _Sharp Viewcam VL-E30U_    | Protable Video8 tape recorder          | 1994        | 30822760            | Sharp BT-77   | Broken charger              |
+| Name                       | Type                                   | Year        | Serial              | Battery                 | Note                        |
+| -------------------------- | -------------------------------------- | ----------- | ------------------- | ----------------------- | --------------------------- |
+| _Ericsson GF388_           | Mobile phone                           | 1995        | A51023PWMj          | Ericsson GF 388 battery | Broken                      |
+| _Motorola Bravo Angel_     | Pager                                  | Early 1990s | BECVVQ5F6P          | AAA                     | Broken                      |
+| _Motorola Timeport P7689_  | Mobile phone                           | 2001        | B69VBLD499          | BYD-V8088               | No battery or charger       |
+| _Nokia 3330_               | Mobile phone                           | 2002        | 0506208             | BLC-2                   | No battery or charger       |
+| _Nokia 3210_               | Mobile phone                           | 2005        | 0525972             | BML-3                   | No battery or charger       |
+| **Panasonic SL-CT500**     | Portable CD/MP3 player                 | 2002        | FB3BAO3418          | AA x 2                  | Damaged battery compartment |
+| **Panasonic RF-522**       | Portable FM radio                      | 1986?       | 5FAGA31461          | AA x 2                  |                             |
+| **Toshiba KT-V780**        | Portable cassette tape player/FM radio | Mid-1980s   |                     | AAA x 2                 |                             |
+| _Creative MuVo Micro N200_ | Protable MP3 player/FM radio           | 2004        | CLPF1212509014132K? | AAA                     | 512 MB storage; broken      |
+| _Sharp Viewcam VL-E30U_    | Protable Video8 tape recorder          | 1994        | 30822760            | Sharp BT-77             | Broken charger              |
 
 ## Miscellaneous
 

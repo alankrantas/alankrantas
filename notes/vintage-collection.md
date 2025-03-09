@@ -1,9 +1,9 @@
 # Vintage Collections
 
+> Bold - ready for use. Italic = not useable for various reasons.
+
 ## Film Cameras
 
-> Bold - ready for use. Italic = as display and not useable for photography
->
 > AE = automatic exposure mode, RF = rangefinder, E = element(s), G = group(s), eq. = (35mm focal length) equivalent.
 >
 > Selenium meter does not count as battery even if it's coupled. Batteries for date backs are not listed.

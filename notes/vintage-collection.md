@@ -4,7 +4,12 @@
 
 ## Film Cameras
 
-> AE = automatic exposure mode, RF = rangefinder, E = element(s), G = group(s), eq. = (35mm focal length) equivalent.
+> AE = automatic exposure mode
+> SLR = single lens reflex
+> TLR = twin lens reflex
+> RF = rangefinder
+> E = element(s), G = group(s)
+> eq. = (35mm focal length) equivalent
 >
 > Selenium meter does not count as battery even if it's coupled. Batteries for date backs are not listed.
 

@@ -16,7 +16,7 @@
 
 > Not available to share due to NDA.
 
-### [LOC Documentation](https://loc-documentation.vercel.app/) for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
+### End-User Documentation Writing for [FST Network](https://www.fst.network/) (Apr 2022 - Jul 2024)
 
 ![loc-documentation](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/loc-documentation.jpg)
 
@@ -26,6 +26,7 @@
 | Product     | [_Logic Operating Centre (LOC)_](https://www.fst.network/logic-operation-centre), including _LOC Core_, _LOC Studio_, _LOC CLI_ and _LOC SDKs_                                                                                                                                                                                                                                                                                                                                                                |
 | Description | Write, maintain and deploy [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide for product features, release notes, SDK developer references and code examples (JavaScript/TypeScript/C#), as well as a web-based code generation/unit test tool I've written on my own, based on information provided by the product and developer teams. Contains 300+ pages over 6 product releases. Most docs are written in Markdown with illustrations/diagrams created with Mermaid. |
 | Language    | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Link        | [LOC Documentation](https://loc-documentation.vercel.app/)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 > The [original site](https://documentation.loc.fst.network/) is no longer accessible.
 

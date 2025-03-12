@@ -10,7 +10,7 @@ Experienced Writer | Pro Translator | Technical Writing | Copywriting | Document
 ## Portfolio
 
 - [Published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) - translated, edited & authored
-- [Writing works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) - documents, documentation & articles (including [LOC Documentation](https://loc-documentation.vercel.app/))
+- [Writing works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) - documents, documentation & articles (including [LOC Documentation](https://loc-documentation.vercel.app/) ([repo](https://github.com/alankrantas/loc-documentation)))
 - [Technical and marketing illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
 
 ![profile](profile.jpg)

@@ -1,6 +1,6 @@
-![profile](profile.jpg)
-
 # Alan Wang ✍️
+
+![profile](profile.jpg)
 
 ## Technical Writer & Translator
 

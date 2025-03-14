@@ -1,6 +1,6 @@
 # Alan Wang ✍️
 
-**Experienced Writer | Pro Translator | Technical Writing | Copywriting | Documentation | Software Engineering**
+**Technical Writer | Translator | Copywriting | Documentation | Software Engineering**
 
 > Currently open to work! ([resume](https://www.cake.me/krantas))
 

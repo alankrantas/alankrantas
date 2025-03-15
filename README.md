@@ -4,7 +4,7 @@
 
 ## Technical Writer & Translator
 
-- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/) and [resume](https://www.cake.me/krantas)
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 
 ## Portfolio
@@ -15,4 +15,8 @@
 
 ---
 
-[Github profile repo](https://github.com/alankrantas/alankrantas)
+## Tools
+
+- [TypeScript live editor](https://alankrantas.github.io/monaco-ts-live-editor/)
+- [Python live editor](https://alankrantas.github.io/monaco-python-live-editor/)
+- [Github profile repo](https://github.com/alankrantas/alankrantas)

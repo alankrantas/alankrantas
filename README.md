@@ -1,6 +1,7 @@
 # Alan Wang, Technical Writer & Translator ✍️
 
-- [LinkedIn](https://www.linkedin.com/in/alankrantas/) and [resume](https://www.cake.me/krantas)
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
+- [Resume](https://www.cake.me/krantas)
 - Portfolio:
   - [Published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) - translated, edited & authored
   - [Writing works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) - documents, documentation & articles

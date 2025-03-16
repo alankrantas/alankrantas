@@ -82,3 +82,10 @@ Book reviews published on a local monthly magazine (編集者新聞) around 2018
 | ---------------- | -------------------------------------- | ---------------------------------------------------------------------------------------- | -------------- | ------------------- | ------------------- |
 | Introduction     | _How Star Wars Conquered the Universe_ | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | 2015           | Non-fiction, cinema | Also the translator |
 | Introduction     | _The Magicians_                        | [_費洛瑞之書：魔法王者_](https://www.books.com.tw/products/0010560180?sloc=main)         | 2012           | Fiction, fantasy    | Also the translator |
+
+### Blogs
+
+> I write non-monetized blogs for personal reasons since 2006.
+
+- [Blogger](https://krantasblog.blogspot.com/) (personal reviews and photography journal)
+- [Medium](https://alankrantas.medium.com/) (semi-professional topics)

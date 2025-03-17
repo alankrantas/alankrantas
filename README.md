@@ -1,4 +1,10 @@
-# Alan Wang, Technical Writer & Translator ✍️
+# Alan Wang ✍️
+
+![profile](profile.jpg)
+
+## Technical Writer & Translator
+
+`Based in Taipei, Taiwan`
 
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 - [Resume](https://www.cake.me/krantas)
@@ -6,8 +12,6 @@
   - [Published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) - translated, edited & authored
   - [Writing works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) - documents, documentation & articles
   - [Technical and marketing illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
-
-![profile](profile.jpg)
 
 ## Github Websites & Tools
 

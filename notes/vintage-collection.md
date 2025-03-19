@@ -1,7 +1,5 @@
 # Vintage Collections
 
-![film-camera](https://github.com/alankrantas/alankrantas/blob/main/notes/img/film-camera.jpg)
-
 **Bold** - ready for use. _Italic_ = not useable or not in active use for various reasons.
 
 ## Film Cameras

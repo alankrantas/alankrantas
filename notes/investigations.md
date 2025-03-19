@@ -88,7 +88,7 @@ The IoT company, **Tibbo Technology Inc.**, has its headquarter and factories in
 
 However many important members of this company and **Tibbo Systems** (a closely related company) are clearly Russians:
 
-- Dmitry Slepov - Managing Director and Co-Founder (who owns ~74% shares of the Taiwanese company)
+- Dmitry Slepov - Managing Director and Co-Founder (from St. Petersburg, who owns ~74% shares of the company registered in Taiwan named "集博股份有限公司")
 - Victor Polyakov - CEO 
 - Mikhail Kim - CTO
 - Olga Micallef - Commercial Director
@@ -97,6 +97,6 @@ However many important members of this company and **Tibbo Systems** (a closely 
 - Oksana Shologon - HR
 - Sergey Likharev - Sales Director
 
-And it seems both Tibbos' solutions are based on **AggreGate**, a Russian IoT company operating mostly in Russian domestic market.
+And it seems both Tibbos' solutions are based on **AggreGate**, a Russian IoT company operating mostly in Russian domestic market. Tibbo even uses a URL with its name (`http://aggregate.tibbo.com`).
 
 So Tibbo Technology Inc. is in fact a Russian company washing its origin to Taiwan, possibly to avoid sanctions.

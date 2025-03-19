@@ -76,7 +76,7 @@ EBC Tech Limited
 mkt.cn@ebc.com
 ```
 
-From their marketing channels, the majority of EBC Financial Group's physical events were mostly held in Asia (China, Taiwan, Thailand, Malaysia, etc.), with the CEO David Barrett often fly to Asia to talk at events or to local press.
+From their marketing channels, the majority of EBC Financial Group's physical events were mostly held in Asia (China, Taiwan, Thailand, Malaysia, etc.), with the CEO David Barrett often fly to Asia to talk at events or to local press, but very little elsewhere.
 
 It seems to me that EBC Financial Group, despite washing its origin to UK, is under a strong influence from EBC Tech LTD. and thus very possibly controlled by Chinese-based owners.
 

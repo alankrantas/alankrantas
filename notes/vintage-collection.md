@@ -1,19 +1,24 @@
 # Vintage Collections
 
-> Bold - ready for use. Italic = not useable for various reasons.
+**Bold** - ready for use. _Italic_ = not useable or not in active use for various reasons.
 
 ## Film Cameras
 
-> AE = automatic exposure mode
-> SLR = single lens reflex
-> TLR = twin lens reflex
-> RF = rangefinder
-> VF = viewfinder
-> P&S = point & shoot
-> E = element(s), G = group(s)
-> eq. = (35mm focal length) equivalent
->
-> Selenium meter does not count as battery even if it's coupled. Batteries for date backs are not listed.
+AE = automatic exposure mode
+
+SLR = single lens reflex
+
+TLR = twin lens reflex
+
+RF = rangefinder
+
+VF = viewfinder
+
+P&S = point & shoot
+
+E = element(s), G = group(s)
+
+eq. = (35mm focal length) equivalent
 
 | Name                                             | Type                      | Year | Serial/Manufactured Date | Lens/Serial or Mount                                                                              | Shutter                                 | AE       | Battery        | Note                                                         |
 | ------------------------------------------------ | ------------------------- | ---- | ------------------------ | ------------------------------------------------------------------------------------------------- | --------------------------------------- | -------- | -------------- | ------------------------------------------------------------ |
@@ -23,7 +28,7 @@
 | **Canon Canonet QL17 GIII**                      | 35mm manual RF            | 1972 | D47794/Q1224 (1976)      | 40mm f/1.7 (6E 4G)                                                                                | 1/4-1/500, B (Copal)                    | Shutter  | L1560          | Made in Taiwan; has Canon QL; filter size 38mm               |
 | **Canon EOS 300**                                | 35mm auto SLR             | 1999 | 3949265                  | Canon EF                                                                                          | 30-1/2000, B                            | Full     | CR2 x 2        |                                                              |
 | **Canon EOS 300**                                | 35mm auto SLR             | 1999 | 2860802                  | Canon EF                                                                                          | 30-1/2000, B                            | Full     | CR2 x 2        |                                                              |
-| **Canon Top Twin** (Sure Shot Tele)              | 35mm auto P&S             | 1986 | 1997442/FC0516 (1988)    | 40mm f/2.8 (4E 3G) or 70mm f/4.9 (7E 6G)                                                          | 1/8-1/500 (40mm) or 1/3-1/350 (70mm)    | Program  | 2CR5           | Dual focal length                                            |
+| _Canon Top Twin_ (Sure Shot Tele)                | 35mm auto P&S             | 1986 | 1997442/FC0516 (1988)    | 40mm f/2.8 (4E 3G) or 70mm f/4.9 (7E 6G)                                                          | 1/8-1/500 (40mm) or 1/3-1/350 (70mm)    | Program  | 2CR5           | Dual focal length                                            |
 | _Canon Prima Super 85 Caption_ (Sure Shot Z85)   | 35mm auto P&S             | 1994 | 6501378                  | Canon Zoom Lens 38-85mm f/3.8-8 (8E 7G)                                                           | 1/45-1/300 (38mm) or 1/125-1/200 (85mm) | Program  | CR123A x 2     | Film door latch broken and lens has fungus                   |
 | _Canon Prima Super 155 Caption_ (Sure Shot Z155) | 35mm auto P&S             | 2002 | (21)71020440             | Canon Zoom Lens 37-155mm f/4.8-11.7 (11E 10G)                                                     | 2-1/790                                 | Program  | CR123A         | Zoom lens broken                                             |
 | _Olympus Trip 35_                                | 35mm VF                   | 1967 | 985574 (1972)            | 40mm f/2.8 (4E 3G)                                                                                | 1/40 or 1/200                           | Program  |                | Working but lens is in bad shape; manual shutter not working |
@@ -51,7 +56,9 @@
 | _Kodak Brownie 8_                                | 8mm movie camera          | 1960 |                          | 13mm f/2.7 (eq. 95mm)                                                                             | 1/35                                    |          |                | Made in Canada                                               |
 | **Polaroid SX-70 Land Camera Sonar OneStep**     | Instant camera            | 1978 | 5G847493588 (Jun 1978)   | 116mm f/8 (eq. 45mm; 4E)                                                                          | 14-1/180                                | Program  | Film cartridge | Auto-focusing with ultrasonic                                |
 | _Polaroid SX-70 Model 2_                         | Instant camera            | 1974 | 0G520203007 (Jul 1975)   | 116mm f/8 (eq. 45mm; 4E)                                                                          | ~10-1/175                               | Program  | Film cartridge | Semi-broken                                                  |
-| **Polaroid P 600**                               | Instant camera            | 2009 | JZHGTAJXVDJA             | 106mm f/14.6 (eq. 41mm; 1E)                                                                       | 1/4-1/200                               | Program  | Film cartridge | Late Polaroid Integral model; made in UK                     |
+| _Polaroid P 600_                                 | Instant camera            | 2009 | JZHGTAJXVDJA             | 106mm f/14.6 (eq. 41mm; 1E)                                                                       | 1/4-1/200                               | Program  | Film cartridge | Late Polaroid Integral model; made in UK                     |
+
+> Selenium meter does not count as battery even if it's coupled. Batteries for date backs are not listed.
 
 ## Digital Cameras
 
@@ -63,10 +70,9 @@
 
 ## Lenses
 
-> Series E lenses are all AI-S. Also, I use a Canon EF to EF-M adapter to use EF-S lenses.
->
-> IS = image stabilization
-> STM = stepping motor
+IS = image stabilization
+
+STM = stepping motor
 
 | Name                                                    | Mount      | Type                               | Year | Serial/Manufactured Date | Lens    | Note                                         |
 | ------------------------------------------------------- | ---------- | ---------------------------------- | ---- | ------------------------ | ------- | -------------------------------------------- |
@@ -89,6 +95,8 @@
 | **Canon EF-S 18-55mm f/3.5-5.6 IS STM** (eq. 28-88mm)   | Canon EF-S | Auto-focusing zoom                 | 2013 | 386204070701             | 13E 11G | Macro 1:2.9                                  |
 | **Canon EF-S 55-250mm f/4-5.6 IS STM** (eq. 88-400mm)   | Canon EF-S | Auto-focusing zoom                 | 2013 | 4241113041               | 15E 12G |                                              |
 
+> Series E lenses are all AI-S. Also, I use a Canon EF to EF-M adapter to use EF-S lenses.
+
 ## Flash Units
 
 | Name                         | GN  | Type                                                                   | Serial/Manufactured Date | Battery | Note                                                         |
@@ -107,6 +115,7 @@
 ## Vintage Watches
 
 > j = jewels
+> 
 > bph = beats per hour
 
 | Name                           | Type                          | Year         | Serial             | Caliber/Module             | Bph or Battery | Note                                           |

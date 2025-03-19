@@ -86,7 +86,7 @@ It seems to me that EBC Financial Group, despite washing its origin to UK, is un
 
 The IoT company, **Tibbo Technology Inc.**, has its headquarter and factories in New Taipei City, Taiwan.
 
-However many members of this company and **Tibbo Systems** (a closely related company) are clearly Russians:
+However many important members of this company and **Tibbo Systems** (a closely related company) are clearly Russians:
 
 - Dmitry Slepov - Managing Director and Co-Founder (who owns ~74% shares of the Taiwanese company)
 - Victor Polyakov - CEO 
@@ -96,7 +96,6 @@ However many members of this company and **Tibbo Systems** (a closely related co
 - Natalia Lipovskaya - Marketing Director
 - Oksana Shologon - HR
 - Sergey Likharev - Sales Director
-- Alexander Larionov - IT Sales
 
 And it seems both Tibbos' solutions are based on **AggreGate**, a Russian IoT company operating mostly in Russian domestic market.
 

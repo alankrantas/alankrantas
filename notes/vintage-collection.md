@@ -1,5 +1,7 @@
 # Vintage Collections
 
+![nikon-em](https://github.com/alankrantas/alankrantas/blob/main/notes/img/nikon-em.jpg)
+
 **Bold** - ready for use. _Italic_ = not useable or not in active use for various reasons.
 
 ## Film Cameras
@@ -111,6 +113,9 @@ STM = stepping motor
 | ------------------- | ----------------------------------------- | ------ | -------------------------------------- |
 | **Nikon MD-12**     | Winding motor drive for Nikon manual SLRs | 964647 | AA battery x 8                         |
 | **Walz Self-Timer** | External timer and shutter release        | 4746   | Based on Kopil Self-Timer; 15 secs max |
+
+## Original Manuals and Documents
+
 
 ## Vintage Watches
 

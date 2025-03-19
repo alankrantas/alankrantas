@@ -4,6 +4,8 @@
 
 **Bold** - ready for use. _Italic_ = not useable or not in active use for various reasons.
 
+---
+
 ## Film Cameras
 
 AE = automatic exposure mode

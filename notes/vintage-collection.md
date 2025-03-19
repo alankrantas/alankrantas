@@ -116,24 +116,6 @@ STM = stepping motor
 | **Nikon MD-12**     | Winding motor drive for Nikon manual SLRs | 964647 | AA battery x 8                         |
 | **Walz Self-Timer** | External timer and shutter release        | 4746   | Based on Kopil Self-Timer; 15 secs max |
 
-## Camera and Lenses Documents
-
-> Scanned from my actual copies that came with my dad's Nikon EM, bought in Hong Kong in 1980.
->
-> Note: these PDF files can be too big to be reviewed on Github. Click **Download raw file** on the top right.
-
-| Name                                     | Year | Link                                                                                                                                                | Note                                                   |
-| ---------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Nikon EM Owner's Guide                   | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Owners%20Manual%201980.pdf)                       |                                                        |
-| Nikon EM Photo Guide                     | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Photo%20Guide%201980.pdf)                         |                                                        |
-| Nikon AI Nikkor 50mm f/1.4 Manual        | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20AI%20Nikkor%2050mm%20f1.4%20Manual%201980.pdf)         |                                                        |
-| Nikon Series E 35mm f/2.5 Manual         | 1979 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%2035mm%20f2.5%20Manual%201979.pdf)          |                                                        |
-| Nikon Series E 100mm f/2.8 Manual        | 1979 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%20100mm%20f2.8%20Manual%201979.pdf)         |                                                        |
-| Nikon Filters                            | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Filters%201980.pdf)                                    |                                                        |
-| Nikon AI Nikkor 50mm f/1.4 Manual        | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20AI%20Nikkor%2050mm%20f1.4%20Manual%201980.pdf)         | Includes actual warranty cards for EM and lenses above |
-| Sunpak Auto 25SR Thyristor Owners Manual | 1979 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Auto%2025SR%20Thyristor%20Owners%20Manual%201979.pdf) |                                                        |
-| Sunpak Warranty                          |      | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Warranty.pdf)                                         | For the Auto 25SR                                      |
-
 ---
 
 ## Vintage Watches
@@ -184,3 +166,23 @@ STM = stepping motor
 | Name                                                 | Type            | Year | Note    |
 | ---------------------------------------------------- | --------------- | ---- | ------- |
 | _Gigabyte GA-66032D Rev 1.3_ (NVIDIA RIVA TNT2 32MB) | 3D graphic card | 1999 | 125 MHz |
+
+---
+
+## User Manuals and Other Documents
+
+> Scanned from my actual copies. The Nikon EM, Nikon lenses and Sunpak flash manuals are all came with my dad's collection, bought in Hong Kong in 1980.
+>
+> Note: these PDF files can be too big to be reviewed on Github. Click **Download raw file** on the top right.
+
+| Name                                     | Year | Link                                                                                                                                                | Note                                                   |
+| ---------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Nikon EM Owner's Guide                   | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Owners%20Manual%201980.pdf)                       |                                                        |
+| Nikon EM Photo Guide                     | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Photo%20Guide%201980.pdf)                         |                                                        |
+| Nikon AI Nikkor 50mm f/1.4 Manual        | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20AI%20Nikkor%2050mm%20f1.4%20Manual%201980.pdf)         |                                                        |
+| Nikon Series E 35mm f/2.5 Manual         | 1979 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%2035mm%20f2.5%20Manual%201979.pdf)          |                                                        |
+| Nikon Series E 100mm f/2.8 Manual        | 1979 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%20100mm%20f2.8%20Manual%201979.pdf)         |                                                        |
+| Nikon Filters                            | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Filters%201980.pdf)                                    |                                                        |
+| Nikon AI Nikkor 50mm f/1.4 Manual        | 1980 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20AI%20Nikkor%2050mm%20f1.4%20Manual%201980.pdf)         | Includes actual warranty cards for EM and lenses above |
+| Sunpak Auto 25SR Thyristor Owners Manual | 1979 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Auto%2025SR%20Thyristor%20Owners%20Manual%201979.pdf) |                                                        |
+| Sunpak Warranty                          |      | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Warranty.pdf)                                         | For the Auto 25SR                                      |

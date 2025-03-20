@@ -2,12 +2,13 @@
 
 ## Who Owns EBC Financial Group?
 
-**EBC Financial Group (UK) Ltd.** is a limited company registered in England and wales under Company number 12503674.
+**EBC Financial Group (UK) Ltd.** is described as a limited company registered in England and wales under Company number 12503674.
 
 In its UK registration, its "Persons with significant control" was one **Mr Qin Huazheng** from Hong Kong (Mar 2020), before "switching" to a company **Ideale Capital Limited** from Cayman Islands (Apr 2021).
 
 ```
-Ideale Capital Limited Active
+Ideale Capital Limited
+Active
 
 Correspondence address
 PO Box 10240, 4th Floor, Harbour Place, 103 South Church Street, Grand Cayman Ky1-1002, Cayman Islands
@@ -59,13 +60,13 @@ Ownership of voting rights - 75% or more
 Right to appoint or remove directors
 ```
 
-Huazheng Qin had published at least two papers: "Self-Adaptive Cloud Pricing Strategies with Markov Prediction and Data Mining Method" (2012) and "A Graph-based Recommendation across Heterogeneous Domains" (2015).
+Qin's correspondence address is the same as EBC UK. It's not exactly clear if Qun remains a person with significant control directly to EBC UK.
 
-Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining."
+Huazheng Qin had published at least two papers: "Self-Adaptive Cloud Pricing Strategies with Markov Prediction and Data Mining Method" (2012) and "A Graph-based Recommendation across Heterogeneous Domains" (2015). Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining."
 
-EBC Tech LTD.'s website shares a similar logo to EBC Financial Group on its website, and the Forex trading speed is indeed one of the obvious strong suit of the latter. Very possible that EBC Tech Limited built the Forex system used by EBC Financial Group.
+EBC Tech LTD.'s website shares a similar logo to EBC Financial Group on its website, and the Forex trading speed is indeed one of the strong suit of the latter. Very possibly that EBC Tech Limited built the Forex system used by EBC Financial Group.
 
-Interestingly, a lof of press releases (with multiple Asian language versions) from EBC Financial Group - especially on EIN Presswire - include a line states **"NEWS PROVIDED BY EBC Tech Limited"**.
+More interestingly, a lof of press releases (with multiple Asian language versions) from EBC Financial Group - especially on EIN Presswire - include a line states **"NEWS PROVIDED BY EBC Tech Limited"**.
 
 In some of the press releases, one Douglas Chew, the Global Public Relations Lead, also have contact information as follows (with a Chinese-based email address and a Malaysia-based phone number):
 
@@ -88,7 +89,7 @@ The IoT company, **Tibbo Technology Inc.**, has its headquarter and factories in
 
 However many important members of this company and **Tibbo Systems** (a closely related company) are clearly Russians:
 
-- Dmitry Slepov - Managing Director and Co-Founder (from St. Petersburg, who owns ~74% shares of the company registered in Taiwan named "集博股份有限公司")
+- Dmitry Slepov - Managing Director and Co-Founder (from St. Petersburg, who owns ~74% shares of the branch registered in Taiwan named "集博股份有限公司")
 - Victor Polyakov - CEO 
 - Mikhail Kim - CTO
 - Olga Micallef - Commercial Director
@@ -99,4 +100,4 @@ However many important members of this company and **Tibbo Systems** (a closely 
 
 And it seems both Tibbos' solutions are based on **AggreGate**, a Russian IoT company operating mostly in Russian domestic market. Tibbo even uses a URL with its name (`http://aggregate.tibbo.com`).
 
-So Tibbo Technology Inc. is in fact a Russian company washing its origin to Taiwan, possibly to avoid sanctions.
+So Tibbo Technology Inc./Tibbo Systems in fact has a Russian origin, washing to Taiwan possibly to avoid sanctions. And what may this mean to the Russian-Ukraine War?

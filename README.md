@@ -9,9 +9,9 @@
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 - [Resume](https://www.cake.me/krantas)
 - Portfolio:
-  - [Published titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) - translated, edited & authored
-  - [Writing works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) - documents, documentation & articles
-  - [Technical and marketing illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
+  - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) - translated, edited & authored
+  - [Writing Works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) - documents, documentation & articles
+  - [Technical and Marketing Illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
 
 ## Github Websites & Tools
 
@@ -23,5 +23,6 @@
 
 ## Links
 
-- [Github profile repo](https://github.com/alankrantas/alankrantas)
+- [Github Profile Repo](https://github.com/alankrantas/alankrantas)
+  - [Vintage Collection](https://github.com/alankrantas/alankrantas/blob/main/notes/vintage-collection.md)
 - [Gists](https://gist.github.com/alankrantas)

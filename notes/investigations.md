@@ -2,7 +2,7 @@
 
 ## Who Owns EBC Financial Group?
 
-**EBC Financial Group (UK) Ltd.** is described as a limited company registered in England and wales under Company number 12503674.
+**EBC Financial Group (UK) Ltd.** described itself as a limited company registered in England and Wales under company number 12503674.
 
 In its UK registration, its "Persons with significant control" was one **Mr Qin Huazheng** from Hong Kong (Mar 2020), before "switching" to a company **Ideale Capital Limited** from Cayman Islands (Apr 2021).
 
@@ -60,7 +60,7 @@ Ownership of voting rights - 75% or more
 Right to appoint or remove directors
 ```
 
-Qin's correspondence address is the same as EBC UK. It's not exactly clear if Qun remains a person with significant control directly to EBC UK.
+Qin's correspondence address is the same as EBC UK. It's not clear that if Qun remains a person with significant control directly over EBC UK.
 
 Huazheng Qin had published at least two papers: "Self-Adaptive Cloud Pricing Strategies with Markov Prediction and Data Mining Method" (2012) and "A Graph-based Recommendation across Heterogeneous Domains" (2015). Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining."
 
@@ -85,11 +85,11 @@ It seems to me that EBC Financial Group, despite washing its origin to UK, is un
 
 ## Who Owns Tibbo Technology Inc.?
 
-The IoT company, **Tibbo Technology Inc.**, has its headquarter and factories in New Taipei City, Taiwan.
+The IoT company, **Tibbo Technology Inc.**, has its headquarter in New Taipei City, Taiwan, and has factories in other locations in Taiwan as well.
 
-However many important members of this company and **Tibbo Systems** (a closely related company) are clearly Russians:
+However many important members of this company and **Tibbo Systems** (a closely related organization) are clearly Russians:
 
-- Dmitry Slepov - Managing Director and Co-Founder (from St. Petersburg, who owns ~74% shares of the branch registered in Taiwan named "集博股份有限公司")
+- Dmitry Slepov - Managing Director and Co-Founder (from St. Petersburg, who owns ~74% shares of the Taiwanese branch named "集博股份有限公司")
 - Victor Polyakov - CEO 
 - Mikhail Kim - CTO
 - Olga Micallef - Commercial Director
@@ -100,4 +100,4 @@ However many important members of this company and **Tibbo Systems** (a closely 
 
 And it seems both Tibbos' solutions are based on **AggreGate**, a Russian IoT company operating mostly in Russian domestic market. Tibbo even uses a URL with its name (`http://aggregate.tibbo.com`).
 
-So Tibbo Technology Inc./Tibbo Systems in fact has a Russian origin, washing to Taiwan possibly to avoid sanctions. And what may this mean to the Russian-Ukraine War?
+So Tibbo Technology Inc./Tibbo Systems in fact has a Russian origin, washing to Taiwan possibly to avoid sanctions, maybe especially in relation to the Russian-Ukraine War.

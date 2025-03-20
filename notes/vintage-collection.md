@@ -2,27 +2,23 @@
 
 ![nikon-em](https://github.com/alankrantas/alankrantas/blob/main/notes/img/nikon-em.jpg)
 
-**Bold** - ready for use. _Italic_ = not useable or not in active use for various reasons.
+- **Bold** - ready for use.
+- _Italic_ = not useable or not in active use for various reasons.
 
 ---
 
 ## Film Cameras
 
-AE = automatic exposure mode
+- AE = automatic exposure mode
+- SLR = single lens reflex
+- TLR = twin lens reflex
+- RF = rangefinder
+- VF = viewfinder
+- P&S = point & shoot
+- E = element(s), G = group(s)
+- eq. = (35mm focal length) equivalent
 
-SLR = single lens reflex
-
-TLR = twin lens reflex
-
-RF = rangefinder
-
-VF = viewfinder
-
-P&S = point & shoot
-
-E = element(s), G = group(s)
-
-eq. = (35mm focal length) equivalent
+> Selenium meter does not count as battery even if it's coupled. Batteries for date backs are not listed.
 
 | Name                                             | Type                      | Year | Serial/Manufactured Date | Lens/Serial or Mount                                                                              | Shutter                                 | AE       | Battery        | Note                                                         |
 | ------------------------------------------------ | ------------------------- | ---- | ------------------------ | ------------------------------------------------------------------------------------------------- | --------------------------------------- | -------- | -------------- | ------------------------------------------------------------ |
@@ -62,8 +58,6 @@ eq. = (35mm focal length) equivalent
 | _Polaroid SX-70 Model 2_                         | Instant camera            | 1974 | 0G520203007 (Jul 1975)   | 116mm f/8 (eq. 45mm; 4E)                                                                          | ~10-1/175                               | Program  | Film cartridge | Semi-broken                                                  |
 | _Polaroid P 600_                                 | Instant camera            | 2009 | JZHGTAJXVDJA             | 106mm f/14.6 (eq. 41mm; 1E)                                                                       | 1/4-1/200                               | Program  | Film cartridge | Late Polaroid Integral model; made in UK                     |
 
-> Selenium meter does not count as battery even if it's coupled. Batteries for date backs are not listed.
-
 ## Digital Cameras
 
 | Name                   | Type       | Year | Serial/Manufactured Date | Lens or Mount                                            | Shutter   | Megapixels/sensor | Battery | Note        |
@@ -74,9 +68,10 @@ eq. = (35mm focal length) equivalent
 
 ## Lenses
 
-IS = image stabilization
+- IS = image stabilization
+- STM = stepping motor
 
-STM = stepping motor
+> Series E lenses are all AI-S. Also, I use a Canon EF to EF-M adapter to use EF-S lenses.
 
 | Name                                                    | Mount      | Type                               | Year | Serial/Manufactured Date | Lens    | Note                                         |
 | ------------------------------------------------------- | ---------- | ---------------------------------- | ---- | ------------------------ | ------- | -------------------------------------------- |
@@ -99,8 +94,6 @@ STM = stepping motor
 | **Canon EF-S 18-55mm f/3.5-5.6 IS STM** (eq. 28-88mm)   | Canon EF-S | Auto-focusing zoom                 | 2013 | 386204070701             | 13E 11G | Macro 1:2.9                                  |
 | **Canon EF-S 55-250mm f/4-5.6 IS STM** (eq. 88-400mm)   | Canon EF-S | Auto-focusing zoom                 | 2013 | 4241113041               | 15E 12G |                                              |
 
-> Series E lenses are all AI-S. Also, I use a Canon EF to EF-M adapter to use EF-S lenses.
-
 ## Flash Units
 
 | Name                         | GN  | Type                                                                   | Serial/Manufactured Date | Battery | Note                                                         |
@@ -120,9 +113,8 @@ STM = stepping motor
 
 ## Vintage Watches
 
-> j = jewels
->
-> bph = beats per hour
+- j = jewels
+- bph = beats per hour
 
 | Name                           | Type                          | Year         | Serial             | Caliber/Module             | Bph or Battery | Note                                           |
 | ------------------------------ | ----------------------------- | ------------ | ------------------ | -------------------------- | -------------- | ---------------------------------------------- |

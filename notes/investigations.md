@@ -98,6 +98,6 @@ However many important members of this company and **Tibbo Systems** (a closely 
 - Oksana Shologon - HR
 - Sergey Likharev - Sales Director
 
-And it seems both Tibbos' solutions are based on **AggreGate**, a Russian IoT company operating mostly in Russian domestic market. Tibbo even uses a URL with its name (`http://aggregate.tibbo.com`).
+And it seems both Tibbos' solutions (using URLs like (`http://aggregate.tibbo.com`)) are based on **AggreGate**, a Russian IoT company seems operating primarily in Russian domestic market.
 
-So Tibbo Technology Inc./Tibbo Systems in fact has a Russian origin, washing to Taiwan possibly to avoid sanctions, maybe especially in relation to the Russian-Ukraine War.
+So Tibbo Technology Inc./Tibbo Systems in fact has a Russian origin, washing to Taiwan possibly to avoid sanctions, maybe especially in relation to the Russian-Ukraine War and US-China trade war.

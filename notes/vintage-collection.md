@@ -164,8 +164,10 @@
 ## User Manuals and Other Documents
 
 > Scanned from my actual copies. The Nikon EM, Nikon lenses and Sunpak flash manuals are all came with my dad's collection, bought in Hong Kong in 1980.
+>
+> Click **Download raw file** on top right to download each.
 
-| Name                                        | Type                    | Year  | Link (click **Download raw file** on top right )                                                                                           | Note                                            |
+| Name                                        | Type                    | Year  | Link                                                                                                                                       | Note                                            |
 | ------------------------------------------- | ----------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
 | Nikon EM Owner's Manual                     | Camera                  | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Owners%20Manual%201980.pdf)                       |                                                 |
 | Nikon EM Photo Guide                        | Camera                  | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Photo%20Guide%201980.pdf)                         |                                                 |

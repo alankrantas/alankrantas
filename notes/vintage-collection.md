@@ -147,7 +147,7 @@
 | _Nokia 3210_               | Mobile phone                                        | 2005        | 0525972             | BML-3                   | No battery or charger       |
 | **Panasonic SL-CT500**     | Portable CD/MP3 player                              | 2002        | FB3BAO3418          | AA x 2                  | Damaged battery compartment |
 | **Panasonic RF-522**       | Portable FM radio                                   | 1986?       | 5FAGA31461          | AA x 2                  |                             |
-| **Toshiba KT-V780**        | Portable stereo FM radio and cassette tape recorder | 1984?       |                     | AAA x 2                 |                             |
+| _Toshiba KT-V780_          | Portable stereo FM radio and cassette tape recorder | 1984?       |                     | AAA x 2                 | Only radio works            |
 | _Creative MuVo Micro N200_ | Protable USB MP3 player and FM radio                | 2004        | CLPF1212509014132K? | AAA                     | 512 MB storage; broken      |
 | _Sharp Viewcam VL-E30U_    | Protable Video8 tape recorder                       | 1994        | 30822760            | Sharp BT-77             | Broken charger              |
 

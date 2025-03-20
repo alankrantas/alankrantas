@@ -146,26 +146,26 @@ STM = stepping motor
 
 ## Phones, Players and Recorders
 
-| Name                       | Type                                   | Year        | Serial              | Battery                 | Note                        |
-| -------------------------- | -------------------------------------- | ----------- | ------------------- | ----------------------- | --------------------------- |
-| _Ericsson GF388_           | Mobile phone                           | 1995        | A51023PWMj          | Ericsson GF 388 battery | Broken                      |
-| _Motorola Bravo Angel_     | Pager                                  | Early 1990s | BECVVQ5F6P          | AAA                     | Broken                      |
-| _Motorola Timeport P7689_  | Mobile phone                           | 2001        | B69VBLD499          | BYD-V8088               | No battery or charger       |
-| _Nokia 3330_               | Mobile phone                           | 2002        | 0506208             | BLC-2                   | No battery or charger       |
-| _Nokia 3210_               | Mobile phone                           | 2005        | 0525972             | BML-3                   | No battery or charger       |
-| **Panasonic SL-CT500**     | Portable CD/MP3 player                 | 2002        | FB3BAO3418          | AA x 2                  | Damaged battery compartment |
-| **Panasonic RF-522**       | Portable FM radio                      | 1986?       | 5FAGA31461          | AA x 2                  |                             |
-| **Toshiba KT-V780**        | Portable cassette tape player/FM radio | Mid-1980s   |                     | AAA x 2                 |                             |
-| _Creative MuVo Micro N200_ | Protable MP3 player/FM radio           | 2004        | CLPF1212509014132K? | AAA                     | 512 MB storage; broken      |
-| _Sharp Viewcam VL-E30U_    | Protable Video8 tape recorder          | 1994        | 30822760            | Sharp BT-77             | Broken charger              |
+| Name                       | Type                                                | Year        | Serial              | Battery                 | Note                        |
+| -------------------------- | --------------------------------------------------- | ----------- | ------------------- | ----------------------- | --------------------------- |
+| _Ericsson GF388_           | Mobile phone                                        | 1995        | A51023PWMj          | Ericsson GF 388 battery | Broken                      |
+| _Motorola Bravo Angel_     | Pager                                               | Early 1990s | BECVVQ5F6P          | AAA                     | Broken                      |
+| _Motorola Timeport P7689_  | Mobile phone                                        | 2001        | B69VBLD499          | BYD-V8088               | No battery or charger       |
+| _Nokia 3330_               | Mobile phone                                        | 2002        | 0506208             | BLC-2                   | No battery or charger       |
+| _Nokia 3210_               | Mobile phone                                        | 2005        | 0525972             | BML-3                   | No battery or charger       |
+| **Panasonic SL-CT500**     | Portable CD/MP3 player                              | 2002        | FB3BAO3418          | AA x 2                  | Damaged battery compartment |
+| **Panasonic RF-522**       | Portable FM radio                                   | 1986?       | 5FAGA31461          | AA x 2                  |                             |
+| **Toshiba KT-V780**        | Portable stereo FM radio and cassette tape recorder | 1984?       |                     | AAA x 2                 |                             |
+| _Creative MuVo Micro N200_ | Protable USB MP3 player and FM radio                | 2004        | CLPF1212509014132K? | AAA                     | 512 MB storage; broken      |
+| _Sharp Viewcam VL-E30U_    | Protable Video8 tape recorder                       | 1994        | 30822760            | Sharp BT-77             | Broken charger              |
 
 ---
 
 ## Miscellaneous
 
-| Name                                                 | Type            | Year | Note    |
-| ---------------------------------------------------- | --------------- | ---- | ------- |
-| _Gigabyte GA-66032D Rev 1.3_ (NVIDIA RIVA TNT2 32MB) | 3D graphic card | 1999 | 125 MHz |
+| Name                                                          | Type            | Year | Note           |
+| ------------------------------------------------------------- | --------------- | ---- | -------------- |
+| _Gigabyte GA-66032D AGP Card Rev 1.3_ (NVIDIA RIVA TNT2 32MB) | 3D graphic card | 1999 | 125 MHz/250 nm |
 
 ---
 
@@ -175,15 +175,15 @@ STM = stepping motor
 >
 > Note: these PDF files can be too big to be reviewed on Github. Click **Download raw file** on the top right.
 
-| Name                                      | Year  | Link                                                                                                                                                | Note                                            |
-| ----------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| Nikon EM Owner's Guide                    | 1980  | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Owners%20Manual%201980.pdf)                       |                                                 |
-| Nikon EM Photo Guide                      | 1980  | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Photo%20Guide%201980.pdf)                         |                                                 |
-| Nikon AI Nikkor 50mm f/1.4 Manual         | 1980  | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20AI%20Nikkor%2050mm%20f1.4%20Manual%201980.pdf)         |                                                 |
-| Nikon Series E 35mm f/2.5 Manual          | 1979  | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%2035mm%20f2.5%20Manual%201979.pdf)          |                                                 |
-| Nikon Series E 100mm f/2.8 Manual         | 1979  | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%20100mm%20f2.8%20Manual%201979.pdf)         |                                                 |
-| Nikon Filters                             | 1980  | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Filters%201980.pdf)                                    |                                                 |
-| Nikon Worldwide Service Warranty          | 1980  | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Worldwide%20Service%20Warranty.pdf)                    | Includes warranty cards for EM and lenses above |
-| Sunpak Auto 25SR Thyristor Owner's Manual | 1979  | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Auto%2025SR%20Thyristor%20Owners%20Manual%201979.pdf) |                                                 |
-| Sunpak Warranty                           | ~1979 | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Warranty.pdf)                                         | For the Auto 25SR                               |
-| Toshiba KT-V780 Owner's Manual            | 1984? | [Download PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Toshiba%20KT-V780%20Owners%20Manual.pdf)                       |                                                 |
+| Name                                      | Type                    | Year  | Link                                                                                                                                       | Note                                            |
+| ----------------------------------------- | ----------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| Nikon EM Owner's Manual                   | Camera                  | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Owners%20Manual%201980.pdf)                       |                                                 |
+| Nikon EM Photo Guide                      | Camera                  | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Photo%20Guide%201980.pdf)                         |                                                 |
+| Nikon AI Nikkor 50mm f/1.4 Manual         | Lens                    | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20AI%20Nikkor%2050mm%20f1.4%20Manual%201980.pdf)         |                                                 |
+| Nikon Series E 35mm f/2.5 Manual          | Lens                    | 1979  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%2035mm%20f2.5%20Manual%201979.pdf)          |                                                 |
+| Nikon Series E 100mm f/2.8 Manual         | Lens                    | 1979  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%20100mm%20f2.8%20Manual%201979.pdf)         |                                                 |
+| Nikon Filters                             | Lens filters            | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Filters%201980.pdf)                                    |                                                 |
+| Nikon Worldwide Service Warranty          | Camera/lens warranty    | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Worldwide%20Service%20Warranty.pdf)                    | Includes warranty cards for EM and lenses above |
+| Sunpak Auto 25SR Thyristor Owner's Manual | Flash                   | 1979  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Auto%2025SR%20Thyristor%20Owners%20Manual%201979.pdf) |                                                 |
+| Sunpak Warranty                           | Flash warranty          | ~1979 | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Warranty.pdf)                                         | For the Auto 25SR                               |
+| Toshiba KT-V780 Owner's Manual            | Radio cassette recorder | 1984? | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Toshiba%20KT-V780%20Owners%20Manual.pdf)                       |                                                 |

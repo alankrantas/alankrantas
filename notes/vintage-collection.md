@@ -1,6 +1,6 @@
 # Vintage Collections
 
-![nikon-em](https://github.com/alankrantas/alankrantas/blob/main/notes/img/nikon-em.jpg)
+![nikon-em](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/img/nikon-em.jpg)
 
 - **Bold** - ready for use.
 - _Italic_ = not useable or not in active use for various reasons.
@@ -138,18 +138,18 @@
 
 ## Phones, Players and Recorders
 
-| Name                       | Type                                                | Year        | Serial              | Battery                 | Note                        |
-| -------------------------- | --------------------------------------------------- | ----------- | ------------------- | ----------------------- | --------------------------- |
-| _Ericsson GF388_           | Mobile phone                                        | 1995        | A51023PWMj          | Ericsson GF 388 battery | Broken                      |
-| _Motorola Bravo Angel_     | Pager                                               | Early 1990s | BECVVQ5F6P          | AAA                     | Broken                      |
-| _Motorola Timeport P7689_  | Mobile phone                                        | 2001        | B69VBLD499          | BYD-V8088               | No battery or charger       |
-| _Nokia 3330_               | Mobile phone                                        | 2002        | 0506208             | BLC-2                   | No battery or charger       |
-| _Nokia 3210_               | Mobile phone                                        | 2005        | 0525972             | BML-3                   | No battery or charger       |
-| **Panasonic SL-CT500**     | Portable CD/MP3 player                              | 2002        | FB3BAO3418          | AA x 2                  | Damaged battery compartment |
-| **Panasonic RF-522**       | Portable FM radio                                   | 1986?       | 5FAGA31461          | AA x 2                  |                             |
-| _Toshiba KT-V780_          | Portable stereo FM radio and cassette tape recorder | 1984?       |                     | AAA x 2                 | Only radio works            |
-| _Creative MuVo Micro N200_ | Protable USB MP3 player and FM radio                | 2004        | CLPF1212509014132K? | AAA                     | 512 MB storage; broken      |
-| _Sharp Viewcam VL-E30U_    | Protable Video8 tape recorder                       | 1994        | 30822760            | Sharp BT-77             | Broken charger              |
+| Name                       | Type                                                | Year     | Serial              | Battery                 | Note                        |
+| -------------------------- | --------------------------------------------------- | -------- | ------------------- | ----------------------- | --------------------------- |
+| _Ericsson GF388_           | Mobile phone                                        | 1995     | A51023PWMj          | Ericsson GF 388 battery | Broken                      |
+| _Motorola Bravo Angel_     | Pager                                               | 1994/95? | BECVVQ5F6P          | AAA                     | Broken                      |
+| _Motorola Timeport P7689_  | Mobile phone                                        | 2001     | B69VBLD499          | BYD-V8088               | No battery or charger       |
+| _Nokia 3330_               | Mobile phone                                        | 2002     | 0506208             | BLC-2                   | No battery or charger       |
+| _Nokia 3210_               | Mobile phone                                        | 2005     | 0525972             | BML-3                   | No battery or charger       |
+| **Panasonic SL-CT500**     | Portable CD/MP3 player                              | 2002     | FB3BAO3418          | AA x 2                  | Damaged battery compartment |
+| **Panasonic RF-522**       | Portable FM radio                                   | 1986?    | 5FAGA31461          | AA x 2                  |                             |
+| _Toshiba KT-V780_          | Portable stereo FM radio and cassette tape recorder | 1987     |                     | AAA x 2                 | Only radio works            |
+| _Creative MuVo Micro N200_ | Protable USB MP3 player and FM radio                | 2004     | CLPF1212509014132K? | AAA                     | 512 MB storage; broken      |
+| _Sharp Viewcam VL-E30U_    | Protable Video8 tape recorder                       | 1994     | 30822760            | Sharp BT-77             | Broken charger              |
 
 ---
 
@@ -163,22 +163,20 @@
 
 ## User Manuals and Other Documents
 
-> Scanned from my actual copies. The Nikon EM, Nikon lenses and Sunpak flash manuals are all came with my dad's collection, bought in Hong Kong in 1980.
->
-> Click **Download raw file** on top right to download each.
+> Scanned from my actual copies. The Nikon EM, 3 Nikon lenses and Sunpak flash manuals are all from my dad's original collection, bought in Hong Kong in 1980.
 
-| Name                                        | Type                    | Year  | Link                                                                                                                                       | Note                                            |
-| ------------------------------------------- | ----------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| Nikon EM Owner's Manual                     | Camera                  | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Owners%20Manual%201980.pdf)                       |                                                 |
-| Nikon EM Photo Guide                        | Camera                  | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20EM%20Photo%20Guide%201980.pdf)                         |                                                 |
-| Nikon AI Nikkor 50mm f/1.4 Manual           | Lens                    | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20AI%20Nikkor%2050mm%20f1.4%20Manual%201980.pdf)         |                                                 |
-| Nikon Series E 35mm f/2.5 Manual            | Lens                    | 1979  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%2035mm%20f2.5%20Manual%201979.pdf)          |                                                 |
-| Nikon Series E 100mm f/2.8 Manual           | Lens                    | 1979  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Series%20E%20100mm%20f2.8%20Manual%201979.pdf)         |                                                 |
-| Nikon Filters                               | Lens filters            | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Filters%201980.pdf)                                    |                                                 |
-| Nikon Worldwide Service Warranty            | Camera/lens warranty    | 1980  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Nikon%20Worldwide%20Service%20Warranty.pdf)                    | Includes warranty cards for EM and lenses above |
-| Sunpak Auto 25SR Thyristor Owner's Manual   | Flash                   | 1979  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Auto%2025SR%20Thyristor%20Owners%20Manual%201979.pdf) |                                                 |
-| Sunpak Warranty                             | Flash warranty          | ~1979 | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Sunpak%20Warranty.pdf)                                         | For the Auto 25SR                               |
-| Canon EOS 300 Rebel 2000 Accessories        | Camera accessories      | 1998  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Canon%20EOS%20300%20Rebel%202000%20Accessories%201998.pdf)     |                                                 |
-| Kodak Service Guide?                        | Service guide           | 1973? | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Kodak%20Service%20Guide%201973.pdf)                            | Comes with Kodak Hawkeye Instamatic II          |
-| Toshiba KT-V780 Owner's Manual              | Radio cassette recorder | 1984? | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/manual/Toshiba%20KT-V780%20Owners%20Manual.pdf)                       |                                                 |
-| Wang Laboratories Inc. Class B Common Stock | Stock                   | 1988  | [PDF](https://github.com/alankrantas/alankrantas/blob/main/notes/pdf/Wang%20Laboratories%20Inc.%20Class%20B%20Common%20Stock%201988.pdf)   | Dad's                                           |
+| Name                                        | Type                    | Year  | Link                                                                                                                                                 | Note                                            |
+| ------------------------------------------- | ----------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Nikon EM Owner's Manual                     | Camera                  | 1980  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Nikon%20EM%20Owners%20Manual%201980.pdf)                       |                                                 |
+| Nikon EM Photo Guide                        | Camera                  | 1980  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Nikon%20EM%20Photo%20Guide%201980.pdf)                         |                                                 |
+| Nikon AI Nikkor 50mm f/1.4 Manual           | Lens                    | 1980  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Nikon%20AI%20Nikkor%2050mm%20f1.4%20Manual%201980.pdf)         |                                                 |
+| Nikon Series E 35mm f/2.5 Manual            | Lens                    | 1979  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Nikon%20Series%20E%2035mm%20f2.5%20Manual%201979.pdf)          |                                                 |
+| Nikon Series E 100mm f/2.8 Manual           | Lens                    | 1979  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Nikon%20Series%20E%20100mm%20f2.8%20Manual%201979.pdf)         |                                                 |
+| Nikon Filters                               | Lens filters            | 1980  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Nikon%20Filters%201980.pdf)                                    |                                                 |
+| Nikon Worldwide Service Warranty            | Camera/lens warranty    | 1980  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Nikon%20Worldwide%20Service%20Warranty.pdf)                    | Includes warranty cards for EM and lenses above |
+| Sunpak Auto 25SR Thyristor Owner's Manual   | Flash                   | 1979  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Sunpak%20Auto%2025SR%20Thyristor%20Owners%20Manual%201979.pdf) |                                                 |
+| Sunpak Warranty                             | Flash warranty          | ~1979 | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Sunpak%20Warranty.pdf)                                         | For the Auto 25SR                               |
+| Canon EOS 300 Rebel 2000 Accessories        | Camera accessories      | 1998  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Canon%20EOS%20300%20Rebel%202000%20Accessories%201998.pdf)     |                                                 |
+| Kodak Service Guide?                        | Service guide           | 1970s | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Kodak%20Service%20Guide%201973.pdf)                            | Comes with Kodak Hawkeye Instamatic II          |
+| Toshiba KT-V780 Owner's Manual              | Radio cassette recorder | 1987  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/manual/Toshiba%20KT-V780%20Owners%20Manual.pdf)                       |                                                 |
+| Wang Laboratories Inc. Class B Common Stock | Stock                   | 1988  | [PDF](https://raw.githubusercontent.com/alankrantas/alankrantas/main/notes/pdf/Wang%20Laboratories%20Inc.%20Class%20B%20Common%20Stock%201988.pdf)   | Dad's                                           |

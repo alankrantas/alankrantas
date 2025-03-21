@@ -116,15 +116,15 @@
 - j = jewels
 - bph = beats per hour
 
-| Name                           | Type                          | Year        | Serial             | Case Diameter | Caliber/Module        | Bph or Battery | Note                                           |
-| ------------------------------ | ----------------------------- | ----------- | ------------------ | ------------- | --------------------- | -------------- | ---------------------------------------------- |
-| **Seiko Type 19**              | Mechanical pocket watch       | Late 1950s? | 89559781           | 19 ligne      | Moeris 19H copy (7 j) | 18,000         | Runs ~40 hours when fully winded               |
-| **Dolmy 1/5**                  | Mechanical stopwatch          | 1970s?      |                    | 45mm          | Dolmy BF410 (7 j)     | 18,000         | Retailed by Camerer Cuss; max time 30 mins     |
-| **Seiko Sportsmatic 5**        | Mechanical watch              | 1964        | 5102998 (Feb 1965) | 37mm          | Seiko 6619A (21 j)    | 18,000         | Day wheel not working; missing dial outer ring |
-| **Seiko 5**                    | Mechanical watch              |             | 276684 (Jul 1982)  | 37mm          | Seiko 7009A (17 j)    | 21,600         | Dress watch style; made by Daini Seikosha      |
-| **Casio A168WA-1Z**            | Digital quartz watch          | 1997        |                    | 36.3mm        | Casio 1572            | CR2016         | Dad's watch; beeper not working                |
-| _Orient GP_                    | Analog quartz watch (2 hands) | Late 1970s? | I530403-20         | 22mm          | Orient 53030 (5 j)    | SR726SW        | Mom's watch; broken                            |
-| _Wang Laboratories gift watch_ | Analog quartz watch (3 hands) | Late 1980s? |                    | ~32mm         | ETA 561.101? (1 j)    | SR721SW        | Dad's watch; broken                            |
+| Name                           | Type                          | Year        | Serial             | Case Diameter | Caliber/Module       | Bph or Battery | Note                                           |
+| ------------------------------ | ----------------------------- | ----------- | ------------------ | ------------- | -------------------- | -------------- | ---------------------------------------------- |
+| **Seiko Type 19**              | Mechanical pocket watch       | Late 1950s? | 89559781           | 19 ligne      | Moeris 19H copy (7j) | 18,000         | Runs ~40 hours when fully winded               |
+| **Dolmy 1/5**                  | Mechanical stopwatch          | 1970s?      |                    | 45mm          | Dolmy BF410 (7j)     | 18,000         | Retailed by Camerer Cuss; max time 30 mins     |
+| **Seiko Sportsmatic 5**        | Mechanical watch              | 1964        | 5102998 (Feb 1965) | 37mm          | Seiko 6619A (21j)    | 18,000         | Day wheel not working; missing dial outer ring |
+| **Seiko 5**                    | Mechanical watch              |             | 276684 (Jul 1982)  | 37mm          | Seiko 7009A (17j)    | 21,600         | Dress watch style; made by Daini Seikosha      |
+| **Casio A168WA-1Z**            | Digital quartz watch          | 1997        |                    | 36.3mm        | Casio 1572           | CR2016         | Dad's watch; beeper not working                |
+| _Orient GP_                    | Analog quartz watch (2 hands) | Late 1970s? | I530403-20         | 22mm          | Orient 53030 (5j)    | SR726SW        | Mom's watch; broken                            |
+| _Wang Laboratories gift watch_ | Analog quartz watch (3 hands) | Late 1980s? |                    | ~32mm         | ETA 561.101? (1j)    | SR721SW        | Dad's watch; broken                            |
 
 ---
 

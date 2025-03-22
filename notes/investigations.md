@@ -85,11 +85,12 @@ It seems to me that EBC Financial Group, despite washing its origin to UK, is un
 
 ## Who Owns Tibbo Technology Inc.?
 
-The IoT company, **Tibbo Technology Inc.**, has its headquarter in New Taipei City, Taiwan, and has factories in other locations in Taiwan as well.
+The IoT company, **Tibbo Technology Inc.**, has its headquarter in New Taipei City, Taiwan, and has factories in other locations in Taiwan.
 
-However many important members of this company and **Tibbo Systems** (a closely related organization) are clearly Russians:
+However, the company (registered as 集博股份有限公司 locally) is controlled by one Dmitry Slepov from St. Petersburg, Managing Director and Co-Founder, who owns ~74% shares of the company.
 
-- Dmitry Slepov - Managing Director and Co-Founder (from St. Petersburg, who owns ~74% shares of the Taiwanese branch named "集博股份有限公司")
+Tibbo Technology Inc. has a closely related sister company named **Tibbo Systems** ("two main members of the (Tibbo) group"), in which many high-level members are also Russians:
+
 - Victor Polyakov - CEO 
 - Mikhail Kim - CTO
 - Olga Micallef - Commercial Director
@@ -97,7 +98,8 @@ However many important members of this company and **Tibbo Systems** (a closely 
 - Natalia Lipovskaya - Marketing Director
 - Oksana Shologon - HR
 - Sergey Likharev - Sales Director
+- ...and others.
 
-And it seems both Tibbos' solutions (using URLs like (`http://aggregate.tibbo.com`)) are based on **AggreGate**, a Russian IoT company seems operating primarily in Russian domestic market.
+Tibbo System is based in Tver, Russia, and sells a IoT platform named AggreGate. Judging from their social media activities, they seems to be operating primary in Russian domestic market.
 
-So Tibbo Technology Inc./Tibbo Systems in fact has a Russian origin, washing to Taiwan possibly to avoid sanctions, maybe especially in relation to the Russian-Ukraine War and US-China trade war.
+So both Tibbo Technology and Tibbo Systems are in fact Russian companies, with Tibbo Technology washing its origin to Taiwan possibly to avoid sanctions in relation to the Russian-Ukraine War and/or US chip ban to China.

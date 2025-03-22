@@ -63,7 +63,7 @@
 | Name                   | Type       | Year | Serial/Manufactured Date | Lens or Mount                                            | Shutter   | Megapixels/sensor | Battery | Note        |
 | ---------------------- | ---------- | ---- | ------------------------ | -------------------------------------------------------- | --------- | ----------------- | ------- | ----------- |
 | _Fujifilm S304_ (3800) | P&S        | 2004 | 24L02713                 | Fujifilm Zoom Lens 6-36mm f/2.8 (eq. 38-228mm)           | 3-1/1500  | 3.2 (1/2.7" CCD)  | AA (x4) | Semi-broken |
-| _Kodak EasyShare C653_ | P&S        | 2005 | KCFGP71925063            | Kodak AF 3x Optical Aspheric Lens eq. 36-108mm f/2.7-4.6 | 4-1/1400  | 6.1 (1/2.5" CCD)  | A A(x2) |             |
+| _Kodak EasyShare C653_ | P&S        | 2005 | KCFGP71925063            | Kodak AF 3x Optical Aspheric Lens eq. 36-108mm f/2.7-4.6 | 4-1/1400  | 6.1 (1/2.5" CCD)  | AA (x2) |             |
 | **Canon EOS M50**      | Mirrorless | 2018 | 648142xxxxxx             | Canon EF-M                                               | 30-1/2000 | 24.1 (APS-C CMOS) | LP-E12  |             |
 
 ## Lenses

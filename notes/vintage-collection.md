@@ -75,26 +75,26 @@
 
 > Series E lenses are all AI-S. Also, I use a Canon EF to EF-M adapter to use EF-S lenses.
 
-| Name                                                    | Mount      | Type                  | Year | Serial/Manufactured Date | Lens    | Filter Size | Note                                         |
-| ------------------------------------------------------- | ---------- | --------------------- | ---- | ------------------------ | ------- | ----------- | -------------------------------------------- |
-| **Nikon AI Nikkor 28mm f/3.5S**                         | Nikon F    | MF prime (AIs)        | 1981 | 2120487                  | 6E 6G   | 52mm        |                                              |
-| **Nikon AI Nikkor 35mm f/2.8S**                         | Nikon F    | MF prime (AIs)        | 1981 | 569012                   | 7E 5G   | 52mm        |                                              |
-| **Nikon AI Nikkor 50mm f/1.4**                          | Nikon F    | MF prime              | 1977 | 4592379                  | 7E 6G   | 52mm        |                                              |
-| **Nikon Series E 50mm f/1.8**                           | Nikon F    | MF prime              | 1979 | 2702196                  | 6E 5G   | 52mm        | Closest focus 60 cm                          |
-| **Nikon AI Micro-Nikkor 55mm f/2.8S**                   | Nikon F    | MF prime, micro (AIs) | 1979 | 456606                   | 6E 5G   | 52mm        | Macro 1:2                                    |
-| **Nikon Series E 100mm f/2.8**                          | Nikon F    | MF prime              | 1979 | 1872950                  | 4E 4G   | 52mm        |                                              |
-| **Nikon AI Nikkor 135mm f/3.5S**                        | Nikon F    | MF prime (AIs)        | 1981 | 298008                   | 4E 4G   | 52mm        | With built-in lens hood                      |
-| **Nikon AI Zoom-Nikkor 35-105mm 1:3.5-4.5S**            | Nikon F    | MF zoom (AIs)         | 1983 | 2080625                  | 16E 12G | 52mm        | Macro 1:4 at 35mm                            |
-| **Nikon Series Zoom E 75-150mm f/3.5**                  | Nikon F    | MF zoom               | 1980 | 1830117                  | 12E 9G  | 52mm        |                                              |
-| **Soligor C/D 80-200mm f/4.5 Zoom + Macro "One Touch"** | Nikon F    | MF zoom               | 1980 | 382332350 (1982)         | 12E 9G  | 55mm        | Made by Sun Optical; macro 1:4 at 80mm       |
-| _SMC Pentax-M 50mm f/1.7_                               | Pentax K   | MF prime              | 1977 | 6178903                  | 6E 5G   | 49mm        | Heavily molded; for display on the Pentax MX |
-| **Canon EF 50mm f/1.8 II**                              | Canon EF   | AF prime              | 1990 | 41460342 (2008?)         | 6E 5G   | 52mm        |                                              |
-| **Canon EF 28-80mm f/3.5-5.6 II**                       | Canon EF   | AF zoom               | 1999 | 3727102                  | 10E 10G | 58mm        |                                              |
-| **Tamron AF 28-80mm f/3.5-5.6 Aspherical** (177D)       | Canon EF   | AF zoom               | 1998 | 248747                   | 7E 7G   | 58mm        | Closest focus 70 cm                          |
-| **Canon EF-S 24mm f/2.8 STM** (eq. 38mm)                | Canon EF-S | AF prime              | 2014 | 5301110188               | 6E 5G   | 52mm        | Macro 1:3.7                                  |
-| **Canon EF-S 10-18mm f/4.5-5.6 IS STM** (eq. 18-28mm)   | Canon EF-S | AF zoom               | 2014 | 6142007940               | 14E 11G | 67mm        |                                              |
-| **Canon EF-S 18-55mm f/3.5-5.6 IS STM** (eq. 28-88mm)   | Canon EF-S | AF zoom               | 2013 | 386204070701             | 13E 11G | 58mm        | Macro 1:2.9                                  |
-| **Canon EF-S 55-250mm f/4-5.6 IS STM** (eq. 88-400mm)   | Canon EF-S | AF zoom               | 2013 | 4241113041               | 15E 12G | 58mm        |                                              |
+| Name                                                  | Mount      | Type            | Year | Serial/Manufactured Date | Lens    | Filter Size | Note                                         |
+| ----------------------------------------------------- | ---------- | --------------- | ---- | ------------------------ | ------- | ----------- | -------------------------------------------- |
+| **Nikon AI Nikkor 28mm 1:3.5** (AIS)                  | Nikon F    | MF prime        | 1981 | 2120487                  | 6E/6G   | 52mm        |                                              |
+| **Nikon AI Nikkor 35mm 1:2.8** (AIS)                  | Nikon F    | MF prime        | 1981 | 569012                   | 7E/5G   | 52mm        |                                              |
+| **Nikon AI Nikkor 50mm 1:1.4**                        | Nikon F    | MF prime        | 1977 | 4592379                  | 7E/6G   | 52mm        |                                              |
+| **Nikon Series E 50mm 1:1.8**                         | Nikon F    | MF prime        | 1979 | 2702196                  | 6E/5G   | 52mm        | Closest focus 60 cm                          |
+| **Nikon AI Micro-Nikkor 55mm 1:2.8** (AIS)            | Nikon F    | MF prime, micro | 1979 | 456606                   | 6E/5G   | 52mm        | Macro 1:2                                    |
+| **Nikon Series E 100mm 1:2.8**                        | Nikon F    | MF prime        | 1979 | 1872950                  | 4E/4G   | 52mm        |                                              |
+| **Nikon AI Nikkor 135mm 1:3.5** (AIS)                 | Nikon F    | MF prime        | 1981 | 298008                   | 4E/4G   | 52mm        | With built-in lens hood                      |
+| **Nikon AI Zoom-Nikkor 35-105mm 1:3.5-4.5** (AIS)     | Nikon F    | MF zoom         | 1983 | 2080625                  | 16E/12G | 52mm        | Macro 1:4 at 35mm                            |
+| **Nikon Series Zoom E 75-150mm 1:3.5**                | Nikon F    | MF zoom         | 1980 | 1830117                  | 12E/9G  | 52mm        |                                              |
+| **Soligor C/D Zoom+Macro 80-200mm 1:4.5**             | Nikon F    | MF zoom         | 1980 | 382332350 (1982)         | 12E/9G  | 55mm        | Made by Sun Optical; macro 1:4 at 80mm       |
+| _SMC Pentax-M 50mm f/1.7_                             | Pentax K   | MF prime        | 1977 | 6178903                  | 6E/5G   | 49mm        | Heavily molded; for display on the Pentax MX |
+| **Canon EF 50mm f/1.8 II**                            | Canon EF   | AF prime        | 1990 | 41460342 (2008?)         | 6E/5G   | 52mm        |                                              |
+| **Canon EF 28-80mm f/3.5-5.6 II**                     | Canon EF   | AF zoom         | 1999 | 3727102 (2002?)          | 10E/10G | 58mm        |                                              |
+| **Tamron AF 28-80mm f/3.5-5.6 Aspherical** (177D)     | Canon EF   | AF zoom         | 1998 | 248747                   | 7E/7G   | 58mm        | Closest focus 70 cm                          |
+| **Canon EF-S 24mm f/2.8 STM** (eq. 38mm)              | Canon EF-S | AF prime        | 2014 | 5301110188 (2017)        | 6E/5G   | 52mm        | Macro 1:3.7                                  |
+| **Canon EF-S 10-18mm f/4.5-5.6 IS STM** (eq. 18-28mm) | Canon EF-S | AF zoom         | 2014 | 6142007940 (2018)        | 14E/11G | 67mm        |                                              |
+| **Canon EF-S 18-55mm f/3.5-5.6 IS STM** (eq. 28-88mm) | Canon EF-S | AF zoom         | 2013 | 386204070701 (2016)      | 13E/11G | 58mm        | Macro 1:2.9                                  |
+| **Canon EF-S 55-250mm f/4-5.6 IS STM** (eq. 88-400mm) | Canon EF-S | AF zoom         | 2013 | 4241113041 (2016)        | 15E/12G | 58mm        |                                              |
 
 ## Flash Units
 

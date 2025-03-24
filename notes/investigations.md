@@ -97,9 +97,9 @@ It seems to me that EBC Financial Group, despite washing its origin to UK, is un
 
 ## Who Owns Tibbo Technology Inc.?
 
-The IoT company, **Tibbo Technology Inc.**, has its headquarter in New Taipei City, Taiwan, and has factories in other locations in Taiwan.
+The IoT company, **Tibbo Technology Inc.**, has its headquarter in New Taipei City, Taiwan, and has factories in Taiwan as well, which "focuses on designing, manufacturing, and marketing programmable IoT modules, boards, and controllers for the Internet of Things (IoT)".
 
-However, the company (registered as 集博股份有限公司 locally) is controlled by one Dmitry Slepov from St. Petersburg, Managing Director and Co-Founder, who owns ~74% shares of the company.
+However, the company (registered as 集博股份有限公司 locally) is controlled by one **Dmitry Slepov** from St. Petersburg, Managing Director and Co-Founder, who owns ~74% shares of the company.
 
 Tibbo Technology Inc. has a closely related sister company named **Tibbo Systems** based in Tver, Russia (described as "two main members of the (Tibbo) group") that sells a IoT platform named AggreGate. Many high-level members of Tibbo Systems are Russians:
 
@@ -114,4 +114,4 @@ Tibbo Technology Inc. has a closely related sister company named **Tibbo Systems
 
 Judging from their social media activities - half of the posts were Russian - Tibbo Systems seems to be operating primary in Russian domestic market.
 
-So both Tibbo Technology and Tibbo Systems are Russian companies, with Tibbo Technology washing its origin to Taiwan possibly to avoid sanctions in relation to the Russian-Ukraine War and/or US chip ban to China.
+So both Tibbo Technology and Tibbo Systems are Russian companies, with Tibbo Technology washing its origin to Taiwan possibly to avoid sanctions in relation to the Russian-Ukraine War and/or US chip ban to China. It's unclear that does Tibbo Technology supply products to Tibbo Systems or Russian domestic market.

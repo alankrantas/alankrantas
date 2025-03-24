@@ -62,11 +62,13 @@ Right to appoint or remove directors
 
 Qin's correspondence address is the same as EBC UK. It's not clear that if Qun remains a person with significant control directly over EBC UK.
 
-Huazheng Qin had published at least two papers: "Self-Adaptive Cloud Pricing Strategies with Markov Prediction and Data Mining Method" (2012) and "A Graph-based Recommendation across Heterogeneous Domains" (2015).
+Huazheng Qin had published at least two papers:
+- "Self-Adaptive Cloud Pricing Strategies with Markov Prediction and Data Mining Method" (2012)
+- "A Graph-based Recommendation across Heterogeneous Domains" (2015)
 
-Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining." EBC Tech LTD.'s website shares a similar logo to EBC Financial Group on its website, and the Forex trading speed is indeed one of the strong suit of the latter. Very possibly that EBC Tech Limited built the Forex system used by EBC Financial Group.
+Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining". The website logo is the same style as EBC Financial Group.
 
-More interestingly, a lof of press releases (with multiple Asian language versions) from EBC Financial Group - especially on EIN Presswire - include a line states **"NEWS PROVIDED BY EBC Tech Limited"**:
+Interestingly, a lof of press releases from EBC Financial Group on EIN Presswire include a line states **"NEWS PROVIDED BY EBC Tech Limited"**, for example:
 
 ```
 EBC Financial Group Highlights the Transformative Role of AI in Global Trading and Thailand's Economic Landscape
@@ -76,9 +78,9 @@ EBC Tech Limited
 March 11, 2025, 08:26 GMT
 ```
 
-From Feb 2024 to the end of Mar 2025, there are 824 press releases provided by EBC Tech Limited on EIN Presswire, which was A LOT.
+From Feb 2024 to the end of Mar 2025, there were 824 press releases provided by EBC Tech Limited on EIN Presswire, including multiple language versions for the same content. 
 
-Also, in some of the press releases, one Douglas Chew, the Global Public Relations Lead, had contact information as follows (with a Chinese-based email address and a Malaysia-based phone number):
+In some of the press releases, one Douglas Chew, the Global Public Relations Lead, had contact information as follows, with a Chinese-based email address and a Malaysia-based phone number:
 
 ```
 Douglas Chew
@@ -99,7 +101,7 @@ The IoT company, **Tibbo Technology Inc.**, has its headquarter in New Taipei Ci
 
 However, the company (registered as 集博股份有限公司 locally) is controlled by one Dmitry Slepov from St. Petersburg, Managing Director and Co-Founder, who owns ~74% shares of the company.
 
-Tibbo Technology Inc. has a closely related sister company named **Tibbo Systems** ("two main members of the (Tibbo) group"), in which many high-level members are also Russians:
+Tibbo Technology Inc. has a closely related sister company named **Tibbo Systems** based in Tver, Russia (described as "two main members of the (Tibbo) group") that sells a IoT platform named AggreGate. Many high-level members of Tibbo Systems are Russians:
 
 - Victor Polyakov - CEO 
 - Mikhail Kim - CTO
@@ -110,6 +112,6 @@ Tibbo Technology Inc. has a closely related sister company named **Tibbo Systems
 - Sergey Likharev - Sales Director
 - ...and others.
 
-Tibbo System is based in Tver, Russia, and sells a IoT platform named AggreGate. Judging from their social media activities, they seems to be operating primary in Russian domestic market.
+Judging from their social media activities - half of the posts were Russian - Tibbo Systems seems to be operating primary in Russian domestic market.
 
-So both Tibbo Technology and Tibbo Systems are in fact Russian companies, with Tibbo Technology washing its origin to Taiwan possibly to avoid sanctions in relation to the Russian-Ukraine War and/or US chip ban to China.
+So both Tibbo Technology and Tibbo Systems are Russian companies, with Tibbo Technology washing its origin to Taiwan possibly to avoid sanctions in relation to the Russian-Ukraine War and/or US chip ban to China.

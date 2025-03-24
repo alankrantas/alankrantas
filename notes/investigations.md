@@ -62,13 +62,23 @@ Right to appoint or remove directors
 
 Qin's correspondence address is the same as EBC UK. It's not clear that if Qun remains a person with significant control directly over EBC UK.
 
-Huazheng Qin had published at least two papers: "Self-Adaptive Cloud Pricing Strategies with Markov Prediction and Data Mining Method" (2012) and "A Graph-based Recommendation across Heterogeneous Domains" (2015). Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining."
+Huazheng Qin had published at least two papers: "Self-Adaptive Cloud Pricing Strategies with Markov Prediction and Data Mining Method" (2012) and "A Graph-based Recommendation across Heterogeneous Domains" (2015).
 
-EBC Tech LTD.'s website shares a similar logo to EBC Financial Group on its website, and the Forex trading speed is indeed one of the strong suit of the latter. Very possibly that EBC Tech Limited built the Forex system used by EBC Financial Group.
+Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining." EBC Tech LTD.'s website shares a similar logo to EBC Financial Group on its website, and the Forex trading speed is indeed one of the strong suit of the latter. Very possibly that EBC Tech Limited built the Forex system used by EBC Financial Group.
 
-More interestingly, a lof of press releases (with multiple Asian language versions) from EBC Financial Group - especially on EIN Presswire - include a line states **"NEWS PROVIDED BY EBC Tech Limited"**.
+More interestingly, a lof of press releases (with multiple Asian language versions) from EBC Financial Group - especially on EIN Presswire - include a line states **"NEWS PROVIDED BY EBC Tech Limited"**:
 
-In some of the press releases, one Douglas Chew, the Global Public Relations Lead, also have contact information as follows (with a Chinese-based email address and a Malaysia-based phone number):
+```
+EBC Financial Group Highlights the Transformative Role of AI in Global Trading and Thailand's Economic Landscape
+
+News Provided By
+EBC Tech Limited
+March 11, 2025, 08:26 GMT
+```
+
+From Feb 2024 to the end of Mar 2025, there are 824 press releases provided by EBC Tech Limited on EIN Presswire, which was A LOT.
+
+Also, in some of the press releases, one Douglas Chew, the Global Public Relations Lead, had contact information as follows (with a Chinese-based email address and a Malaysia-based phone number):
 
 ```
 Douglas Chew
@@ -77,9 +87,9 @@ EBC Tech Limited
 mkt.cn@ebc.com
 ```
 
-From their marketing channels, the majority of EBC Financial Group's physical events were mostly held in Asia (China, Taiwan, Thailand, Malaysia, etc.), with the CEO David Barrett often fly to Asia to talk at events or to local press, but very little elsewhere.
+From their marketing channels, the majority of EBC Financial Group's physical events that had been videoed were mostly held in Asia (China, Taiwan, Thailand, Malaysia, etc.), with the CEO David Barrett often fly to Asia to talk at events or to local press, but very little elsewhere.
 
-It seems to me that EBC Financial Group, despite washing its origin to UK, is under a strong influence from EBC Tech LTD. and thus very possibly controlled by Chinese-based owners.
+It seems to me that EBC Financial Group, despite washing its origin to UK, is under strong influence from EBC Tech LTD. and thus very possibly controlled by Chinese-based owners.
 
 ---
 

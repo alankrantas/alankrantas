@@ -16,7 +16,7 @@
 ## Github Websites & Tools
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
-- [LOC Documentation](https://loc-documentation.vercel.app/) (archived site, Apr 2022 - Jul 2024)
+- [LOC Documentation](https://loc-documentation.vercel.app/) ([repo](https://github.com/alankrantas/loc-documentation)) (archived site, Apr 2022 - Jul 2024)
 - Live editors:
   - [TypeScript](https://alankrantas.github.io/monaco-ts-live-editor/)
   - [Python](https://alankrantas.github.io/monaco-python-live-editor/)

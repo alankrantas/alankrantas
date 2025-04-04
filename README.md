@@ -17,10 +17,9 @@
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 - [LOC Documentation](https://loc-documentation.vercel.app/) (archived site, Apr 2022 - Jul 2024)
-- Live editors:
-  - [TypeScript](https://alankrantas.github.io/monaco-ts-live-editor/)
-  - [Python](https://alankrantas.github.io/monaco-python-live-editor/)
-- [Just Another AI Assistant](https://alankrantas.github.io/just-another-ai-assistant-huggingface-transformers-js/)
+- [Live TypeScript Editor](https://alankrantas.github.io/monaco-ts-live-editor/):
+- [Live Python Editor](https://alankrantas.github.io/monaco-python-live-editor/)
+- [Just Another AI Assistant](https://alankrantas.github.io/just-another-ai-assistant-huggingface-transformers-js/) (web LLM chat)
 
 ## Links
 

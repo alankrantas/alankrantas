@@ -17,7 +17,7 @@
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 - [LOC Documentation](https://loc-documentation.vercel.app/) (archived documentation site, Apr 2022 - Jul 2024)
-- [Just Another AI Assistant](https://alankrantas.github.io/just-another-ai-assistant-huggingface-transformers-js/) (browser-based LLM service)
+- [Just Another AI Assistant](https://alankrantas.github.io/just-another-ai-assistant-huggingface-transformers-js/) (browser-based small language model hosting)
 - Live editors/runtime:
   - [TypeScript](https://alankrantas.github.io/monaco-ts-live-editor/):
   - [Python](https://alankrantas.github.io/monaco-python-live-editor/)

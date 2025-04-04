@@ -20,7 +20,7 @@
 - Live editors:
   - [TypeScript](https://alankrantas.github.io/monaco-ts-live-editor/)
   - [Python](https://alankrantas.github.io/monaco-python-live-editor/)
-- [Just Another AI Assistant](https://alankrantas.github.io/just-another-ai-assistant-huggingface-transformer/)
+- [Just Another AI Assistant](https://alankrantas.github.io/just-another-ai-assistant-huggingface-transformers-js/)
 
 ## Links
 

@@ -9,19 +9,18 @@
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 - [Resume](https://www.cake.me/krantas)
 - Portfolio:
-  - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md) - translated, edited & authored
-  - [Writing Works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md) - documents, documentation & articles
+  - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
+  - [Writing Works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)
   - [Technical and Marketing Illustrations](https://github.com/alankrantas/alankrantas/blob/main/works/illustration.md)
 
-## Github Websites & Tools
+## Project Websites & Tools
 
-- [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
-- [LOC Documentation](https://loc-documentation.vercel.app/) (archived documentation site, Apr 2022 - Jul 2024)
-- [Just Another AI Assistant](https://alankrantas.github.io/just-another-ai-assistant-huggingface-transformers-js/) (browser-based small language model hosting)
+- [Homepage](https://alankrantas.github.io/)
+- [LOC Documentation](https://loc-documentation.vercel.app/) (archived site, Apr 2022 - Jul 2024)
+- [Just Another AI Assistant](https://alankrantas.github.io/just-another-ai-assistant-huggingface-transformers-js/)
 - Live editors/runtime:
-  - [TypeScript](https://alankrantas.github.io/monaco-ts-live-editor/):
+  - [TypeScript](https://alankrantas.github.io/monaco-ts-live-editor/)
   - [Python](https://alankrantas.github.io/monaco-python-live-editor/)
-
 
 ## Links
 

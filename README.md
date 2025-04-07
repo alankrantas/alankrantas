@@ -2,12 +2,11 @@
 
 ![profile](profile.jpg)
 
-## Technical Writer & Translator
+## Technical Writer | Documentation | Software Engineering
 
 `Based in Taipei, Taiwan`
 
-- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
-- [Resume](https://www.cake.me/krantas)
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/) and [resume](https://www.cake.me/krantas)
 - Portfolio:
   - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
   - [Writing Works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)

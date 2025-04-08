@@ -5,7 +5,7 @@
 - **Bold** - ready for use.
 - _Italic_ = not useable or not in active use for various reasons.
 
-For vintage manuals and documents scanned from my own collection, see [here](https://github.com/alankrantas/alankrantas/blob/main/notes/vintage-manuals.md).
+For vintage manuals and documents scanned from my own copies, see [here](https://github.com/alankrantas/alankrantas/blob/main/notes/vintage-manuals.md).
 
 ---
 

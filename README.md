@@ -6,7 +6,7 @@
 
 `Based in Taipei, Taiwan`
 
-- [LinkedIn](https://www.linkedin.com/in/alankrantas/) and [resume](https://www.cake.me/krantas)
+- [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 - Portfolio:
   - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
   - [Writing Works](https://github.com/alankrantas/alankrantas/blob/main/works/projects.md)

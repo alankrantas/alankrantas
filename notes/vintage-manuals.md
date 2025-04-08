@@ -1,4 +1,4 @@
-# Vintage User Manuals and Other Documents (Scanned PDF)
+# Vintage User Manuals and Documents (Scanned PDF)
 
 Scanned from my own copies. The Nikon EM, 3 Nikon lenses and Sunpak flash manuals are all from my dad's original collection, bought in Hong Kong in 1980.
 

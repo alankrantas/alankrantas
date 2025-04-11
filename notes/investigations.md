@@ -60,13 +60,13 @@ Ownership of voting rights - 75% or more
 Right to appoint or remove directors
 ```
 
-Qin's correspondence address is the same as EBC UK. It's not clear that if Qun remains a person with significant control directly over EBC UK.
+Qin's correspondence address is the same as EBC UK. It's not clear that if Qun remains a person with significant control directly over EBC UK. Ideale Capital has registered a trademark for EBC Financial Group in Taiwan.
 
 Huazheng Qin had published at least two papers:
 - "Self-Adaptive Cloud Pricing Strategies with Markov Prediction and Data Mining Method" (2012)
 - "A Graph-based Recommendation across Heterogeneous Domains" (2015)
 
-Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining". The website logo is the same style as EBC Financial Group.
+Qin is also the director of **EBC Tech LTD.** or **EBC Tech Limited**. (May 2020, CR No. 2944304), located in Hong Kong, which describes itself as "a technology enterprise specializing in application software customization development and data mining". The website logo is the same style as EBC Financial Group. EBC Tech LTD also have sister companies in Malaysia (No. 1506164-H) and Singapore (202224840E).
 
 Interestingly, a lof of press releases from EBC Financial Group on EIN Presswire include a line states **"NEWS PROVIDED BY EBC Tech Limited"**, for example:
 
@@ -89,11 +89,19 @@ EBC Tech Limited
 mkt.cn@ebc.com
 ```
 
-From their marketing channels, the majority of EBC Financial Group's physical events that had been videoed were mostly held in Asia (China, Taiwan, Thailand, Malaysia, etc.), with the CEO David Barrett often fly to Asia to talk at events or to local press, but very little elsewhere.
+From their marketing channels, the majority of EBC Financial Group's physical events that had been videoed were mostly held in Asia (China, Taiwan, Thailand, Malaysia, etc.), with the CEO David Barrett often fly to Asia to talk at events or to local press, but very little elsewhere. Most of their YouTube videos are AI-voiced.
 
-Also: EBC Financial Group's job openings on [Workable](https://apply.workable.com/ebcfinancialgroup/) are all focused on Asia (Hong Kong, Japan, Singapore, Malaysia, etc.), and the company is named "EBC Tech Limited".
+Also, EBC Financial Group's job openings on several sites are heavily focused on Asia (Hong Kong, Japan, Singapore, Malaysia, etc.) and use the company name "EBC Tech Limited". Many of the jobs are not technical either.
 
-It seems to me that EBC Financial Group, despite washing its origin to UK, is under a strong influence from EBC Tech LTD. and thus controlled by Chinese-based owners.
+One of the job posting sites stated:
+
+```
+EBC Technology Limited is a newly established fin-tech provider. EBC Tech is a subsidiary of EBC Financial Group, which is a London-based financial group committed to offering a trustworthy online trading service to our diversified clients across the globe.
+```
+
+There are no information about what exactly are the other subsidiaries.
+
+It seems to me that EBC Financial Group, despite washing its origin to UK, is in fact controlled by EBC Tech LTD. and thus possibly controlled by Chinese-based owners.
 
 ---
 

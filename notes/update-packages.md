@@ -7,9 +7,7 @@
 ```bash
 sudo apt install python3 python3-pip python3-dev python3-venv python3-wheel python3-setuptools
 
-sudo pip3 install --upgrade numpy scipy matplotlib pandas seaborn scikit-learn opencv-python flaml flaml[automl] flask --break-system-packages
-
-sudo pip3 install --upgrade tensorflow autokeras transformers --break-system-packages
+sudo pip3 install --upgrade <package> --break-system-packages
 
 sudo pip3 cache purge
 ```
@@ -21,11 +19,16 @@ sudo pip3 cache purge
 ```bash
 python -m pip install --upgrade pip --user
 
-pip3 install --upgrade wheel setuptools numpy scipy matplotlib pandas seaborn scikit-learn flaml flaml[automl] opencv-python flask --user
-
-pip3 install --upgrade tensorflow tensorflow-cpu transformers --user
+pip3 install --upgrade <package> --user
 
 pip3 cache purge
+```
+
+#### Remove All Packages
+
+```bash
+pip3 freece > requirement.txt
+pip3 uninstall -r requirement.txt
 ```
 
 ## [Node.js](https://nodejs.org/zh-tw/download)

@@ -5,7 +5,7 @@
 #### Linux
 
 ```bash
-sudo apt install python3 python3-pip python3-dev python3-venv python3-wheel python3-setuptools
+sudo apt install --reinstall python3 python3-pip python3-dev python3-venv python3-wheel python3-setuptools
 
 sudo pip3 install --upgrade <package> --break-system-packages
 
@@ -27,7 +27,8 @@ pip3 cache purge
 #### Remove All Packages
 
 ```bash
-pip3 freece > requirement.txt
+pip3 freeze > requirement.txt
+
 pip3 uninstall -r requirement.txt
 ```
 

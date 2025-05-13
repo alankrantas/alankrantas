@@ -127,7 +127,7 @@
 | **Seiko Sportsmatic 5**        | Mechanical watch              | 1964        | 5102998 (Feb 1965) | 37mm          | Seiko 6619A (21j)     | 18,000         |                                            |
 | **Seiko 5**                    | Mechanical watch              |             | 5D0316 (Dec 1975)  | 39mm          | Seiko 6119C (21j)     | 21,600         | Dress watch style; made by Suwa Seikosha   |
 | **Seiko 5**                    | Mechanical watch              |             | 276684 (Jul 1982)  | 37mm          | Seiko 7009A (17j)     | 21,600         | Dress watch style; made by Daini Seikosha  |
-| **Seiko 5**                    | Mechanical watch              |             | 276684 (Dec 2003)  | 37mm          | Seiko 7S26B (21j)     | 21,600         | Dress watch style                          |
+| _Seiko 5_                      | Mechanical watch              |             | 3D8238 (Dec 2003)  | 37mm          | Seiko 7S26A (21j)     | 21,600         | For watch repair practice                  |
 | **Ricoh watch**                | Mechanical watch              |             | 611072 (~1970s)    | ~35mm         | Ricoh Cal.61 (21j)    | 18,000         |                                            |
 | **Casio A168WA-1Z**            | Digital quartz watch          | 1997        |                    | 36.3mm        | Casio 1572            | CR2016         | Dad's watch; beeper not working            |
 | _Orient GP_                    | Analog quartz watch (2 hands) | Late 1970s? | I530403-20         | 22mm          | Orient 53030 (5j)     | SR726SW        | Mom's watch; broken                        |

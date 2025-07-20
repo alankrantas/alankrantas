@@ -120,18 +120,18 @@
 - j = jewels
 - bph = beats per hour
 
-| Name                              | Type                             | Year        | Serial     | Case Diameter | Caliber/Module        | Bph or Battery | Note                                        |
-| --------------------------------- | -------------------------------- | ----------- | ---------- | ------------- | --------------------- | -------------- | ------------------------------------------- |
-| **Seiko Type 19**                 | Mechanical pocket watch (manual) | Late 1950s? | 89559781   | ~48mm         | Moeris 19H clone (7j) | 18,000         | Runs ~40 hours when fully winded            |
-| **Dolmy 1/5**                     | Mechanical stopwatch (manual)    | 1970s?      |            | ~51mm         | Dolmy BF410 (7j)      | 18,000         | Retailed by Camerer Cuss; max time 30 mins  |
-| **Seiko Sportsmatic** (6619-9990) | Mechanical watch (automatic)     | Feb 1965    | 5102998    | 37mm          | Seiko 6619A (21j)     | 18,000         | Quickset on date; with a Sportsmatic 5 dial |
-| **Seiko Sportsmatic** (7625-8041) | Mechanical watch (automatic)     | Jun 1966    | 6605290    | 37mm          | Seiko 7625D (17j)     | 18,000         | Date only, no quickset                      |
-| **Seiko 5** (6119-8630)           | Mechanical watch (automatic)     | Dec 1975    | 5D0316     | 39mm          | Seiko 6119C (21j)     | 21,600         | Quickset on day/date                        |
-| **Seiko 5** (7009-876A)           | Mechanical watch (automatic)     | Jul 1982    | 276684     | 37mm          | Seiko 7009A (17j)     | 21,600         | Quickset on day/date                        |
-| **Ricoh watch**                   | Mechanical watch (automatic)     | ~1970s      | 611072     | ~35mm         | Ricoh Cal.61 (21j)    | 18,000         |                                             |
-| **Casio A168WA-1Z**               | Digital quartz watch             | 1997        |            | 36.3mm        | Casio 1572            | CR2016         | Dad's watch; beeper not working             |
-| _Orient GP_                       | Analog quartz watch (2 hands)    | Late 1970s? | I530403-20 | 22mm          | Orient 53030 (5j)     | SR726SW        | Mom's watch; broken                         |
-| _Wang Laboratories gift watch_    | Analog quartz watch (3 hands)    | Late 1980s? |            | ~32mm         | ETA 561.101? (1j)     | SR721SW        | Dad's watch; broken                         |
+| Name                                | Type                             | Year        | Serial     | Case Diameter | Caliber/Module        | Bph or Battery | Note                             |
+| ----------------------------------- | -------------------------------- | ----------- | ---------- | ------------- | --------------------- | -------------- | -------------------------------- |
+| **Seiko Type 19**                   | Mechanical pocket watch (manual) | Late 1950s? | 89559781   | ~48mm         | Moeris 19H clone (7j) | 18,000         | Runs ~40 hours when fully winded |
+| **Dolmy 1/5**                       | Mechanical stopwatch (manual)    | 1970s?      |            | ~51mm         | Dolmy BF410 (7j)      | 18,000         | Retailed by Camerer Cuss         |
+| **Seiko Sportsmatic 5** (6619-9990) | Mechanical watch (automatic)     | Feb 1965    | 5102998    | 37mm          | Seiko 6619A (21j)     | 18,000         | Quickset on date                 |
+| **Seiko Sportsmatic** (7625-8041)   | Mechanical watch (automatic)     | Jun 1966    | 6605290    | 37mm          | Seiko 7625D (17j)     | 18,000         | Date only, no quickset           |
+| **Seiko 5** (6119-8630)             | Mechanical watch (automatic)     | Dec 1975    | 5D0316     | 39mm          | Seiko 6119C (21j)     | 21,600         | Quickset on day/date             |
+| **Seiko 5** (7009-876A)             | Mechanical watch (automatic)     | Jul 1982    | 276684     | 37mm          | Seiko 7009A (17j)     | 21,600         | Quickset on day/date             |
+| **Ricoh watch**                     | Mechanical watch (automatic)     | ~1970s      | 611072     | ~35mm         | Ricoh Cal.61 (21j)    | 18,000         |                                  |
+| **Casio A168WA-1Z**                 | Digital quartz watch             | 1997        |            | 36.3mm        | Casio 1572            | CR2016         | Dad's watch; beeper not working  |
+| _Orient GP_                         | Analog quartz watch (2 hands)    | Late 1970s? | I530403-20 | 22mm          | Orient 53030 (5j)     | SR726SW        | Mom's watch; broken              |
+| _Wang Laboratories gift watch_      | Analog quartz watch (3 hands)    | Late 1980s? |            | ~32mm         | ETA 561.101? (1j)     | SR721SW        | Dad's watch; broken              |
 
 ---
 

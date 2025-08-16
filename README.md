@@ -1,6 +1,6 @@
 # Alan Wang ✍️
 
-## Technical Writer | Documentation | Software Engineering
+## Editor | Ex-Technical Writer, Translator & Software Engineer
 
 `Based in Taipei, Taiwan`
 

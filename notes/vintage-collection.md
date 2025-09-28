@@ -91,6 +91,7 @@
 | **Soligor C/D Zoom+Macro 80-200mm 1:4.5**               | Nikon F    | MF zoom         | 1980 | 382332350 (1982)         | 12E/9G  | 55mm        | Made by Sun Optical; macro 1:4 at 80mm       |
 | _SMC Pentax-M 50mm f/1.7_                               | Pentax K   | MF prime        | 1977 | 6178903                  | 6E/5G   | 49mm        | Heavily molded; for display on the Pentax MX |
 | **Canon EF 50mm f/1.8 II**                              | Canon EF   | AF prime        | 1990 | 41460342 (2008?)         | 6E/5G   | 52mm        |                                              |
+| **Canon EF 50mm f/1.8 STM**                             | Canon EF   | AF prime        | 1990 | 5439111523 (2017)        | 6E/5G   | 52mm        |                                              |
 | **Canon EF 28-80mm f/3.5-5.6 II**                       | Canon EF   | AF zoom         | 1999 | 3727102 (2002?)          | 10E/10G | 58mm        |                                              |
 | **Tamron AF 28-80mm f/3.5-5.6 Aspherical** (177D)       | Canon EF   | AF zoom         | 1998 | 248747                   | 7E/7G   | 58mm        | Closest focus 70 cm                          |
 | **Canon EF-S 24mm f/2.8 STM** (eq. 38mm)                | Canon EF-S | AF prime        | 2014 | 5301110188 (2017)        | 6E/5G   | 52mm        | Macro 1:3.7                                  |

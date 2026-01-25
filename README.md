@@ -4,7 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 - Works:
   - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
-  - [LOC Documentation](https://loc-documentation.vercel.app/), the official user's guide and developer reference for FST Network's [https://www.fst.network/logic-operation-centre](https://www.fst.network/logic-operation-centre)
+  - [LOC Documentation](https://loc-documentation.vercel.app/), the user's guide for FST Network's data integration platform [Logic Operating Centre (LOC)](https://www.fst.network/logic-operation-centre)
 
 ---
 

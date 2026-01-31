@@ -2,8 +2,6 @@
 
 All works are either written in Traditional Chinese or translated from English.
 
-![published_works](https://github.com/alankrantas/alankrantas/blob/main/works/illustration/published_works.png)
-
 ---
 
 ## Translated Titles

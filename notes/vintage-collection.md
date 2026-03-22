@@ -133,7 +133,7 @@
 | **Citizen Blackie?** (61-0151)                 | Mechanical watch (automatic)     | Mar 1973?   | 30301715   | 41mm          | Citizen 6501 (21j)    | 21,600         | Quickset on date                        |
 | **Citizen Cosmostar** (64-9252)                | Mechanical watch (automatic)     | Feb 1976?   | 60200423   | 27mm          | Citizen 6601 (21j)    | 28,800         | Ladies watch; quickset on date (broken) |
 | **Citizen watch** (51-1757)                    | Mechanical watch (automatic)     | Apr 1978?   | 80400361   | 36.5mm        | Citizen 8200A (21j)   | 21,600         | Quickset on day/date                    |
-| **Ricoh watch**                                | Mechanical watch (automatic)     | ~1970s      | 611072     | ~35mm         | Ricoh Cal.61 (21j)    | 18,000         |                                         |
+| **Ricoh watch**                                | Mechanical watch (automatic)     | ~1970s      | 611072     | ~35mm         | Ricoh Cal.61 (21j)    | 18,000         | Quickset on date                        |
 | **Casio A168WA-1Z**                            | Digital quartz watch             | 1997        |            | 36.3mm        | Casio 1572            | CR2016         | Dad's watch; beeper not working         |
 | _Orient GP_                                    | Analog quartz watch (2 hands)    | Late 1970s? | I530403-20 | 22mm          | Orient 53030 (5j)     | SR726SW        | Mom's watch; broken                     |
 | _Wang Laboratories gift watch_                 | Analog quartz watch (3 hands)    | Late 1980s? |            | ~32mm         | ETA 561.101? (1j)     | SR721SW        | Dad's watch; broken                     |

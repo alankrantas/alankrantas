@@ -4,9 +4,25 @@ All works are either written in Traditional Chinese or translated from English.
 
 ---
 
-## Translated Titles
+## Selection of Articles and Written Work
+
+| Site/Organization    | Type                               | Title                                                                                                                                                                                                            |
+| -------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Affairs Managine | Literature                         | [淺談勒瑰恩的瀚星系列](https://www.theaffairs.com/%e6%b7%ba%e8%ab%87%e5%8b%92%e7%91%b0%e6%81%a9%e7%9a%84%e7%80%9a%e6%98%9f%e7%b3%bb%e5%88%97/)                                                                   |
+| The Affairs Managine | Literature                         | [尼爾‧蓋曼的黑色夢境王國](https://www.theaffairs.com/%e5%b0%bc%e7%88%be%e2%80%a7%e8%93%8b%e6%9b%bc%e7%9a%84%e9%bb%91%e8%89%b2%e5%a4%a2%e5%a2%83%e7%8e%8b%e5%9c%8b/)                                              |
+| The Affairs Managine | Literature                         | [那些年，你也許不知道的星戰黑歷史](https://www.theaffairs.com/%e9%82%a3%e4%ba%9b%e5%b9%b4%ef%bc%8c%e4%bd%a0%e4%b9%9f%e8%a8%b1%e4%b8%8d%e7%9f%a5%e9%81%93%e7%9a%84%e6%98%9f%e6%88%b0%e9%bb%91%e6%ad%b7%e5%8f%b2/) |
+| FST Network          | Technical marketing                | [Data Mesh: A Paradigm Shift to Make Your Data Great Again](https://www.fst.network/post/data-mesh)                                                                                                              |
+| FST Network (Medium) | Technical Marketing                | [A Brief History of Google’s Kubernetes and Why It’s Fantastic](https://medium.com/fstnetwork/a-brief-history-of-googles-kubernetes-and-why-it-s-fantastic-658ad4248e3)                                          |
+| FST Network          | User manual (backup archived site) | [LOC Documentation: the User Guide for FST Network's Logic Operating Centre](https://loc-documentation.vercel.app/)                                                                                              |
+| Time Square Magazine | Horology/Advertorial               | [GIRARD-PERREGAUX 芝柏｜桂冠三金橋陀飛輪腕錶 ── 橫跨兩大經典，再創結構美學極致](https://www.woodstone-online.com/2025/11/girard-perregaux-laureato-three-bridges-tourbillon-2025/)                               |
+| Time Square Magazine | Horology/Advertorial               | [鋒芒盡顯 優雅不羈｜從品牌理念到腕上星河 RICHARD MILLE 如何展現自信女性美學](https://www.woodstone-online.com/2026/02/82887ts238-sr-rm/)                                                                         |
+| Time Square Magazine | Horology                           | [簡談格拉蘇蒂原創（Glashütte Original）的「原創」起源 ── 從 DPUG、UROFA／UFAG 到 GUB](https://www.woodstone-online.com/2025/11/glashutte-original-origin-history/)                                               |
+| Time Square Magazine | Horology                           | [二十世紀超薄機芯之戰：FRÉDÉRIC PIGUET、積家與伯爵](https://www.woodstone-online.com/2026/01/ultra-thin-movements-20th-century/)                                                                                 |
+| Time Square Magazine | Horology                           | [【修錶實戰】拆解 CITIZEN 8200／MIYOTA 8205：行走半世紀的終極日系通用機芯](https://www.woodstone-online.com/2026/05/citizen-8200-miyota-8205-disassembly-and-service/)                                           |
 
 ---
+
+## Translated Titles
 
 ### Software & Information Technology
 

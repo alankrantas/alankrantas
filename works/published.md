@@ -2,6 +2,8 @@
 
 All works are either written in Traditional Chinese or translated from English.
 
+![translation-work](https://github.com/alankrantas/alankrantas/blob/main/works/alan-wang-translation-work.jpg)
+
 ---
 
 ## Selection of Articles

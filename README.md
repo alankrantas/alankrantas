@@ -1,9 +1,8 @@
 # Alan Wang ✍️
 
-- [Homepage](https://alankrantas.github.io/)
+- [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 - Works:
-  - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
   - [LOC Documentation](https://loc-documentation.vercel.app/), the user's guide for FST Network's data integration platform [Logic Operating Centre (LOC)](https://www.fst.network/logic-operation-centre)
 
 ---
@@ -13,6 +12,7 @@
 ---
 
 - Personal lists:
+  - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
   - [Vintage Collections](https://github.com/alankrantas/alankrantas/blob/main/notes/vintage-collection.md)
   - [Vintage User Manuals and Documents](https://github.com/alankrantas/alankrantas/blob/main/notes/vintage-manuals.md)
 

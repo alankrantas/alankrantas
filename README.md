@@ -1,10 +1,14 @@
-# Alan Wang ✍️
+# Hello! I'm Alan Wang ✍️
+
+Currently working for a local luxury wristwatch magazine as an editor and advertorial writer.
+
+I had diverse experiences primary in publishing, education and software/information technology, with ~60 published works (translated, edited and authored) as well as versatile skills including content writing, English-Chinese translating, technical writing, copywriting, software engineering, embedded system, machine learning/deep learning (AI), digital/film photography and video making/editing.
+
+I was also an amateur classical piano player, analog film photography hobbyist and STEM Maker enthusiast. I have self-taught basic mechanical watch movement servicing and already successfully repaired/serviced a few vintage watches.
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
-- Works:
-  - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
-  - [LOC Documentation](https://loc-documentation.vercel.app/), the user's guide for FST Network's data integration platform [Logic Operating Centre (LOC)](https://www.fst.network/logic-operation-centre)
+- [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
 ---
 

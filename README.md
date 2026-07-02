@@ -10,11 +10,7 @@ I was also an amateur classical piano player, analog film photography hobbyist a
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
 - [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
----
-
 ![profile](profile.jpg)
-
----
 
 - Personal lists:
   - [Vintage Collections](https://github.com/alankrantas/alankrantas/blob/main/notes/vintage-collection.md)

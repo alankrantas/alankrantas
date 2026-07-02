@@ -8,7 +8,7 @@ I was also an amateur classical piano player, analog film photography hobbyist a
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
-- [Published Titles](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
+- [Published titles and written works](https://github.com/alankrantas/alankrantas/blob/main/works/published.md)
 
 ![profile](profile.jpg)
 

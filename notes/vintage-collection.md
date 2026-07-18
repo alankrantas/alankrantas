@@ -130,7 +130,7 @@
 | **Seiko Sportsmatic Calendar 820** (7625-8041) | Mechanical watch (automatic)     | Jun 1966    | 6605290    | 37mm          | Seiko 7625D (17j)    | 18,000         | Date only; no quickset                            |
 | **Seiko 5** (6119-8630)                        | Mechanical watch (automatic)     | Dec 1975    | 5D0316     | 39mm          | Seiko 6119C (21j)    | 21,600         | Day/date; quickset on both                        |
 | **Seiko 5** (7009-876A)                        | Mechanical watch (automatic)     | Jul 1982    | 276684     | 37mm          | Seiko 7009A (17j)    | 21,600         | Day/date; quickset on both                        |
-| **Citizen Blackie?** (61-0151)                 | Mechanical watch (automatic)     | Mar 1973?   | 30301715   | 41mm          | Citizen 6501 (21j)   | 21,600         | Day/date; quickset on date                        |
+| **Citizen Custom V2 Blackie** (61-0151)        | Mechanical watch (automatic)     | Mar 1973?   | 30301715   | 41mm          | Citizen 6501 (21j)   | 21,600         | Day/date; quickset on date                        |
 | **Citizen Cosmostar** (64-9252)                | Mechanical watch (automatic)     | Feb 1976?   | 60200423   | 27mm          | Citizen 6601 (21j)   | 28,800         | Ladies watch; day/date; quickset on date (broken) |
 | **Citizen watch** (51-1757)                    | Mechanical watch (automatic)     | Apr 1978?   | 80400361   | 36.5mm        | Citizen 8200A (21j)  | 21,600         | Day/date; quickset on both                        |
 | **Ricoh watch**                                | Mechanical watch (automatic)     | ~1970s      | 611072     | ~35mm         | Ricoh Cal.61 (21j)   | 18,000         | Day/date; quickset on date                        |

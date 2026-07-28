@@ -1,40 +1,56 @@
-# Published Titles and Written Works of [Alan Wang](https://github.com/alankrantas)
-
-All works are either written in Traditional Chinese or translated from English.
+# Published Titles and Written Works of [Alan Wang](https://github.com/alankrantas) | Alan Wang 出版與寫作作品
 
 ![translation-work](https://github.com/alankrantas/alankrantas/blob/main/works/alan-wang-translation-work.jpg)
 
----
-
-## Selection of Articles
-
-| Site/Organization    | Type                 | Title                                                                                                                                                                                                            |
-| -------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The Affairs Managine | Literature           | [淺談勒瑰恩的瀚星系列](https://www.theaffairs.com/%e6%b7%ba%e8%ab%87%e5%8b%92%e7%91%b0%e6%81%a9%e7%9a%84%e7%80%9a%e6%98%9f%e7%b3%bb%e5%88%97/)                                                                   |
-| The Affairs Managine | Literature           | [尼爾‧蓋曼的黑色夢境王國](https://www.theaffairs.com/%e5%b0%bc%e7%88%be%e2%80%a7%e8%93%8b%e6%9b%bc%e7%9a%84%e9%bb%91%e8%89%b2%e5%a4%a2%e5%a2%83%e7%8e%8b%e5%9c%8b/)                                              |
-| The Affairs Managine | Literature           | [那些年，你也許不知道的星戰黑歷史](https://www.theaffairs.com/%e9%82%a3%e4%ba%9b%e5%b9%b4%ef%bc%8c%e4%bd%a0%e4%b9%9f%e8%a8%b1%e4%b8%8d%e7%9f%a5%e9%81%93%e7%9a%84%e6%98%9f%e6%88%b0%e9%bb%91%e6%ad%b7%e5%8f%b2/) |
-| Time Square Magazine | Horology/Advertorial | [GIRARD-PERREGAUX 芝柏｜桂冠三金橋陀飛輪腕錶 ── 橫跨兩大經典，再創結構美學極致](https://www.woodstone-online.com/2025/11/girard-perregaux-laureato-three-bridges-tourbillon-2025/)                               |
-| Time Square Magazine | Horology/Advertorial | [鋒芒盡顯 優雅不羈｜從品牌理念到腕上星河 RICHARD MILLE 如何展現自信女性美學](https://www.woodstone-online.com/2026/02/82887ts238-sr-rm/)                                                                         |
-| Time Square Magazine | Horology             | [簡談格拉蘇蒂原創（Glashütte Original）的「原創」起源 ── 從 DPUG、UROFA／UFAG 到 GUB](https://www.woodstone-online.com/2025/11/glashutte-original-origin-history/)                                               |
-| Time Square Magazine | Horology             | [二十世紀超薄機芯之戰：FRÉDÉRIC PIGUET、積家與伯爵](https://www.woodstone-online.com/2026/01/ultra-thin-movements-20th-century/)                                                                                 |
-| Time Square Magazine | Horology             | [【機芯拆解】CITIZEN 8200／MIYOTA 8205：行走半世紀的終極日系通用機芯](https://www.woodstone-online.com/2026/05/citizen-8200-miyota-8205-disassembly-and-service/)                                                |
-| Time Square Magazine | Horology             | [【機芯拆解】ETA 2842：SWATCH 九○年代的第一代平價自動機芯，經典傳奇 ETA 2824 的小老弟](https://www.woodstone-online.com/2026/06/swatch-automatic-eta-2842-service-1990s/)                                        |
+> All works listed below are either written in Traditional Chinese or translated from English.
 
 ---
 
-## Selection of Technical Writing
+## Selection of Articles | 文章精選
 
-| Site/Organization    | Type              | Title                                                                                                                                                                   |
-| -------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| FST Network          | Technical writing | [Data Mesh: A Paradigm Shift to Make Your Data Great Again](https://www.fst.network/post/data-mesh)                                                                     |
-| FST Network (Medium) | Technical writing | [A Brief History of Google’s Kubernetes and Why It’s Fantastic](https://medium.com/fstnetwork/a-brief-history-of-googles-kubernetes-and-why-it-s-fantastic-658ad4248e3) |
-| FST Network          | Technical writing | [LOC Documentation: the User Guide for FST Network's Logic Operating Centre](https://loc-documentation.vercel.app/)                                                     |
+### Literature | 文學
+
+| Site/Organization    | Type   | Title                                                                                                                                                                                                            |
+| -------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 編集者 (The Affairs) | Column | [淺談勒瑰恩的瀚星系列](https://www.theaffairs.com/%e6%b7%ba%e8%ab%87%e5%8b%92%e7%91%b0%e6%81%a9%e7%9a%84%e7%80%9a%e6%98%9f%e7%b3%bb%e5%88%97/)                                                                   |
+| 編集者 (The Affairs) | Column | [尼爾‧蓋曼的黑色夢境王國](https://www.theaffairs.com/%e5%b0%bc%e7%88%be%e2%80%a7%e8%93%8b%e6%9b%bc%e7%9a%84%e9%bb%91%e8%89%b2%e5%a4%a2%e5%a2%83%e7%8e%8b%e5%9c%8b/)                                              |
+| 編集者 (The Affairs) | Column | [那些年，你也許不知道的星戰黑歷史](https://www.theaffairs.com/%e9%82%a3%e4%ba%9b%e5%b9%b4%ef%bc%8c%e4%bd%a0%e4%b9%9f%e8%a8%b1%e4%b8%8d%e7%9f%a5%e9%81%93%e7%9a%84%e6%98%9f%e6%88%b0%e9%bb%91%e6%ad%b7%e5%8f%b2/) |
+
+### Horology | 鐘錶
+
+| Site/Organization                | Type        | Title                                                                                                                                                                              |
+| -------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 時間觀念 (Time Square Magazine)  | Advertorial | [GIRARD-PERREGAUX 芝柏｜桂冠三金橋陀飛輪腕錶 ── 橫跨兩大經典，再創結構美學極致](https://www.woodstone-online.com/2025/11/girard-perregaux-laureato-three-bridges-tourbillon-2025/) |
+| 時間觀念 (Time Square Magazine)e | Advertorial | [鋒芒盡顯 優雅不羈｜從品牌理念到腕上星河 RICHARD MILLE 如何展現自信女性美學](https://www.woodstone-online.com/2026/02/82887ts238-sr-rm/)                                           |
+| 時間觀念 (Time Square Magazine)e |             | [簡談格拉蘇蒂原創（Glashütte Original）的「原創」起源 ── 從 DPUG、UROFA／UFAG 到 GUB](https://www.woodstone-online.com/2025/11/glashutte-original-origin-history/)                 |
+| 時間觀念 (Time Square Magazine)  |             | [二十世紀超薄機芯之戰：FRÉDÉRIC PIGUET、積家與伯爵](https://www.woodstone-online.com/2026/01/ultra-thin-movements-20th-century/)                                                   |
+| 時間觀念 (Time Square Magazine)  |             | [【機芯拆解】CITIZEN 8200／MIYOTA 8205：行走半世紀的終極日系通用機芯](https://www.woodstone-online.com/2026/05/citizen-8200-miyota-8205-disassembly-and-service/)                  |
+| 時間觀念 (Time Square Magazine)  |             | [【機芯拆解】ETA 2842：SWATCH 九 ○ 年代的第一代平價自動機芯，經典傳奇 ETA 2824 的小老弟](https://www.woodstone-online.com/2026/06/swatch-automatic-eta-2842-service-1990s/)        |
 
 ---
 
-## Translated Titles
+## Selection of Technical Writing | 技術寫作精選
 
-### Software & Information Technology
+### Blog Articles | 部落格文章
+
+| Site/Organization    | Type | Title                                                                                                                                                                   |
+| -------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FST Network          | Blog | [Data Mesh: A Paradigm Shift to Make Your Data Great Again](https://www.fst.network/post/data-mesh)                                                                     |
+| FST Network          | Blog | [Data as a Product: Make It Real with Event-Driven, Serverless Data Pipelines](https://www.fst.network/post/data-product)                                               |
+| FST Network          | Blog | [Active Metadata: Tracking the Life Cycle and Data Trails of Data Products with Data Lineage](https://www.fst.network/post/active-metadata)                             |
+| FST Network (Medium) | Blog | [A Brief History of Google’s Kubernetes and Why It’s Fantastic](https://medium.com/fstnetwork/a-brief-history-of-googles-kubernetes-and-why-it-s-fantastic-658ad4248e3) |
+
+### Documentation | 文件
+
+| Site/Organization | Type                | Title                                                                                                                               |
+| ----------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| FST Network       | User product manual | [LOC Documentation: the User Guide for FST Network's Logic Operating Centre](https://loc-documentation.vercel.app/) (archived site) |
+
+---
+
+## Translated Titles | 翻譯作品
+
+### Software & Information Technology | 軟體與資訊科技
 
 | Original Title                                                                                                     | Translated Title                                                                                                                         | Author                                    | Publisher                   | Published Year | Genre                                    | Note                                       |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------- | -------------- | ---------------------------------------- | ------------------------------------------ |
@@ -45,14 +61,14 @@ All works are either written in Traditional Chinese or translated from English.
 | _**Tales From the Great Disruption**: Insights and Lessons From Journalism's Technological Transformation_         | [_關鍵轉折_](https://www.eslite.com/product/1001296512562222?srsltid=AfmBOop2spfEiS_DK-znQFmnVvakTKiuIZUgDfPgKtbjxCQKCYgwX_2F)           | Michael Shapiro, Anna Hiatt and Mike Hoyt | 新樂園 (Nutopia Publishing) | 2017           | Non-fiction, technology, web, journalism |                                            |
 | _**Splinternet**: How Geopolitics and Commerce Are Fragmenting the World Wide Web_                                 | [_分裂的網路_](https://www.eslite.com/product/1001296512543627?srsltid=AfmBOooGHyzG_r_mdg90j6fd9nkxGqyH4cOzQxItzumu9va7EsyfLvko)         | Scott Malcomson                           | 新樂園 (Nutopia Publishing) | 2016           | Non-fiction, technology, software, web   |                                            |
 
-### Non-Fiction
+### Non-Fiction | 非文學
 
 | Original Title                                                 | Translated Title                                                                         | Author            | Publisher                      | Published Year | Genre   | Note                |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------- | ------------------------------ | -------------- | ------- | ------------------- |
 | _**The Free State of Jones**: Mississippi's Longest Civil War_ | [_瓊斯自由邦_](https://www.books.com.tw/products/0010737316?sloc=main)                   | Victoria E. Bynum | 水靈文創 (Shuiling Publishing) | 2016           | History |                     |
 | _**How Star Wars Conquered the Universe**_                     | [_星際大戰如何以原力征服全世界_](https://www.books.com.tw/products/0010694382?sloc=main) | Chris Taylor      | 高寶書版 (Global Publishing)   | 2015           | Cinema  | Co-translated (60%) |
 
-### Fiction
+### Fiction | 文學
 
 | Original Title                                                       | Translated Title                                                                                                                             | Author                                                                                                                      | Publisher                             | Published Year | Genre                              | Note                                                                    |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------------- | ---------------------------------- | ----------------------------------------------------------------------- |
@@ -92,9 +108,9 @@ All works are either written in Traditional Chinese or translated from English.
 
 ---
 
-## Edited Titles
+## Edited Titles | 編輯作品
 
-### Software & Information Technology
+### Software & Information Technology | 軟體與資訊科技
 
 | English Title                                                                                                                                                            | Local Title                                                                                  | Author                                                                                     | Publisher                  | Published Year | Genre                                 | Note            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------- | -------------- | ------------------------------------- | --------------- |
@@ -107,7 +123,7 @@ All works are either written in Traditional Chinese or translated from English.
 | _**Python Workout**: 50 Essential Exercises_                                                                                                                             | [_Python 刷題鍛鍊班_](https://www.flag.com.tw/books/product/F1750)                           | Reuven M. Lerner                                                                           | 旗標科技 (Flag Publishing) | 2021           | Programming                           |                 |
 | _**Python Tricks**: A Buffet of Awesome Python Features_                                                                                                                 | [_Python 神乎其技 全新超譯版_](https://www.flag.com.tw/activity/FT746A/)                     | Dan Bader                                                                                  | 旗標科技 (Flag Publishing) | 2020           | Programming                           |                 |
 
-### Fiction
+### Fiction | 文學
 
 | English Title                           | Local Title                                                                         | Author        | Publisher                  | Published Year | Genre        | Note                |
 | --------------------------------------- | ----------------------------------------------------------------------------------- | ------------- | -------------------------- | -------------- | ------------ | ------------------- |
@@ -115,16 +131,16 @@ All works are either written in Traditional Chinese or translated from English.
 
 ---
 
-## Authored Titles
+## Authored Titles | 著作作品
 
-### Software & Technology
+### Software & Information Technology | 軟體與資訊科技
 
 | Translated Title                                                  | Local Title                                                                            | Publisher                  | Published Year | Genre                         | Note                               |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------- | -------------- | ----------------------------- | ---------------------------------- |
 | _The Python and Data Science Book for Interdisciplinary Learning_ | [_跨領域學 Python：資料科學基礎養成_](https://www.flag.com.tw/books/product/F0753)     | 旗標科技 (Flag Publishing) | 2020           | Programming, AI, data science | Also the editor                    |
 | _Flag's Maker Workshop: Smart Cloud Sensors with Python_          | [_Flag's 創客‧自造者工作坊 Python 感測器大應用_](https://www.flag.com.tw/maker/FM622A) | 旗標科技 (Flag Publishing) | 2020           | Embedded programming, IoT     | Also the illustration photographer |
 
-### STEM Education
+### STEM Education | STEM 教育
 
 | Translated Title                                  | Local Title                                                                                                                            | Publisher                                                | Published Year | Genre                      | Note                                               |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------------- | -------------------------- | -------------------------------------------------- |

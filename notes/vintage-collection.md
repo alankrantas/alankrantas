@@ -120,24 +120,26 @@
 - j = jewels
 - bph = beats per hour
 
-| Name                                           | Type                             | Year        | Serial     | Case Diameter | Caliber/Module       | Bph or Battery | Note                                              |
-| ---------------------------------------------- | -------------------------------- | ----------- | ---------- | ------------- | -------------------- | -------------- | ------------------------------------------------- |
-| **Seiko Type 19**                              | Mechanical pocket watch (manual) | Late 1950s? | 89559781   | ~48mm         | Moeris 19 clone (7j) | 18,000         | Runs ~40 hours when fully winded                  |
-| **Dolmy 1/5**                                  | Mechanical stopwatch (manual)    | 1970s?      |            | ~51mm         | Dolmy BF410 (7j)     | 18,000         | Retailed by Camerer Cuss                          |
-| **Seiko Sportsmatic 5** (6619-9990)            | Mechanical watch (automatic)     | Feb 1965    | 5102998    | 37mm          | Seiko 6619A (21j)    | 18,000         | Day/date; quickset on date; self-serviced         |
-| **Seiko Sportsmatic Calendar 820** (7625-8041) | Mechanical watch (automatic)     | Jun 1966    | 6605290    | 37mm          | Seiko 7625D (17j)    | 18,000         | Date only; no quickset; self-serviced             |
-| **Seiko 5** (6119-8630)                        | Mechanical watch (automatic)     | Dec 1975    | 5D0316     | 39mm          | Seiko 6119C (21j)    | 21,600         | Day/date; quickset on both; self-serviced         |
-| **Seiko 5** (7009-876A)                        | Mechanical watch (automatic)     | Jul 1982    | 276684     | 37mm          | Seiko 7009A (17j)    | 21,600         | Day/date; quickset on both                        |
-| **Citizen Custom V2 Blackie** (61-0151)        | Mechanical watch (automatic)     | Mar 1973?   | 30301715   | 41mm          | Citizen 6501 (21j)   | 21,600         | Day/date; quickset on date; self-serviced         |
-| **Citizen Cosmostar** (64-9252)                | Mechanical watch (automatic)     | Feb 1976?   | 60200423   | 27mm          | Citizen 6601 (21j)   | 28,800         | Ladies watch; day/date; quickset on date (broken) |
-| **Citizen watch** (51-1757)                    | Mechanical watch (automatic)     | Apr 1978?   | 80400361   | 36.5mm        | Citizen 8200A (21j)  | 21,600         | Day/date; quickset on both; self-serviced         |
-| **Ricoh watch**                                | Mechanical watch (automatic)     | ~1970s      | 611072     | ~35mm         | Ricoh Cal.61 (21j)   | 18,000         | Day/date; quickset on date                        |
-| **Swatch Automatic**                           | Mechanical watch (automatic)     | 1994        |            | 36.5mm        | ETA 2842 (23j)       | 21,600         | Plastic case; no date/hacking; self-serviced      |
-| **Genbux watch**                               | Mechanical watch (automatic)     | 1976-1980   | 6621       | 35mm          | ETA 2789-1 (25j)     | 21,600         | Day/date; quickset on both                        |
-| **Citesu watch**                               | Mechanical watch (manual)        | 1970s?      | 80400361   | 37mm          | FHF 96-4 (ST) (17j)  | 18,000         | Date only; no quickset                            |
-| **Casio A168WA-1Z**                            | Digital quartz watch             | 1997        |            | 36.3mm        | Casio 1572           | CR2016         | Dad's watch; beeper broken                        |
-| _Orient GP_                                    | Analog quartz watch (2 hands)    | Late 1970s? | I530403-20 | 22mm          | Orient 53030 (5j)    | SR726SW        | Mom's ladies watch; broken                        |
-| _Wang Laboratories gift watch_                 | Analog quartz watch (3 hands)    | Late 1980s? |            | ~32mm         | ETA 561.101? (1j)    | SR721SW        | Dad's watch; broken                               |
+| Name                                           | Type                             | Year        | Serial     | Case Diameter | Caliber/Module       | Bph or Battery | Note                                                  |
+| ---------------------------------------------- | -------------------------------- | ----------- | ---------- | ------------- | -------------------- | -------------- | ----------------------------------------------------- |
+| **Seiko Type 19**                              | Mechanical pocket watch (manual) | Late 1950s? | 89559781   | ~48mm         | Moeris 19 clone (7j) | 18,000         | Runs ~40 hours when fully winded                      |
+| **Dolmy 1/5**                                  | Mechanical stopwatch (manual)    | 1970s?      |            | ~51mm         | Dolmy BF410 (7j)     | 18,000         | Retailed by Camerer Cuss                              |
+| **Seiko Sportsmatic 5** (6619-9990)            | Mechanical watch (automatic)     | Feb 1965    | 5102998    | 37mm          | Seiko 6619A (21j)    | 18,000         | Day/date; quickset on date; self-serviced             |
+| **Seiko Sportsmatic Calendar 820** (7625-8041) | Mechanical watch (automatic)     | Jun 1966    | 6605290    | 37mm          | Seiko 7625D (17j)    | 18,000         | Date only; no quickset; self-serviced                 |
+| **Seiko 5** (6119-8630)                        | Mechanical watch (automatic)     | Dec 1975    | 5D0316     | 39mm          | Seiko 6119C (21j)    | 21,600         | Day/date; quickset on both; self-serviced             |
+| **Seiko 5** (7009-876A)                        | Mechanical watch (automatic)     | Jul 1982    | 276684     | 37mm          | Seiko 7009A (17j)    | 21,600         | Day/date; quickset on both                            |
+| **Citizen Custom V2 Blackie** (61-0151)        | Mechanical watch (automatic)     | Mar 1973?   | 30301715   | 41mm          | Citizen 6501 (21j)   | 21,600         | Day/date; quickset on date; self-serviced             |
+| **Citizen Cosmostar** (64-9252)                | Mechanical watch (automatic)     | Feb 1976?   | 60200423   | 27mm          | Citizen 6601 (21j)   | 28,800         | Ladies watch; day/date; quickset on date (broken)     |
+| **Citizen watch** (51-1757)                    | Mechanical watch (automatic)     | Apr 1978?   | 80400361   | 36.5mm        | Citizen 8200A (21j)  | 21,600         | Day/date; quickset on both; self-serviced             |
+| **Ricoh watch**                                | Mechanical watch (automatic)     | ~1970s      | 611072     | ~35mm         | Ricoh Cal.61 (21j)   | 18,000         | Day/date; quickset on date                            |
+| **Swatch Automatic**                           | Mechanical watch (automatic)     | 1994        |            | 36.5mm        | ETA 2842 (23j)       | 21,600         | Plastic case; no date/hacking; self-serviced          |
+| **Tissot Seastar T12**                         | Mechanical watch (automatic)     | 1960s?      |            | 35mm          | Tissot 781? (17j)    | 18,000         | No date                                               |
+| **Genbux watch**                               | Mechanical watch (automatic)     | 1976-1980   | 6621       | 35mm          | ETA 2789-1 (25j)     | 21,600         | Day/date; quickset on both                            |
+| **Milus watch**                                | Mechanical watch (automatic)     | 1969-1978   | 30232      | 65mm          | A. Schild 2066 (25j) | 21,600         | Day/date; quickset on both; date quickset not working |
+| **Citesu watch**                               | Mechanical watch (manual)        | 1970s?      | 80400361   | 37mm          | FHF 96-4 (ST) (17j)  | 18,000         | Date only; no quickset                                |
+| **Casio A168WA-1Z**                            | Digital quartz watch             | 1997        |            | 36.3mm        | Casio 1572           | CR2016         | Dad's watch; beeper broken                            |
+| _Orient GP_                                    | Analog quartz watch (2 hands)    | Late 1970s? | I530403-20 | 22mm          | Orient 53030 (5j)    | SR726SW        | Mom's ladies watch; broken                            |
+| _Wang Laboratories gift watch_                 | Analog quartz watch (3 hands)    | Late 1980s? |            | ~32mm         | ETA 561.101? (1j)    | SR721SW        | Dad's watch; broken                                   |
 
 ---
 

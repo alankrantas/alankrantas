@@ -1,10 +1,10 @@
 # Hello! I'm Alan Wang ✍️
 
-Currently working for a local luxury wristwatch magazine as an editor and advertorial writer.
+I have diverse experience in media, publishing, education, luxury fashion and information technology sectors, with primary professional skills in writing, editing and translation, including article/advertorial writing, copywriting, technical writing and social media content creation/editing, photography and video making. Published ~60 long-form works (translated, edited and authored).
 
-I had diverse experiences primary in publishing, education and software/information technology, with ~60 published works (translated, edited and authored) as well as versatile skills including content writing, English-Chinese translating, technical writing, copywriting, software engineering, embedded system, machine learning/deep learning (AI), digital/film photography and video making/editing.
+I had experience and skills in software engineering, embedded system prototyping as well as practical machine learning/deep learning, but currently not maintained up-to-date.
 
-I was also an amateur classical piano player, analog film photography hobbyist and STEM Maker enthusiast. I have self-taught basic mechanical watch movement servicing and already successfully repaired/serviced a few vintage watches.
+I was also an amateur classical piano player, analog film photography hobbyist and STEM Maker enthusiast. I have self-taught basic mechanical watch movement servicing and already successfully repaired/serviced several vintage watches.
 
 - [Homepage](https://alankrantas.github.io/) ([repo](https://github.com/alankrantas/alankrantas.github.io))
 - [LinkedIn](https://www.linkedin.com/in/alankrantas/)
